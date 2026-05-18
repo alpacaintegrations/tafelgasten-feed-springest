@@ -19,7 +19,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -48,7 +48,7 @@
   </Product>
   <Product>
     <ID>PP-020-sp</ID>
-    <Name>Effectief beïnvloeden in sales | Klanten betrekken en meekrijgen</Name>
+    <Name>Effectief beïnvloeden in sales (vervolg) | Nieuwe praktische technieken om klanten mee te krijgen</Name>
     <Description><![CDATA[<h2>Introductie</h2><p>Zonder dat we het beseffen, maken klanten veel keuzes razendsnel én onbewust. Die onbewuste keuzes zijn echter lang niet altijd de beste keuzes. Als je werkt met klanten, patienten of clienten weet je dat het soms heel lastig is om mensen te overtuigen, ook al lijkt de keuze soms simpel.</p><p>Als je weet hoe het brein werkt bij het maken van die keuzes, helpt dit in de contacten die je hebt met klanten. Bijvoorbeeld in een salesgesprek of bij het oplossen van klachten. Hoe dat precies werkt, leer je in deze training.</p><h2>Sessie 1: Beïnvloeden en overtuigen</h2><p>In de eerste sessie ga je aan de slag met een aantal verrassende inzichten uit de psychologie. Je leert een aantal praktische technieken op het gebied van beinvloeden en overtuigen die je meteen daarna kunt inzetten in jouw - schriftelijke én mondelinge - contacten met klanten, cliënten of opdrachtgevers.</p><h2>Sessie 2: Storytelling</h2><p>In de tweede sessie staat het thema ‘storytelling’ centraal. Verhalen roepen plaatjes én emoties op in ons brein. Daarmee is storytelling een krachtig wapen bij het beinvloeden van keuzes én werken ze verrassend goed bij het wegnemen van (onbewuste) weerstanden. In deze sessie leer je hoe je jouw propositie concreet kunt verpakken in een verhaal en/of metafoor.</p><h2>Sessie 3: Sociale psychologie en beïnvloedingsprincipes</h2><p>In de derde sessie zoomen we in op de inzichten uit de sociale psychologie. Je leert hoe je deze beinvloedingsprincipes concreet kunt inzetten in gesprekken met klanten en ze makkelijker meekrijgt. Daarbij kijken we ook naar de ethische aspecten van het inzetten van deze beinvloedingsprincipes.</p><h2>Leerdoelen</h2><ul><li>Weet je hoe het brein (onbewust) keuzes maakt</li><li>Heb je inzicht in de psychologische processen achter deze keuzes</li><li>Weet je hoe je deze psychologische processen kunt beïnvloeden</li><li>Weet je wat storytelling is en wat het doet in het brein van je klant</li><li>Kun je jouw propositie verpakken in een verhaal</li><li>Kun je de kracht van metaforen en woorden benutten om jouw impact te maximaliseren</li><li>Kun je de beïnvloedingsprincipes van Cialdini toepassen en klantgesprekken beter sturen</li></ul><h2>Doelgroep</h2><p>Deze training past uitstekend bij je als je je geïnteresseerd bent in hoe klanten, cliënten of opdrachtgevers keuzes maken én hoe je hen effectief kunt beinvloeden en overtuigen. Je impactfactor aan tafel of aan de telefoon gaat na het volgen van deze training gegarandeerd omhoog.</p><p>Ben je accountmanager? Dan ontdek je in deze training de geheimen van het menselijk brein, waardoor je effectiever kunt communiceren en krachtiger kunt beïnvloeden.</p><p>Werk je als inside sales? Dan leer je in deze training hoe je jouw propositie op een aantrekkelijke manier kunt verpakken en weerstanden van klanten kunt doorbreken.</p><h2>Opzet van dit programma</h2><p>Deze training bestaat uit 3 interactieve online sessies van 1,5 uur via Teams. Je leert van een ervaren trainer en je werkt samen met andere deelnemers in breakout rooms aan korte opdrachten. Zo leer je ook van elkaar!</p><h2>Onderwerpen</h2><ul><li>Alpha & Omega beïnvloedingstechnieken</li><li>Framing, priming en serial positioning effect</li><li>Storytelling</li><li>Storymaking</li><li>Beïnvloedingsprincipes Cialdini</li><li>Ethische aspecten van beïnvloeding</li></ul>]]></Description>
     <Images><ImageUrl>https://tafelgasten.com/app/uploads/2024/08/pexels-shvets-production-7203727-1024x683.jpg</ImageUrl></Images>
     <Language>nl</Language>
@@ -65,7 +65,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/effectief-beinvloeden-verdieping/</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -238,7 +238,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/persoonlijk-leiderschap-jouw-pad-naar-the-highlands/</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -448,7 +448,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/generatiemanagement-samenwerken-over-generaties-heen/</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -510,7 +510,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/sterk-in-je-werk-regie-veerkracht-professioneel-zelfvertrouwen/</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -522,7 +522,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
+          <AvailableSeats>11</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>rec6I7WZc2YaqUcOf-dag1</ID>
@@ -646,7 +646,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/ervaar-de-kracht-van-nlp/</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -856,7 +856,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -918,7 +918,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/vitaliteit-en-energiemanagement-online-training-in-3-sessies/</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -980,7 +980,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/oplossingsgericht-werken-ogw-van-probleem-naar-oplossing/</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -1079,7 +1079,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/strategisch-onderhandelen-de-harvard-methode-en-ai/</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -1178,7 +1178,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/getting-things-done-meer-focus-meer-gedaan-krijgen/</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -1314,7 +1314,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/diversiteit-gelijkheid-inclusie-verbeter-je-samenwerking-en-communicatie/</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -1433,7 +1433,7 @@
   </Product>
   <Product>
     <ID>PP-011-sp</ID>
-    <Name>Effectief beïnvloeden in sales (vervolg) | Nieuwe praktische technieken om klanten mee te krijgen</Name>
+    <Name>Effectief Beinvloeden in Sales | Klanten betrekken en meekrijgen</Name>
     <Description><![CDATA[<h2>Introductie</h2><p>Tijdens deze training gaan we dieper in op geavanceerde beïnvloedingstechnieken en wetenschappelijke inzichten die je helpen om klantgedrag subtiel te sturen. We onderzoeken de kracht van nudging, pre-suasion en lichamelijke ervaringen en hoe je deze kunt toepassen in je interacties met klanten. Door deze technieken te integreren, kun je nog effectiever worden in je rol en je impact verder vergroten.</p><h2>Sessie 1: Nudging en keuze-architectuur</h2><p>In de eerste sessie behandelen we het concept van nudging, geïntroduceerd door Richard Thaler en Cass Sunstein. Je leert hoe kleine aanpassingen in de keuze-architectuur grote effecten kunnen hebben op klantgedrag. We bespreken succesvolle nudging-voorbeelden uit verschillende sectoren en oefenen met het ontwerpen van eigen nudges die direct toepasbaar zijn in je werk.</p><h2>Sessie 2: Pre-Suasion en emotionele invloeden</h2><p>De tweede sessie richt zich op de principes uit "Pre-Suasion" van Robert Cialdini en de invloed van emoties op beslissingen. Je leert hoe je de aandacht van klanten kunt sturen vóórdat de boodschap wordt overgebracht, om zo hun ontvankelijkheid te vergroten. We onderzoeken emotionele triggers en sociale normen, en oefenen met technieken om pre-suasion toe te passen in klantgesprekken.</p><h2>Sessie 3: Lichamelijke ervaringen en geïntegreerde beïnvloeding</h2><p>In de laatste sessie combineren we de kennis uit de eerste twee sessies en integreren we inzichten uit o.a. Thalma Lobel's werk over hoe lichamelijke ervaringen de keuzes die mensen nemen beïnvloeden. Je leert hoe de fysieke omgeving en lichamelijke sensaties subtiel gedrag kunnen sturen. Ethische overwegingen en best practices voor het implementeren van deze technieken worden ook besproken.</p><h2>Leerdoelen</h2><ul><li>Inzicht in nudging en keuze-architectuur: begrijpen hoe kleine aanpassingen in de keuze-architectuur het klantgedrag kunnen beïnvloeden zonder hun keuzevrijheid te beperken, leren om effectieve nudges te ontwerpen en toe te passen in de dagelijkse praktijk</li><li>Begrip van pre-suasion en emotionele invloeden: ontwikkelen van vaardigheden om de aandacht van klanten te sturen vóórdat de boodschap wordt overgebracht, gebaseerd op Robert Cialdini's principes van pre-suasion, identificeren en toepassen van emotionele triggers en sociale normen om de ontvankelijkheid van klanten te vergroten</li><li>Integratie van lichamelijke ervaringen in beïnvloeding: inzicht krijgen in hoe lichamelijke ervaringen en de fysieke omgeving keuzes en gedrag van klanten subtiel kunnen sturen, geïnspireerd door het werk van Thalma Lobel, leren om fysieke en zintuiglijke aspecten effectief te integreren in klantinteracties</li><li>Toepassen van geavanceerde beïnvloedingstechnieken: integreren van nudging, pre-suasion, en lichamelijke ervaringen in een holistische beïnvloedingsstrategie, oefenen met en toepassen van deze technieken in realistische scenario's en klantgesprekken</li><li>Ethische overwegingen en best practices: bespreken en begrijpen van de ethische implicaties van het gebruik van beïnvloedingstechnieken, leren om deze technieken op een verantwoorde en effectieve manier te implementeren in de dagelijkse praktijk</li></ul><h2>Doelgroep</h2><p>Deze training past uitstekend bij je als je je geïnteresseerd bent in hoe klanten, cliënten of opdrachtgevers keuzes maken én hoe je hen effectief kunt beinvloeden en meerkrijgen. Je impactfactor aan tafel gaat na het volgen van deze training gegarandeerd omhoog.</p><p>Ben je accountmanager? Dan ontdek je in deze training de geheimen van het menselijk brein, waardoor je effectiever kunt communiceren en krachtiger kunt beïnvloeden. Je leert praktische technieken uit de psychologie die je direct kunt toepassen in je schriftelijke en mondelinge interacties met je klanten. Van het oplossen van klachten tot het sluiten van deals - verbeter jouw impact en vergroot het succes van jouw accountmanagement.</p><p>Werk je als inside sales? Dan leer je in deze training hoe je jouw propositie op een aantrekkelijke manier kunt verpakken en weerstanden van klanten kunt doorbreken. Met praktische inzichten uit de psychologie til je jouw inside salesgesprekken naar een hoger niveau en behaal je betere resultaten.</p><h2>Opzet van dit programma</h2><p>Deze training bestaat uit 3 interactieve online sessies van 1,5 uur via Teams. Je leert van een ervaren trainer en werkt samen met andere deelnemers in break-out rooms aan korte opdrachten, zodat je ook van elkaar leert.</p><h2>Onderwerpen</h2><ul><li>Nudging: theorie en praktijk</li><li>Keuze-architectuur</li><li>Pre-Suasion: aandacht en ontvankelijkheid</li><li>Emotionele en sociale invloeden op beslissingen</li><li>Lichamelijke ervaringen en gedragsbeïnvloeding</li><li>Geïntegreerde beïnvloedingstechnieken</li><li>Ethische aspecten van beïnvloeding</li></ul>]]></Description>
     <Images><ImageUrl>https://tafelgasten.com/app/uploads/2023/10/psychologie-1024x683.jpg</ImageUrl></Images>
     <Language>nl</Language>
@@ -1450,7 +1450,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/mini-serie-effectief-beinvloeden-in-sales/</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -1462,7 +1462,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>true</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>6</AvailableSeats>
+          <AvailableSeats>5</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recQYpTMznfDK5ONl-dag1</ID>
@@ -1660,7 +1660,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/mini-serie-insights-discovery-persoonlijke-effectiviteit/</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -1748,7 +1748,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/ai-tools-effectief-gebruiken-in-de-praktijk/</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -1958,7 +1958,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/ai-in-de-praktijk-slim-creatief-en-ethisch-werken-3-delige-online-cursus/</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -2131,7 +2131,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/time-management-slimmer-omgaan-met-je-tijd-en-je-e-mail-2/</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -2341,7 +2341,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/menselijk-leiderschap-in-een-ai-tijdperk-versterk-je-eq-sq-en-aq/</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -2551,7 +2551,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/spreekkuur-vertel-en-verbeter-jouw-verhaal/</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -2687,7 +2687,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/hypnotic-sales-effectieve-klantgesprekken-die-verbinden-en-overtuigen/</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -2897,7 +2897,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/persoonlijk-leiderschap-je-verborgen-potentieel-2/</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -3070,7 +3070,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -3169,7 +3169,7 @@
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/slimmer-met-ai-bouw-je-eigen-ai-assistent-zonder-technische-kennis/</WebAddress>
-    <ProductType>open</ProductType>
+    <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
