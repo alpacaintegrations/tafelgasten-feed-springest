@@ -20,7 +20,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -67,7 +66,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/effectief-beinvloeden-verdieping/</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -241,7 +239,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/persoonlijk-leiderschap-jouw-pad-naar-the-highlands/</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -452,7 +449,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/generatiemanagement-samenwerken-over-generaties-heen/</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -515,7 +511,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/sterk-in-je-werk-regie-veerkracht-professioneel-zelfvertrouwen/</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -652,7 +647,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/ervaar-de-kracht-van-nlp/</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -844,69 +838,6 @@
     
   </Product>
   <Product>
-    <ID>TT-112-sp</ID>
-    <Name>test nummer 3</Name>
-    <Description><![CDATA[<h2>Introductie</h2><p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p><h2>Sessie 1: Test sessie 1</h2><p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p><h2>Sessie 2: Test sessie 2</h2><p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p><h2>Sessie 3: Test sessie 3</h2><p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p><h2>Leerdoelen</h2><p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p><h2>Doelgroep</h2><p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p><h2>Opzet van dit programma</h2><p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>]]></Description>
-    
-    <Language>nl</Language>
-    <Price>0</Price>
-    <VatIncluded>no</VatIncluded>
-    <VatAmount>0</VatAmount>
-    <PricePeriod>all</PricePeriod>
-    <PriceComplete>true</PriceComplete>
-    <CourseType>training</CourseType>
-    <Duration>3</Duration>
-    <DurationUnit>weeks</DurationUnit>
-    <Studyload>99</Studyload>
-    <StudyloadUnit>hours</StudyloadUnit>
-    <Completion>Certificaat</Completion>
-    <MaxParticipants>12</MaxParticipants>
-    <WebAddress>https://tafelgasten.com</WebAddress>
-    <ProductType>classroom</ProductType>
-    <Group>false</Group>
-    <Level>HBO</Level>
-    <StartingDatePlaces>
-        <StartingDatePlace>
-          <ID>rec7gd5wQLtZCkmbB</ID>
-          <Startdate>2026-12-04</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-12-18</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>rec7gd5wQLtZCkmbB-dag1</ID>
-              <Date>2026-12-04</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>rec7gd5wQLtZCkmbB-dag2</ID>
-              <Date>2026-12-11</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>rec7gd5wQLtZCkmbB-dag3</ID>
-              <Date>2026-12-18</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-    </StartingDatePlaces>
-    
-  </Product>
-  <Product>
     <ID>PP-010-sp</ID>
     <Name>Vitaliteit | In 3 stappen van bewustzijn naar duurzame acties</Name>
     <Description><![CDATA[<h2>Introductie</h2><p>Je wilt goed presteren, helder blijven denken, veerkrachtig omgaan met druk én genoeg energie overhouden voor de mensen en dingen die belangrijk voor je zijn. Vitaliteit helpt je daarbij. Niet door meer te doen, maar door bewuster te kiezen.</p><p>Vitaliteit = Energie × Veerkracht × Betekenis.<br/>Het is de optelsom van hoe je fysiek, mentaal en emotioneel voor jezelf zorgt én hoe je jouw werk en leven invult vanuit wat voor jou waardevol is. Niet alleen gezond zijn dus, maar je levendig, krachtig en betrokken voelen — op het werk én daarbuiten.</p><p>In deze 3-luik versterk je jouw vitaliteit stap voor stap. Je ontdekt hoe je jouw energie opbouwt, hoe je beter omgaat met druk en prikkels, en hoe je keuzes maakt die echt bij jou passen. We werken met drie heldere stappen:</p><p>Herkennen → Regelen → Richting</p><p>Elke sessie is interactief, praktisch en direct toepasbaar. Tussen de sessies door gebruik je de Vitaliteit Scan, zodat je inzicht krijgt in waar je staat, wat je kunt versterken en welke route jou vooruithelpt.</p><h2>Sessie 1: Herkennen</h2><p>Begrijp je stresssysteem & je automatische patronen</p><p>Je duikt in de basis van je brein, zenuwstelsel en energiehuishouding. Je ontdekt hoe jouw automatische reacties en copingstijlen je dag sturen. En hoe je stress-signalen tijdig herkent. Je leert eenvoudige technieken om binnen minuten te reguleren en je energiebalans te herstellen.</p><p>Resultaat: meer bewustzijn, meer rust, meer regie.</p><h2>Sessie 2: Regelen</h2><p>Van overleven naar doelgericht en veerkrachtig werken</p><p>In deze sessie zet je de stap van inzicht naar actie. Je onderzoekt jouw energiegevers en energievreters, leert betere keuzes maken onder druk en ontwikkelt gewoontes die je energie op lange termijn versterken. Je ontdekt hoe je focus houdt in een wereld vol afleiding en hoe je grenzen stelt zonder schuldgevoel.</p><p>Resultaat: meer focus, betere grenzen, meer grip op je werkdag.</p><h2>Sessie 3: Richting</h2><p>Betekenisvol leven & werken vanuit je waarden</p><p>Wat drijft jou echt? En leef en werk je daar ook naar? In deze sessie onderzoek je jouw waarden en hoe ze richting geven aan je energie, keuzes en gedrag. Je ontdekt hoe motivatie, waardering en zingeving directe brandstof zijn voor duurzame vitaliteit. En hoe je een leefstijl bouwt die dat ondersteunt.</p><p>Resultaat: meer richting, meer motivatie, meer betekenis.</p><h2>Leerdoelen</h2><ul><li>Bewustwording van je energie, stresssysteem en automatische patronen</li><li>Het versterken van fysieke, mentale en emotionele balans</li><li>Het herkennen en managen van energielekken en -gevers</li><li>Beter omgaan met druk, prikkels en hoge verwachtingen</li><li>Het opbouwen van kleine, haalbare gewoontes die écht blijven hangen</li><li>Meer focus, regie en veerkracht in je werkdag</li><li>Het ontdekken van jouw waarden en wat jou betekenis en motivatie geeft</li><li>Leven en werken vanuit bewuste keuzes die bij jou passen</li></ul><h2>Doelgroep</h2><p>Deze training past uitstekend bij je als je elke dag op een hoog niveau wilt presteren zonder hierop leeg te lopen. En op zoek bent naar inzichten en praktische handvatten waarmee je presteren, gezondheid en (werk)geluk op een gezonde manier kunt combineren.</p><h2>Opzet van dit programma</h2><p>Deze training bestaat uit 3 interactieve online sessies van 1,5 uur via Teams. Je leert van een trainer en je werkt samen met andere deelnemers in breakout rooms aan korte opdrachten. Zo leer je ook van elkaar.</p><h2>Onderwerpen</h2><ul><li>Hoe jouw stresssysteem werkt (brein, zenuwstelsel, hormonen & automatische reacties)</li><li>Copingstijlen en patronen</li><li>Herkennen van energielekken</li><li>Reguleren van spanning en stress</li><li>Energiegevers & energievreters</li><li>Focus en prikkelmanagement</li><li>Bouwen aan duurzame gewoontes</li><li>Waarden & motivatiebronnen</li><li>Zingeving en betrokkenheid</li><li>Persoonlijk energiemanagement</li><li>De Vitaliteit Scan</li></ul>]]></Description>
@@ -926,7 +857,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/vitaliteit-en-energiemanagement-online-training-in-3-sessies/</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -989,7 +919,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/oplossingsgericht-werken-ogw-van-probleem-naar-oplossing/</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -1089,7 +1018,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/strategisch-onderhandelen-de-harvard-methode-en-ai/</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -1189,7 +1117,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/getting-things-done-meer-focus-meer-gedaan-krijgen/</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -1326,7 +1253,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/diversiteit-gelijkheid-inclusie-verbeter-je-samenwerking-en-communicatie/</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -1463,7 +1389,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/mini-serie-effectief-beinvloeden-in-sales/</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -1674,7 +1599,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/mini-serie-insights-discovery-persoonlijke-effectiviteit/</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -1763,7 +1687,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/ai-tools-effectief-gebruiken-in-de-praktijk/</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -1974,7 +1897,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/ai-in-de-praktijk-slim-creatief-en-ethisch-werken-3-delige-online-cursus/</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -2148,7 +2070,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/time-management-slimmer-omgaan-met-je-tijd-en-je-e-mail-2/</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -2359,7 +2280,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/menselijk-leiderschap-in-een-ai-tijdperk-versterk-je-eq-sq-en-aq/</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -2570,7 +2490,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/spreekkuur-vertel-en-verbeter-jouw-verhaal/</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -2707,7 +2626,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/hypnotic-sales-effectieve-klantgesprekken-die-verbinden-en-overtuigen/</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -2918,7 +2836,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/persoonlijk-leiderschap-je-verborgen-potentieel-2/</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -3092,7 +3009,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
@@ -3192,7 +3108,6 @@
     <MaxParticipants>12</MaxParticipants>
     <WebAddress>https://tafelgasten.com/online-trainingen/slimmer-met-ai-bouw-je-eigen-ai-assistent-zonder-technische-kennis/</WebAddress>
     <ProductType>classroom</ProductType>
-    <Group>false</Group>
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
