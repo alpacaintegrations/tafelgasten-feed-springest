@@ -44,7 +44,11 @@
           </Schedule>
         </StartingDatePlace>
     </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>ferry@talkable.nl</Email>
+      </Trainer>
+    </Trainers>
   </Product>
   <Product>
     <ID>PP-020-sp</ID>
@@ -77,7 +81,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
+          <AvailableSeats>11</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>rec8Urk3BAgeNsjKu-dag1</ID>
@@ -114,7 +118,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
+          <AvailableSeats>11</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recAbvHr1CQomP2AQ-dag1</ID>
@@ -217,7 +221,11 @@
           </Schedule>
         </StartingDatePlace>
     </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>stefan.renkema@tafelgasten.com</Email>
+      </Trainer>
+    </Trainers>
   </Product>
   <Product>
     <ID>PP-018-sp</ID>
@@ -241,43 +249,6 @@
     <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
-        <StartingDatePlace>
-          <ID>rec2Wg5iyh8Gckiqm</ID>
-          <Startdate>2026-05-19</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-06-02</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>rec2Wg5iyh8Gckiqm-dag1</ID>
-              <Date>2026-05-19</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>rec2Wg5iyh8Gckiqm-dag2</ID>
-              <Date>2026-05-26</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>rec2Wg5iyh8Gckiqm-dag3</ID>
-              <Date>2026-06-02</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
         <StartingDatePlace>
           <ID>rec87PFOAbNgPnVwA</ID>
           <Startdate>2026-10-29</Startdate>
@@ -427,69 +398,11 @@
           </Schedule>
         </StartingDatePlace>
     </StartingDatePlaces>
-    
-  </Product>
-  <Product>
-    <ID>PP-022-sp</ID>
-    <Name>Generatiemanagement | Effectief communiceren met andere generaties</Name>
-    <Description><![CDATA[<h2>Introductie</h2><p>In de snel veranderende werkomgeving werk je hoogstwaarschijnlijk zij aan zij met collega’s uit verschillende generaties. Elke generatie brengt unieke waarden, communicatiestijlen en werkethiek met zich mee. Deze diversiteit kan een bron van kracht zijn, maar is vaker een bron van onbegrip. Door deze training te volgen krijg je een helder beeld van de kenmerken, drijfveren en werkstijlen van de Babyboomers, Generatie X, de Pragmatische Generatie, Millennials (Generatie Y) en Generatie Z.</p><p>Je gaat aan de slag met concrete tools en strategieën om effectief te communiceren en samen te werken met collega’s van verschillende generaties. Het helpt je om je beter in te leven in jongvolwassenen, waardoor je beter met hen kunt omgaan. Bovendien leer je hoe je een verbindende rol kunt spelen en een werkomgeving kunt creëren waarin verschillende generaties zich gewaardeerd en gemotiveerd voelen. Deze vaardigheden zijn niet alleen nuttig op de werkvloer, maar ook in je privéleven, waardoor je beter kunt omgaan met generatieverschillen in persoonlijke relaties.</p><h2>Sessie 1: Begrip van generaties op de werkvloer</h2><p>In deze sessie wordt generatiemanagement geïntroduceerd, waarbij de nadruk ligt op waarom het belangrijk is en welke voordelen het biedt. Je krijgt gedetailleerde profielen van verschillende generaties, waaronder Babyboomers, Generatie X, de Pragmatische Generatie, Millennials en Generatie Z. Er wordt een praktische oefening uitgevoerd waarin kleine groepen de kenmerken en drijfveren van elke generatie in kaart brengen.</p><h2>Sessie 2: Communicatie en samenwerking over generaties heen</h2><p>Deze sessie richt zich op de verschillende communicatiestijlen per generatie en hoe je jouw communicatiestijl kunt aanpassen voor betere samenwerking. Er worden strategieën besproken voor het bevorderen van intergenerationele samenwerking. In de sessie zitten ook praktische oefeningen om effectieve communicatie en samenwerking te oefenen.</p><h2>Sessie 3: Implementatie van generatiemanagement</h2><p>In de laatste sessie evalueren de deelnemers het huidige generatiemanagement binnen hun organisatie. Er wordt een kort actieplan ontwikkeld hoe jij generatiemanagement beter kan integreren in je dagelijkse werk en privé-leven. Tot slot worden case studies besproken met best practices en lessen van andere organisaties.</p><h2>Leerdoelen</h2><ul><li>Begrijp je waarom generatiemanagement belangrijk is en welke voordelen het biedt.</li><li>Heb je kennis van de unieke kenmerken, drijfveren en werkstijlen van verschillende generaties.</li><li>Weet je hoe je je communicatiestijl kunt aanpassen om beter samen te werken met collega’s van verschillende generaties.</li><li>Heb je strategieën en best practices ontwikkeld voor het bevorderen van intergenerationele samenwerking.</li><li>Heb je effectieve communicatie- en samenwerkingsvaardigheden geoefend door middel van praktische oefeningen en rollenspellen.</li><li>Kun je de huidige generatiemanagementpraktijken binnen je organisatie evalueren.</li><li>Heb je een actieplan ontwikkeld om generatiemanagement effectief te integreren in je dagelijkse werk.</li><li>Heb je je vermogen versterkt om je in te leven in jongvolwassenen en collega’s van verschillende generaties.</li><li>Kun je de geleerde vaardigheden toepassen om beter om te gaan met generatieverschillen in persoonlijke relaties en situaties buiten het werk.</li></ul><h2>Doelgroep</h2><p>Deze training past goed bij je als je werkt in diverse teams en je meer wilt leren over hoe je het beste uit elke generatie kunt halen. Of je nu een teamlid, teamleider of manager bent, deze training biedt waardevolle inzichten en praktische strategieën om je samenwerking te verbeteren en een inclusieve werkomgeving te creëren.</p><h2>Opzet van dit programma</h2><p>Deze training bestaat uit 3 interactieve online sessies van 1,5 uur via Teams. Je leert van een ervaren trainer en je werkt samen met andere deelnemers in breakout rooms aan korte opdrachten. Zo leer je ook van elkaar.</p><h2>Onderwerpen</h2><p>Sessie 1: Begrip van generaties op de werkvloer<br/>- Introductie van generatiemanagement: waarom is het belangrijk? Wat zijn de voordelen?<br/>- Kenmerken van elke generatie: gedetailleerde profielen van Babyboomers, Generatie X, de Pragmatische Generatie, Millennials, en Generatie Z.<br/>- Praktische oefening: in kleine groepen aan de slag om de kenmerken en drijfveren van elke generatie in kaart te brengen.</p><p>Sessie 2: Communicatie en samenwerking over generaties heen<br/>- Communicatiestijlen per generatie: Hoe kun je je communicatiestijl aanpassen voor betere samenwerking?<br/>- Strategieën voor samenwerking: best practices voor het bevorderen van intergenerationele samenwerking.<br/>- Praktische oefening: bijvoorbeeld een kort rollenspel om effectieve communicatie en samenwerking te oefenen.</p><p>Sessie 3: Implementatie van generatiemanagement<br/>- Evaluatie van huidige aanpak: analyseren van de huidige generatiemanagement-praktijken binnen jouw organisatie.<br/>- Ontwikkelen van een kort actieplan: hoe kun generatiemanagement integreren in je dagelijkse werk?.<br/>- Case Studies: best practices en lessen van andere organisaties.</p>]]></Description>
-    <Images><ImageUrl>https://tafelgasten.com/app/uploads/2024/08/pexels-rdne-7605923-683x1024.jpg</ImageUrl></Images>
-    <Language>nl</Language>
-    <Price>525</Price>
-    <VatIncluded>no</VatIncluded>
-    <VatAmount>110.25</VatAmount>
-    <PricePeriod>all</PricePeriod>
-    <PriceComplete>true</PriceComplete>
-    <CourseType>training</CourseType>
-    <Duration>3</Duration>
-    <DurationUnit>weeks</DurationUnit>
-    <Studyload>6</Studyload>
-    <StudyloadUnit>hours</StudyloadUnit>
-    <Completion>Certificaat</Completion>
-    <MaxParticipants>12</MaxParticipants>
-    <WebAddress>https://tafelgasten.com/online-trainingen/generatiemanagement-samenwerken-over-generaties-heen/</WebAddress>
-    <ProductType>classroom</ProductType>
-    <Level>HBO</Level>
-    <StartingDatePlaces>
-        <StartingDatePlace>
-          <ID>recsExUoYzg21a6zg</ID>
-          <Startdate>2026-05-12</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-05-26</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recsExUoYzg21a6zg-dag1</ID>
-              <Date>2026-05-12</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>09:30</StartTime>
-              <EndTime>11:00</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recsExUoYzg21a6zg-dag2</ID>
-              <Date>2026-05-19</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>09:30</StartTime>
-              <EndTime>11:00</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recsExUoYzg21a6zg-dag3</ID>
-              <Date>2026-05-26</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>09:30</StartTime>
-              <EndTime>11:00</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-    </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>nikaj.junte@tafelgasten.com</Email>
+      </Trainer>
+    </Trainers>
   </Product>
   <Product>
     <ID>PP-003-sp</ID>
@@ -625,7 +538,14 @@
           </Schedule>
         </StartingDatePlace>
     </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>k.gallo@kpnmail.nl</Email>
+      </Trainer>
+      <Trainer>
+        <Email>nikaj.junte@tafelgasten.com</Email>
+      </Trainer>
+    </Trainers>
   </Product>
   <Product>
     <ID>PP-012-sp</ID>
@@ -797,45 +717,78 @@
             </CourseDay>
           </Schedule>
         </StartingDatePlace>
+    </StartingDatePlaces>
+    <Trainers>
+      <Trainer>
+        <Email>rene@vanstein.nl</Email>
+      </Trainer>
+    </Trainers>
+  </Product>
+  <Product>
+    <ID>TT-112-sp</ID>
+    <Name>test nummer 3</Name>
+    <Description><![CDATA[<h2>Introductie</h2><p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p><h2>Sessie 1: Test sessie 1</h2><p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p><h2>Sessie 2: Test sessie 2</h2><p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p><h2>Sessie 3: Test sessie 3</h2><p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p><h2>Leerdoelen</h2><p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p><h2>Doelgroep</h2><p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p><h2>Opzet van dit programma</h2><p>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>]]></Description>
+    
+    <Language>nl</Language>
+    <Price>0</Price>
+    <VatIncluded>no</VatIncluded>
+    <VatAmount>0</VatAmount>
+    <PricePeriod>all</PricePeriod>
+    <PriceComplete>true</PriceComplete>
+    <CourseType>training</CourseType>
+    <Duration>3</Duration>
+    <DurationUnit>weeks</DurationUnit>
+    <Studyload>99</Studyload>
+    <StudyloadUnit>hours</StudyloadUnit>
+    <Completion>Certificaat</Completion>
+    <MaxParticipants>12</MaxParticipants>
+    <WebAddress>https://tafelgasten.com</WebAddress>
+    <ProductType>classroom</ProductType>
+    <Level>HBO</Level>
+    <StartingDatePlaces>
         <StartingDatePlace>
-          <ID>recxKYicFYCB7ZOXE</ID>
-          <Startdate>2026-05-12</Startdate>
+          <ID>rec6eS5SD3lizOHoQ</ID>
+          <Startdate>2026-06-04</Startdate>
           <Place>Online</Place>
           <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-05-26</Enddate>
+          <Enddate>2026-06-14</Enddate>
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
           <AvailableSeats>12</AvailableSeats>
           <Schedule>
             <CourseDay>
-              <ID>recxKYicFYCB7ZOXE-dag1</ID>
-              <Date>2026-05-12</Date>
+              <ID>rec6eS5SD3lizOHoQ-dag1</ID>
+              <Date>2026-06-04</Date>
               <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
+              <StartTime>10:30</StartTime>
+              <EndTime>12:00</EndTime>
               <Place>Online</Place>
             </CourseDay>
             <CourseDay>
-              <ID>recxKYicFYCB7ZOXE-dag2</ID>
-              <Date>2026-05-19</Date>
+              <ID>rec6eS5SD3lizOHoQ-dag2</ID>
+              <Date>2026-06-07</Date>
               <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
+              <StartTime>10:30</StartTime>
+              <EndTime>12:00</EndTime>
               <Place>Online</Place>
             </CourseDay>
             <CourseDay>
-              <ID>recxKYicFYCB7ZOXE-dag3</ID>
-              <Date>2026-05-26</Date>
+              <ID>rec6eS5SD3lizOHoQ-dag3</ID>
+              <Date>2026-06-14</Date>
               <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
+              <StartTime>10:30</StartTime>
+              <EndTime>12:00</EndTime>
               <Place>Online</Place>
             </CourseDay>
           </Schedule>
         </StartingDatePlace>
     </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>hjemj85@gmail.com</Email>
+      </Trainer>
+    </Trainers>
   </Product>
   <Product>
     <ID>PP-010-sp</ID>
@@ -896,8 +849,86 @@
             </CourseDay>
           </Schedule>
         </StartingDatePlace>
+        <StartingDatePlace>
+          <ID>recl1Lf33RdRtmicB</ID>
+          <Startdate>2026-11-11</Startdate>
+          <Place>Online</Place>
+          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
+          <Enddate>2026-11-25</Enddate>
+          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
+          <StartGuaranteed>false</StartGuaranteed>
+          <MaxNumberOfSeats>12</MaxNumberOfSeats>
+          <AvailableSeats>12</AvailableSeats>
+          <Schedule>
+            <CourseDay>
+              <ID>recl1Lf33RdRtmicB-dag1</ID>
+              <Date>2026-11-11</Date>
+              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recl1Lf33RdRtmicB-dag2</ID>
+              <Date>2026-11-18</Date>
+              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recl1Lf33RdRtmicB-dag3</ID>
+              <Date>2026-11-25</Date>
+              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+          </Schedule>
+        </StartingDatePlace>
+        <StartingDatePlace>
+          <ID>recudWIQWW3XThisp</ID>
+          <Startdate>2026-09-23</Startdate>
+          <Place>Online</Place>
+          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
+          <Enddate>2026-10-07</Enddate>
+          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
+          <StartGuaranteed>false</StartGuaranteed>
+          <MaxNumberOfSeats>12</MaxNumberOfSeats>
+          <AvailableSeats>12</AvailableSeats>
+          <Schedule>
+            <CourseDay>
+              <ID>recudWIQWW3XThisp-dag1</ID>
+              <Date>2026-09-23</Date>
+              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recudWIQWW3XThisp-dag2</ID>
+              <Date>2026-09-30</Date>
+              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recudWIQWW3XThisp-dag3</ID>
+              <Date>2026-10-07</Date>
+              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+          </Schedule>
+        </StartingDatePlace>
     </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>trixvanhest@gmail.com</Email>
+      </Trainer>
+    </Trainers>
   </Product>
   <Product>
     <ID>PP-028-sp</ID>
@@ -996,7 +1027,11 @@
           </Schedule>
         </StartingDatePlace>
     </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>rene@vanstein.nl</Email>
+      </Trainer>
+    </Trainers>
   </Product>
   <Product>
     <ID>PP-024-sp</ID>
@@ -1029,7 +1064,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>11</AvailableSeats>
+          <AvailableSeats>10</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recKbmJN5t7jLMBWf-dag1</ID>
@@ -1057,45 +1092,12 @@
             </CourseDay>
           </Schedule>
         </StartingDatePlace>
-        <StartingDatePlace>
-          <ID>recboHBWsHJuZuXk8</ID>
-          <Startdate>2026-05-12</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-05-26</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recboHBWsHJuZuXk8-dag1</ID>
-              <Date>2026-05-12</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recboHBWsHJuZuXk8-dag2</ID>
-              <Date>2026-05-19</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recboHBWsHJuZuXk8-dag3</ID>
-              <Date>2026-05-26</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
     </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>Ben.mastboom@salesleadershipacademy.org</Email>
+      </Trainer>
+    </Trainers>
   </Product>
   <Product>
     <ID>PP-021-sp</ID>
@@ -1119,43 +1121,6 @@
     <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
-        <StartingDatePlace>
-          <ID>recD0dt9XYuq6mIjM</ID>
-          <Startdate>2026-05-14</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-05-28</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recD0dt9XYuq6mIjM-dag1</ID>
-              <Date>2026-05-14</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recD0dt9XYuq6mIjM-dag2</ID>
-              <Date>2026-05-21</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recD0dt9XYuq6mIjM-dag3</ID>
-              <Date>2026-05-28</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
         <StartingDatePlace>
           <ID>recSzqcUIUFp2dTXf</ID>
           <Startdate>2026-11-12</Startdate>
@@ -1231,7 +1196,11 @@
           </Schedule>
         </StartingDatePlace>
     </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>ferry@talkable.nl</Email>
+      </Trainer>
+    </Trainers>
   </Product>
   <Product>
     <ID>PP-023-sp</ID>
@@ -1367,7 +1336,14 @@
           </Schedule>
         </StartingDatePlace>
     </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>milouweekers21@gmail.com</Email>
+      </Trainer>
+      <Trainer>
+        <Email>hallo@burolisa.nl</Email>
+      </Trainer>
+    </Trainers>
   </Product>
   <Product>
     <ID>PP-011-sp</ID>
@@ -1466,43 +1442,6 @@
           </Schedule>
         </StartingDatePlace>
         <StartingDatePlace>
-          <ID>recXiUHk0dRYzgXKE</ID>
-          <Startdate>2026-05-19</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-06-02</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recXiUHk0dRYzgXKE-dag1</ID>
-              <Date>2026-05-19</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>19:00</StartTime>
-              <EndTime>20:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recXiUHk0dRYzgXKE-dag2</ID>
-              <Date>2026-05-26</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>19:00</StartTime>
-              <EndTime>20:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recXiUHk0dRYzgXKE-dag3</ID>
-              <Date>2026-06-02</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>19:00</StartTime>
-              <EndTime>20:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-        <StartingDatePlace>
           <ID>recZy4ixu9UpYIa4n</ID>
           <Startdate>2026-11-30</Startdate>
           <Place>Online</Place>
@@ -1577,7 +1516,11 @@
           </Schedule>
         </StartingDatePlace>
     </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>stefan.renkema@tafelgasten.com</Email>
+      </Trainer>
+    </Trainers>
   </Product>
   <Product>
     <ID>PP-006-sp</ID>
@@ -1665,7 +1608,11 @@
           </Schedule>
         </StartingDatePlace>
     </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>ferry@talkable.nl</Email>
+      </Trainer>
+    </Trainers>
   </Product>
   <Product>
     <ID>PP-035-sp</ID>
@@ -1722,43 +1669,6 @@
               <Name lang="nl"><![CDATA[Sessie 3]]></Name>
               <StartTime>15:30</StartTime>
               <EndTime>17:00</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-        <StartingDatePlace>
-          <ID>recNIj2qCMrP9Smri</ID>
-          <Startdate>2026-05-12</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-05-26</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recNIj2qCMrP9Smri-dag1</ID>
-              <Date>2026-05-12</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>19:00</StartTime>
-              <EndTime>20:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recNIj2qCMrP9Smri-dag2</ID>
-              <Date>2026-05-19</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>19:00</StartTime>
-              <EndTime>20:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recNIj2qCMrP9Smri-dag3</ID>
-              <Date>2026-05-26</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>19:00</StartTime>
-              <EndTime>20:30</EndTime>
               <Place>Online</Place>
             </CourseDay>
           </Schedule>
@@ -1875,7 +1785,11 @@
           </Schedule>
         </StartingDatePlace>
     </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>philip@aiinsightsonline.com</Email>
+      </Trainer>
+    </Trainers>
   </Product>
   <Product>
     <ID>PP-027-sp</ID>
@@ -2048,7 +1962,17 @@
           </Schedule>
         </StartingDatePlace>
     </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>jasmijn@jasmijncommunicatie.nl</Email>
+      </Trainer>
+      <Trainer>
+        <Email>philip@aiinsightsonline.com</Email>
+      </Trainer>
+      <Trainer>
+        <Email>nick@nicklink.nl</Email>
+      </Trainer>
+    </Trainers>
   </Product>
   <Product>
     <ID>PP-002-sp</ID>
@@ -2220,45 +2144,15 @@
             </CourseDay>
           </Schedule>
         </StartingDatePlace>
-        <StartingDatePlace>
-          <ID>recw4xWWwygjXZiH4</ID>
-          <Startdate>2026-05-12</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-05-26</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recw4xWWwygjXZiH4-dag1</ID>
-              <Date>2026-05-12</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>09:30</StartTime>
-              <EndTime>11:00</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recw4xWWwygjXZiH4-dag2</ID>
-              <Date>2026-05-19</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>09:30</StartTime>
-              <EndTime>11:00</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recw4xWWwygjXZiH4-dag3</ID>
-              <Date>2026-05-26</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>09:30</StartTime>
-              <EndTime>11:00</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
     </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>simone@viastrada.nl</Email>
+      </Trainer>
+      <Trainer>
+        <Email>contact@diepwerkdoen.nl</Email>
+      </Trainer>
+    </Trainers>
   </Product>
   <Product>
     <ID>PP-030-sp</ID>
@@ -2328,7 +2222,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>11</AvailableSeats>
+          <AvailableSeats>9</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recLpaBDNQEocpkLz-dag1</ID>
@@ -2352,43 +2246,6 @@
               <Name lang="nl"><![CDATA[Sessie 3]]></Name>
               <StartTime>15:00</StartTime>
               <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-        <StartingDatePlace>
-          <ID>recL5Y7XflyaYsokY</ID>
-          <Startdate>2026-05-19</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-06-02</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recL5Y7XflyaYsokY-dag1</ID>
-              <Date>2026-05-19</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recL5Y7XflyaYsokY-dag2</ID>
-              <Date>2026-05-26</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recL5Y7XflyaYsokY-dag3</ID>
-              <Date>2026-06-02</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
               <Place>Online</Place>
             </CourseDay>
           </Schedule>
@@ -2468,7 +2325,11 @@
           </Schedule>
         </StartingDatePlace>
     </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>stefan.renkema@tafelgasten.com</Email>
+      </Trainer>
+    </Trainers>
   </Product>
   <Product>
     <ID>PP-034-sp</ID>
@@ -2604,7 +2465,11 @@
           </Schedule>
         </StartingDatePlace>
     </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>ferry@talkable.nl</Email>
+      </Trainer>
+    </Trainers>
   </Product>
   <Product>
     <ID>PP-029-sp</ID>
@@ -2776,45 +2641,12 @@
             </CourseDay>
           </Schedule>
         </StartingDatePlace>
-        <StartingDatePlace>
-          <ID>recy5fCWE3vSs9uzM</ID>
-          <Startdate>2026-05-19</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-06-02</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recy5fCWE3vSs9uzM-dag1</ID>
-              <Date>2026-05-19</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recy5fCWE3vSs9uzM-dag2</ID>
-              <Date>2026-05-26</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recy5fCWE3vSs9uzM-dag3</ID>
-              <Date>2026-06-02</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
     </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>stefan.renkema@tafelgasten.com</Email>
+      </Trainer>
+    </Trainers>
   </Product>
   <Product>
     <ID>PP-007-sp</ID>
@@ -2913,43 +2745,6 @@
           </Schedule>
         </StartingDatePlace>
         <StartingDatePlace>
-          <ID>reco8dPlhgLG4kG08</ID>
-          <Startdate>2026-05-13</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-05-27</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>reco8dPlhgLG4kG08-dag1</ID>
-              <Date>2026-05-13</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>reco8dPlhgLG4kG08-dag2</ID>
-              <Date>2026-05-20</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>reco8dPlhgLG4kG08-dag3</ID>
-              <Date>2026-05-27</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-        <StartingDatePlace>
           <ID>rectHZibJrL7VKOT5</ID>
           <Startdate>2026-06-16</Startdate>
           <Place>Online</Place>
@@ -2987,7 +2782,14 @@
           </Schedule>
         </StartingDatePlace>
     </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>trixvanhest@gmail.com</Email>
+      </Trainer>
+      <Trainer>
+        <Email>thijmen@2098.nl</Email>
+      </Trainer>
+    </Trainers>
   </Product>
   <Product>
     <ID>PP-041-sp</ID>
@@ -3086,7 +2888,11 @@
           </Schedule>
         </StartingDatePlace>
     </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>rene@vanstein.nl</Email>
+      </Trainer>
+    </Trainers>
   </Product>
   <Product>
     <ID>PP-040-sp</ID>
@@ -3110,43 +2916,6 @@
     <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
-        <StartingDatePlace>
-          <ID>rec16yRfMY8EMQchV</ID>
-          <Startdate>2026-05-12</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-05-27</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>rec16yRfMY8EMQchV-dag1</ID>
-              <Date>2026-05-12</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>rec16yRfMY8EMQchV-dag2</ID>
-              <Date>2026-05-19</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>rec16yRfMY8EMQchV-dag3</ID>
-              <Date>2026-05-27</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
         <StartingDatePlace>
           <ID>recBV6rKvOagXnq6P</ID>
           <Startdate>2026-09-21</Startdate>
@@ -3185,6 +2954,10 @@
           </Schedule>
         </StartingDatePlace>
     </StartingDatePlaces>
-    
+    <Trainers>
+      <Trainer>
+        <Email>jasmijn@jasmijncommunicatie.nl</Email>
+      </Trainer>
+    </Trainers>
   </Product>
 </Products>
