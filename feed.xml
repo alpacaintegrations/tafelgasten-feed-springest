@@ -442,6 +442,109 @@
     </Trainers>
   </Product>
   <Product>
+    <ID>PP-042-sp</ID>
+    <Name>Praktisch Leidinggeven vanuit de (Belbin) Teamrollen</Name>
+    <Description><![CDATA[<h2>Introductie</h2><p>Als leidinggevende werk je dagelijks met verschillende persoonlijkheden, talenten en werkstijlen. De één neemt vanzelf initiatief, terwijl de ander behoefte heeft aan meer richting. Sommige teams versterken elkaar, terwijl andere teams energie verliezen door misverstanden, irritaties of onduidelijke verwachtingen.</p><p>De Belbin-methodiek biedt een praktische manier om deze verschillen beter te begrijpen en productief te benutten.</p><p>Tijdens dit online drieluik ontdek je hoe teamrollen invloed hebben op samenwerking, communicatie en prestaties. Tussen de sessies door vertaal je de inzichten direct naar je eigen praktijk, zodat leren en toepassen hand in hand gaan.</p><h2>Opbouw van de training</h2><h2>Sessie 1 – Inzicht in Teamrollen</h2><p>Maak kennis met de negen Belbin Teamrollen en ontdek hoe verschillen in gedrag, kwaliteiten en voorkeuren invloed hebben op samenwerking. Je krijgt meer inzicht in jouw eigen rol en die van anderen binnen het team.</p><h2>Sessie 2 – Leidinggeven aan Verschillen</h2><p>Hoe benut je verschillen tussen medewerkers zonder dat ze leiden tot frustratie of misverstanden? In deze sessie vertaal je de Belbin-inzichten naar de dagelijkse praktijk van leidinggeven.</p><h2>Sessie 3 – Van Inzicht naar Actie</h2><p>In de laatste sessie breng je alle inzichten samen en onderzoek je hoe je deze kunt inzetten binnen jouw team. Je werkt aan praktische toepassingen die passen bij jouw eigen situatie.</p><h2>Onderwerpen</h2><p>Tijdens de training komen onder andere de volgende thema's aan bod:<br/>- De negen Belbin Teamrollen<br/>- Gedrag, kwaliteiten en valkuilen herkennen<br/>- Samenwerking en teamdynamiek<br/>- Verschillen tussen medewerkers benutten<br/>- Effectiever communiceren en leidinggeven<br/>- Talentontwikkeling binnen teams<br/>- Teamontwikkeling in de praktijk<br/>- Toepassing binnen jouw eigen werksituatie</p><h2>Wat levert deze training op?</h2><p>Na afloop heb je:<br/>- Meer inzicht in de verschillende teamrollen binnen teams<br/>- Beter begrip van gedrag, kwaliteiten en valkuilen van medewerkers<br/>- Handvatten om verschillen productiever te benutten<br/>- Meer grip op samenwerking en teamdynamiek<br/>- Praktische inzichten die je direct kunt toepassen in jouw eigen team</p><h2>Doelgroep</h2><p>Deze training is bedoeld voor leidinggevenden, teamleiders, coördinatoren, projectleiders en andere professionals die verantwoordelijk zijn voor het aansturen of ontwikkelen van teams.<br/>Ook HR-professionals, interne coaches en adviseurs die leidinggevenden begeleiden, halen waarde uit deze training.</p><h2>Resultaat</h2><p>Na afloop kijk je met een andere bril naar samenwerking binnen teams. Je begrijpt beter welke kwaliteiten mensen meebrengen, waar verschillen vandaan komen en hoe je deze effectiever kunt benutten.<br/>Hierdoor kun je gerichter sturen op samenwerking, talentontwikkeling en teamresultaat.</p><h2>Goed om te weten</h2><p>Deze training bestaat uit drie interactieve online sessies van 1,5 uur via Microsoft Teams.<br/>Tussen de sessies werk je met korte praktijkopdrachten binnen jouw eigen werksituatie. Hierdoor vertaal je de inzichten direct naar de praktijk en vergroot je het leerrendement.<br/>De training is ontwikkeld in samenwerking met Belbin Nederland en wordt verzorgd door Bas van Beijsterveld, specialist op het gebied van leiderschap, teamontwikkeling en Belbin Teamrollen.<br/>Een formeel Belbin-assessment is niet verplicht. Voor deelnemers die zich verder willen verdiepen, is een officieel Belbin-assessment optioneel beschikbaar.</p><h2>Certificaat</h2><p>Na afronding ontvang je een persoonlijk certificaat van deelname als bewijs van je deelname aan deze training.</p>]]></Description>
+    
+    <Language>nl</Language>
+    <Price>525</Price>
+    <VatIncluded>no</VatIncluded>
+    <VatAmount>110.25</VatAmount>
+    <PricePeriod>all</PricePeriod>
+    <PriceComplete>true</PriceComplete>
+    <CourseType>training</CourseType>
+    <Duration>3</Duration>
+    <DurationUnit>weeks</DurationUnit>
+    <Studyload>4.5</Studyload>
+    <StudyloadUnit>hours</StudyloadUnit>
+    <Completion>Certificaat</Completion>
+    <MaxParticipants>12</MaxParticipants>
+    <WebAddress>https://tafelgasten.com</WebAddress>
+    <ProductType>classroom</ProductType>
+    <Level>HBO</Level>
+    <StartingDatePlaces>
+        <StartingDatePlace>
+          <ID>rec6c7IJjl7o59uIX</ID>
+          <Startdate>2026-11-13</Startdate>
+          <Place>Online</Place>
+          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
+          <Enddate>2026-11-20</Enddate>
+          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
+          <StartGuaranteed>false</StartGuaranteed>
+          <MaxNumberOfSeats>12</MaxNumberOfSeats>
+          <AvailableSeats>12</AvailableSeats>
+          <Schedule>
+            <CourseDay>
+              <ID>rec6c7IJjl7o59uIX-dag1</ID>
+              <Date>2026-11-13</Date>
+              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>rec6c7IJjl7o59uIX-dag2</ID>
+              <Date>2026-11-20</Date>
+              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>rec6c7IJjl7o59uIX-dag3</ID>
+              <Date>2026-11-20</Date>
+              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+          </Schedule>
+        </StartingDatePlace>
+        <StartingDatePlace>
+          <ID>recJrBV2fiq1MnNsC</ID>
+          <Startdate>2026-09-24</Startdate>
+          <Place>Online</Place>
+          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
+          <Enddate>2026-10-08</Enddate>
+          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
+          <StartGuaranteed>false</StartGuaranteed>
+          <MaxNumberOfSeats>12</MaxNumberOfSeats>
+          <AvailableSeats>12</AvailableSeats>
+          <Schedule>
+            <CourseDay>
+              <ID>recJrBV2fiq1MnNsC-dag1</ID>
+              <Date>2026-09-24</Date>
+              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
+              <StartTime>19:30</StartTime>
+              <EndTime>21:00</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recJrBV2fiq1MnNsC-dag2</ID>
+              <Date>2026-10-01</Date>
+              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
+              <StartTime>19:30</StartTime>
+              <EndTime>21:00</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recJrBV2fiq1MnNsC-dag3</ID>
+              <Date>2026-10-08</Date>
+              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
+              <StartTime>19:30</StartTime>
+              <EndTime>21:00</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+          </Schedule>
+        </StartingDatePlace>
+    </StartingDatePlaces>
+    <Trainers>
+      <Trainer>
+        <Email>bas.van.beijsterveldt@belbin.nl</Email>
+      </Trainer>
+    </Trainers>
+  </Product>
+  <Product>
     <ID>PP-022-sp</ID>
     <Name>Generatiemanagement | Effectief communiceren met andere generaties</Name>
     <Description><![CDATA[<h2>Introductie</h2><p>In de snel veranderende werkomgeving werk je hoogstwaarschijnlijk zij aan zij met collega’s uit verschillende generaties. Elke generatie brengt unieke waarden, communicatiestijlen en werkethiek met zich mee. Deze diversiteit kan een bron van kracht zijn, maar is vaker een bron van onbegrip. Door deze training te volgen krijg je een helder beeld van de kenmerken, drijfveren en werkstijlen van de Babyboomers, Generatie X, de Pragmatische Generatie, Millennials (Generatie Y) en Generatie Z.</p><p>Je gaat aan de slag met concrete tools en strategieën om effectief te communiceren en samen te werken met collega’s van verschillende generaties. Het helpt je om je beter in te leven in jongvolwassenen, waardoor je beter met hen kunt omgaan. Bovendien leer je hoe je een verbindende rol kunt spelen en een werkomgeving kunt creëren waarin verschillende generaties zich gewaardeerd en gemotiveerd voelen. Deze vaardigheden zijn niet alleen nuttig op de werkvloer, maar ook in je privéleven, waardoor je beter kunt omgaan met generatieverschillen in persoonlijke relaties.</p><h2>Sessie 1: Begrip van generaties op de werkvloer</h2><p>In deze sessie wordt generatiemanagement geïntroduceerd, waarbij de nadruk ligt op waarom het belangrijk is en welke voordelen het biedt. Je krijgt gedetailleerde profielen van verschillende generaties, waaronder Babyboomers, Generatie X, de Pragmatische Generatie, Millennials en Generatie Z. Er wordt een praktische oefening uitgevoerd waarin kleine groepen de kenmerken en drijfveren van elke generatie in kaart brengen.</p><h2>Sessie 2: Communicatie en samenwerking over generaties heen</h2><p>Deze sessie richt zich op de verschillende communicatiestijlen per generatie en hoe je jouw communicatiestijl kunt aanpassen voor betere samenwerking. Er worden strategieën besproken voor het bevorderen van intergenerationele samenwerking. In de sessie zitten ook praktische oefeningen om effectieve communicatie en samenwerking te oefenen.</p><h2>Sessie 3: Implementatie van generatiemanagement</h2><p>In de laatste sessie evalueren de deelnemers het huidige generatiemanagement binnen hun organisatie. Er wordt een kort actieplan ontwikkeld hoe jij generatiemanagement beter kan integreren in je dagelijkse werk en privé-leven. Tot slot worden case studies besproken met best practices en lessen van andere organisaties.</p><h2>Onderwerpen</h2><p>Sessie 1: Begrip van generaties op de werkvloer<br/>- Introductie van generatiemanagement: waarom is het belangrijk? Wat zijn de voordelen?<br/>- Kenmerken van elke generatie: gedetailleerde profielen van Babyboomers, Generatie X, de Pragmatische Generatie, Millennials, en Generatie Z.<br/>- Praktische oefening: in kleine groepen aan de slag om de kenmerken en drijfveren van elke generatie in kaart te brengen.</p><p>Sessie 2: Communicatie en samenwerking over generaties heen<br/>- Communicatiestijlen per generatie: Hoe kun je je communicatiestijl aanpassen voor betere samenwerking?<br/>- Strategieën voor samenwerking: best practices voor het bevorderen van intergenerationele samenwerking.<br/>- Praktische oefening: bijvoorbeeld een kort rollenspel om effectieve communicatie en samenwerking te oefenen.</p><p>Sessie 3: Implementatie van generatiemanagement<br/>- Evaluatie van huidige aanpak: analyseren van de huidige generatiemanagement-praktijken binnen jouw organisatie.<br/>- Ontwikkelen van een kort actieplan: hoe kun generatiemanagement integreren in je dagelijkse werk?.<br/>- Case Studies: best practices en lessen van andere organisaties.</p><h2>Leerdoelen</h2><ul><li>Begrijp je waarom generatiemanagement belangrijk is en welke voordelen het biedt.</li><li>Heb je kennis van de unieke kenmerken, drijfveren en werkstijlen van verschillende generaties.</li><li>Weet je hoe je je communicatiestijl kunt aanpassen om beter samen te werken met collega’s van verschillende generaties.</li><li>Heb je strategieën en best practices ontwikkeld voor het bevorderen van intergenerationele samenwerking.</li><li>Heb je effectieve communicatie- en samenwerkingsvaardigheden geoefend door middel van praktische oefeningen en rollenspellen.</li><li>Kun je de huidige generatiemanagementpraktijken binnen je organisatie evalueren.</li><li>Heb je een actieplan ontwikkeld om generatiemanagement effectief te integreren in je dagelijkse werk.</li><li>Heb je je vermogen versterkt om je in te leven in jongvolwassenen en collega’s van verschillende generaties.</li><li>Kun je de geleerde vaardigheden toepassen om beter om te gaan met generatieverschillen in persoonlijke relaties en situaties buiten het werk.</li></ul><h2>Doelgroep</h2><p>Deze training past goed bij je als je werkt in diverse teams en je meer wilt leren over hoe je het beste uit elke generatie kunt halen. Of je nu een teamlid, teamleider of manager bent, deze training biedt waardevolle inzichten en praktische strategieën om je samenwerking te verbeteren en een inclusieve werkomgeving te creëren.</p><h2>Opzet van dit programma</h2><p>Deze training bestaat uit 3 interactieve online sessies van 1,5 uur via Teams. Je leert van een ervaren trainer en je werkt samen met andere deelnemers in breakout rooms aan korte opdrachten. Zo leer je ook van elkaar.</p>]]></Description>
@@ -2139,7 +2242,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>11</AvailableSeats>
+          <AvailableSeats>10</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recoCp6Tu1rrzzejA-dag1</ID>
@@ -2160,6 +2263,43 @@
             <CourseDay>
               <ID>recoCp6Tu1rrzzejA-dag3</ID>
               <Date>2026-10-01</Date>
+              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+          </Schedule>
+        </StartingDatePlace>
+        <StartingDatePlace>
+          <ID>recc7nRPK4ioVNoWC</ID>
+          <Startdate>2026-11-16</Startdate>
+          <Place>Online</Place>
+          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
+          <Enddate>2026-11-30</Enddate>
+          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
+          <StartGuaranteed>false</StartGuaranteed>
+          <MaxNumberOfSeats>12</MaxNumberOfSeats>
+          <AvailableSeats>12</AvailableSeats>
+          <Schedule>
+            <CourseDay>
+              <ID>recc7nRPK4ioVNoWC-dag1</ID>
+              <Date>2026-11-16</Date>
+              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recc7nRPK4ioVNoWC-dag2</ID>
+              <Date>2026-11-23</Date>
+              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recc7nRPK4ioVNoWC-dag3</ID>
+              <Date>2026-11-30</Date>
               <Name lang="nl"><![CDATA[Sessie 3]]></Name>
               <StartTime>09:00</StartTime>
               <EndTime>10:30</EndTime>
