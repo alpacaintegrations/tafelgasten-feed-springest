@@ -3234,7 +3234,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
+          <AvailableSeats>11</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recBV6rKvOagXnq6P-dag1</ID>
