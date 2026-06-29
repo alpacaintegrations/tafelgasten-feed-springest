@@ -118,7 +118,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>11</AvailableSeats>
+          <AvailableSeats>10</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recAbvHr1CQomP2AQ-dag1</ID>
@@ -1159,6 +1159,43 @@
           </Schedule>
         </StartingDatePlace>
         <StartingDatePlace>
+          <ID>reca4NFpDmcVzDrKw</ID>
+          <Startdate>2026-09-15</Startdate>
+          <Place>Online</Place>
+          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
+          <Enddate>2026-09-15</Enddate>
+          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
+          <StartGuaranteed>false</StartGuaranteed>
+          <MaxNumberOfSeats>12</MaxNumberOfSeats>
+          <AvailableSeats>11</AvailableSeats>
+          <Schedule>
+            <CourseDay>
+              <ID>reca4NFpDmcVzDrKw-dag1</ID>
+              <Date>2026-09-15</Date>
+              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
+              <StartTime>15:00</StartTime>
+              <EndTime>16:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>reca4NFpDmcVzDrKw-dag2</ID>
+              <Date>2026-09-22</Date>
+              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
+              <StartTime>15:00</StartTime>
+              <EndTime>16:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>reca4NFpDmcVzDrKw-dag3</ID>
+              <Date>2026-09-15</Date>
+              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
+              <StartTime>15:00</StartTime>
+              <EndTime>16:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+          </Schedule>
+        </StartingDatePlace>
+        <StartingDatePlace>
           <ID>recHqGpFuAHFavChi</ID>
           <Startdate>2026-11-23</Startdate>
           <Place>Online</Place>
@@ -1188,43 +1225,6 @@
             <CourseDay>
               <ID>recHqGpFuAHFavChi-dag3</ID>
               <Date>2026-12-07</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-        <StartingDatePlace>
-          <ID>reca4NFpDmcVzDrKw</ID>
-          <Startdate>2026-09-15</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-09-15</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>reca4NFpDmcVzDrKw-dag1</ID>
-              <Date>2026-09-15</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>reca4NFpDmcVzDrKw-dag2</ID>
-              <Date>2026-09-22</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>reca4NFpDmcVzDrKw-dag3</ID>
-              <Date>2026-09-15</Date>
               <Name lang="nl"><![CDATA[Sessie 3]]></Name>
               <StartTime>15:00</StartTime>
               <EndTime>16:30</EndTime>
@@ -1445,6 +1445,109 @@
       </Trainer>
       <Trainer>
         <Email>hallo@burolisa.nl</Email>
+      </Trainer>
+    </Trainers>
+  </Product>
+  <Product>
+    <ID>PP-005-sp</ID>
+    <Name>Growth mindset | Bouwen aan een positieve, groeigerichte mindset</Name>
+    <Description><![CDATA[<h2>Introductie</h2><p>De term _mindset_ verwijst naar de overtuigingen die je hebt over jezelf, je kwaliteiten en je mogelijkheden om te groeien. Die overtuigingen bepalen in hoge mate hoe je reageert op uitdagingen, feedback en tegenslagen. In deze training ontdek je hoe jouw mindset is ontstaan en hoe je deze bewust kunt ontwikkelen. Je krijgt praktische inzichten én direct toepasbare technieken om meer grip te krijgen op je gedrag, prestaties en persoonlijke groei.</p><h2>Sessie 1: Growth Mindset</h2><p>Tijdens de eerste sessie staat de _Growth Mindset_ centraal. Je krijgt inzicht in hoe jouw mindset is gevormd en welke rol overtuigingen en het ego hierin spelen. Je ontdekt welke patronen je helpen groeien en welke je juist afremmen. Daarnaast ga je concreet aan de slag met praktische 'knoppen' waaraan je zelf kunt draaien om jouw groeimindset verder te ontwikkelen.</p><h2>Sessie 2: Nieuwe neurale paden</h2><p>In de tweede sessie ontdek je hoe jouw brein nieuwe gewoonten aanleert en waarom goede voornemens vaak stranden. Je leert hoe je nieuwe neurale verbindingen versterkt en gedrag duurzaam verandert. Tijdens de sessie ga je hier direct mee aan de slag en werk je aan een persoonlijk plan waarmee je nieuwe routines daadwerkelijk volhoudt.</p><h2>Sessie 3: Mariniers Mindset</h2><p>In de derde sessie maak je kennis met de principes van de _Mariniers Mindset_. Je leert hoe je ook onder druk rustig blijft, effectief blijft handelen en je focus behoudt wanneer omstandigheden uitdagend zijn. Je krijgt praktische technieken aangereikt om zowel je brein als je lichaam tot rust te brengen, zodat je veerkrachtiger wordt en met meer vertrouwen moeilijke situaties tegemoet kunt treden.</p><h2>Onderwerpen</h2><ul><li>Growth Mindset</li><li>Nieuwe neurale paden</li><li>Prestatiepsychologie</li><li>Mariniers Mindset</li><li>Neurowetenschap</li><li>Mentale veerkracht</li></ul><h2>Leerdoelen</h2><p>Na afloop van deze training:<br/>- Weet je wat een _Growth Mindset_ is en waarom deze bijdraagt aan succes.<br/>- Begrijp je hoe jouw overtuigingen invloed hebben op je gedrag en prestaties.<br/>- Beschik je over praktische technieken om jouw groeimindset verder te ontwikkelen.<br/>- Weet je hoe je nieuwe gewoonten opbouwt en blijvend volhoudt.<br/>- Begrijp je hoe jouw brein nieuw gedrag aanleert.<br/>- Ken je de principes van de Mariniers Mindset.<br/>- Beschik je over concrete tools om ook onder druk rustig, veerkrachtig en doelgericht te blijven handelen.</p><h2>Doelgroep</h2><p>Deze training is geschikt voor professionals die zich persoonlijk willen ontwikkelen, beter willen omgaan met veranderingen en druk en op zoek zijn naar praktische handvatten om hun mindset, veerkracht en prestaties duurzaam te versterken.</p><h2>Opzet van dit programma</h2><p>Deze training bestaat uit **3 interactieve online sessies van 1,5 uur** via Microsoft Teams. Je leert van een ervaren trainer en werkt samen met andere deelnemers aan korte, praktijkgerichte opdrachten in breakout rooms. Zo vertaal je de theorie direct naar je eigen dagelijkse praktijk en leer je tegelijkertijd van de ervaringen van anderen.</p>]]></Description>
+    <Images><ImageUrl>https://tafelgasten.com/app/uploads/2024/02/pexels-koen-swiers-12685188-1024x683.jpg</ImageUrl></Images>
+    <Language>nl</Language>
+    <Price>525</Price>
+    <VatIncluded>no</VatIncluded>
+    <VatAmount>110.25</VatAmount>
+    <PricePeriod>all</PricePeriod>
+    <PriceComplete>true</PriceComplete>
+    <CourseType>training</CourseType>
+    <Duration>4</Duration>
+    <DurationUnit>weeks</DurationUnit>
+    <Studyload>8</Studyload>
+    <StudyloadUnit>hours</StudyloadUnit>
+    <Completion>Certificaat</Completion>
+    <MaxParticipants>12</MaxParticipants>
+    <WebAddress>https://tafelgasten.com/online-trainingen/growth-mindset-bouw-een-positieve-groeigerichte-mindset/</WebAddress>
+    <ProductType>classroom</ProductType>
+    <Level>HBO</Level>
+    <StartingDatePlaces>
+        <StartingDatePlace>
+          <ID>recHYOsyaKGzqBSW0</ID>
+          <Startdate>2026-09-03</Startdate>
+          <Place>Online</Place>
+          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
+          <Enddate>2026-09-17</Enddate>
+          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
+          <StartGuaranteed>false</StartGuaranteed>
+          <MaxNumberOfSeats>12</MaxNumberOfSeats>
+          <AvailableSeats>12</AvailableSeats>
+          <Schedule>
+            <CourseDay>
+              <ID>recHYOsyaKGzqBSW0-dag1</ID>
+              <Date>2026-09-03</Date>
+              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
+              <StartTime>12:30</StartTime>
+              <EndTime>14:00</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recHYOsyaKGzqBSW0-dag2</ID>
+              <Date>2026-09-10</Date>
+              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
+              <StartTime>12:30</StartTime>
+              <EndTime>14:00</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recHYOsyaKGzqBSW0-dag3</ID>
+              <Date>2026-09-17</Date>
+              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
+              <StartTime>12:30</StartTime>
+              <EndTime>14:00</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+          </Schedule>
+        </StartingDatePlace>
+        <StartingDatePlace>
+          <ID>recr9OuoRdvOoRhcY</ID>
+          <Startdate>2026-11-05</Startdate>
+          <Place>Online</Place>
+          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
+          <Enddate>2026-11-19</Enddate>
+          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
+          <StartGuaranteed>false</StartGuaranteed>
+          <MaxNumberOfSeats>12</MaxNumberOfSeats>
+          <AvailableSeats>12</AvailableSeats>
+          <Schedule>
+            <CourseDay>
+              <ID>recr9OuoRdvOoRhcY-dag1</ID>
+              <Date>2026-11-05</Date>
+              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
+              <StartTime>12:30</StartTime>
+              <EndTime>14:00</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recr9OuoRdvOoRhcY-dag2</ID>
+              <Date>2026-11-12</Date>
+              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
+              <StartTime>12:30</StartTime>
+              <EndTime>14:00</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recr9OuoRdvOoRhcY-dag3</ID>
+              <Date>2026-11-19</Date>
+              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
+              <StartTime>12:30</StartTime>
+              <EndTime>14:00</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+          </Schedule>
+        </StartingDatePlace>
+    </StartingDatePlaces>
+    <Trainers>
+      <Trainer>
+        <Email>stefan.renkema@tafelgasten.com</Email>
       </Trainer>
     </Trainers>
   </Product>
@@ -2383,7 +2486,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>true</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>8</AvailableSeats>
+          <AvailableSeats>7</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recLpaBDNQEocpkLz-dag1</ID>
@@ -2420,7 +2523,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>11</AvailableSeats>
+          <AvailableSeats>10</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recRj766Dijz50XTs-dag1</ID>
