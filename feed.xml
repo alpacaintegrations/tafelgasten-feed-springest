@@ -147,43 +147,6 @@
           </Schedule>
         </StartingDatePlace>
         <StartingDatePlace>
-          <ID>recJox8GL0GYbtJWX</ID>
-          <Startdate>2026-06-22</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-07-06</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recJox8GL0GYbtJWX-dag1</ID>
-              <Date>2026-06-22</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recJox8GL0GYbtJWX-dag2</ID>
-              <Date>2026-06-29</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recJox8GL0GYbtJWX-dag3</ID>
-              <Date>2026-07-06</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-        <StartingDatePlace>
           <ID>recdRC97K7jBNnm0I</ID>
           <Startdate>2026-11-26</Startdate>
           <Place>Online</Place>
@@ -444,7 +407,7 @@
   <Product>
     <ID>PP-042-sp</ID>
     <Name>Praktisch leidinggeven met Belbin teamrollen</Name>
-    <Description><![CDATA[<h2>Introductie</h2><p>Als leidinggevende werk je dagelijks met verschillende persoonlijkheden, talenten en werkstijlen. De één neemt vanzelf initiatief, terwijl de ander behoefte heeft aan meer richting. Sommige teams versterken elkaar, terwijl andere teams energie verliezen door misverstanden, irritaties of onduidelijke verwachtingen.</p><p>De Belbin-methodiek biedt een praktische manier om deze verschillen beter te begrijpen en productief te benutten.</p><p>Tijdens dit online drieluik ontdek je hoe teamrollen invloed hebben op samenwerking, communicatie en prestaties. Tussen de sessies door vertaal je de inzichten direct naar je eigen praktijk, zodat leren en toepassen hand in hand gaan.</p><h2>Opbouw van de training</h2><h2>Sessie 1 – Inzicht in Teamrollen</h2><p>Maak kennis met de negen Belbin Teamrollen en ontdek hoe verschillen in gedrag, kwaliteiten en voorkeuren invloed hebben op samenwerking. Je krijgt meer inzicht in jouw eigen rol en die van anderen binnen het team.</p><h2>Sessie 2 – Leidinggeven aan Verschillen</h2><p>Hoe benut je verschillen tussen medewerkers zonder dat ze leiden tot frustratie of misverstanden? In deze sessie vertaal je de Belbin-inzichten naar de dagelijkse praktijk van leidinggeven.</p><h2>Sessie 3 – Van Inzicht naar Actie</h2><p>In de laatste sessie breng je alle inzichten samen en onderzoek je hoe je deze kunt inzetten binnen jouw team. Je werkt aan praktische toepassingen die passen bij jouw eigen situatie.</p><h2>Onderwerpen</h2><p>Tijdens de training komen onder andere de volgende thema's aan bod:<br/>- De negen Belbin Teamrollen<br/>- Gedrag, kwaliteiten en valkuilen herkennen<br/>- Samenwerking en teamdynamiek<br/>- Verschillen tussen medewerkers benutten<br/>- Effectiever communiceren en leidinggeven<br/>- Talentontwikkeling binnen teams<br/>- Teamontwikkeling in de praktijk<br/>- Toepassing binnen jouw eigen werksituatie</p><h2>Wat levert deze training op?</h2><p>Na afloop heb je:<br/>- Meer inzicht in de verschillende teamrollen binnen teams<br/>- Beter begrip van gedrag, kwaliteiten en valkuilen van medewerkers<br/>- Handvatten om verschillen productiever te benutten<br/>- Meer grip op samenwerking en teamdynamiek<br/>- Praktische inzichten die je direct kunt toepassen in jouw eigen team</p><h2>Doelgroep</h2><p>Deze training is bedoeld voor leidinggevenden, teamleiders, coördinatoren, projectleiders en andere professionals die verantwoordelijk zijn voor het aansturen of ontwikkelen van teams.<br/>Ook HR-professionals, interne coaches en adviseurs die leidinggevenden begeleiden, halen waarde uit deze training.</p><h2>Resultaat</h2><p>Na afloop kijk je met een andere bril naar samenwerking binnen teams. Je begrijpt beter welke kwaliteiten mensen meebrengen, waar verschillen vandaan komen en hoe je deze effectiever kunt benutten.<br/>Hierdoor kun je gerichter sturen op samenwerking, talentontwikkeling en teamresultaat.</p><h2>Goed om te weten</h2><p>Deze training bestaat uit drie interactieve online sessies van 1,5 uur via Microsoft Teams.<br/>Tussen de sessies werk je met korte praktijkopdrachten binnen jouw eigen werksituatie. Hierdoor vertaal je de inzichten direct naar de praktijk en vergroot je het leerrendement.<br/>De training is ontwikkeld in samenwerking met Belbin Nederland en wordt verzorgd door Bas van Beijsterveld, specialist op het gebied van leiderschap, teamontwikkeling en Belbin Teamrollen.</p><h2>Certificaat</h2><p>Na afronding ontvang je een persoonlijk certificaat van deelname als bewijs van je deelname aan deze training.</p>]]></Description>
+    <Description><![CDATA[<h2>Introductie</h2><p>Als leidinggevende werk je dagelijks met verschillende persoonlijkheden, talenten en werkstijlen. De één neemt vanzelf initiatief, terwijl de ander behoefte heeft aan meer richting. Sommige teams versterken elkaar, terwijl andere teams energie verliezen door misverstanden, irritaties of onduidelijke verwachtingen.</p><p>De Belbin-methodiek biedt een praktische manier om deze verschillen beter te begrijpen en productief te benutten.</p><p>Tijdens dit online drieluik ontdek je hoe teamrollen invloed hebben op samenwerking, communicatie en prestaties. Tussen de sessies door vertaal je de inzichten direct naar je eigen praktijk, zodat leren en toepassen hand in hand gaan.</p><h2>Opbouw van de training</h2><h2>Sessie 1 – Inzicht in Teamrollen</h2><p>Maak kennis met de negen Belbin Teamrollen en ontdek hoe verschillen in gedrag, kwaliteiten en voorkeuren invloed hebben op samenwerking. Je krijgt meer inzicht in jouw eigen rol en die van anderen binnen het team.</p><h2>Sessie 2 – Leidinggeven aan Verschillen</h2><p>Hoe benut je verschillen tussen medewerkers zonder dat ze leiden tot frustratie of misverstanden? In deze sessie vertaal je de Belbin-inzichten naar de dagelijkse praktijk van leidinggeven.</p><h2>Sessie 3 – Van Inzicht naar Actie</h2><p>In de laatste sessie breng je alle inzichten samen en onderzoek je hoe je deze kunt inzetten binnen jouw team. Je werkt aan praktische toepassingen die passen bij jouw eigen situatie.</p><h2>Onderwerpen</h2><p>Tijdens de training komen onder andere de volgende thema's aan bod:<br/>- De negen Belbin Teamrollen<br/>- Gedrag, kwaliteiten en valkuilen herkennen<br/>- Samenwerking en teamdynamiek<br/>- Verschillen tussen medewerkers benutten<br/>- Effectiever communiceren en leidinggeven<br/>- Talentontwikkeling binnen teams<br/>- Teamontwikkeling in de praktijk<br/>- Toepassing binnen jouw eigen werksituatie</p><h2>Wat levert deze training op?</h2><p>Na afloop heb je:<br/>- Meer inzicht in de verschillende teamrollen binnen teams<br/>- Beter begrip van gedrag, kwaliteiten en valkuilen van medewerkers<br/>- Handvatten om verschillen productiever te benutten<br/>- Meer grip op samenwerking en teamdynamiek<br/>- Praktische inzichten die je direct kunt toepassen in jouw eigen team</p><h2>Doelgroep</h2><p>Deze training is bedoeld voor leidinggevenden, teamleiders, coördinatoren, projectleiders en andere professionals die verantwoordelijk zijn voor het aansturen of ontwikkelen van teams.<br/>Ook HR-professionals, interne coaches en adviseurs die leidinggevenden begeleiden, halen waarde uit deze training.</p><h2>Resultaat</h2><p>Na afloop kijk je met een andere bril naar samenwerking binnen teams. Je begrijpt beter welke kwaliteiten mensen meebrengen, waar verschillen vandaan komen en hoe je deze effectiever kunt benutten.<br/>Hierdoor kun je gerichter sturen op samenwerking, talentontwikkeling en teamresultaat.</p><h2>Goed om te weten</h2><p>Deze training bestaat uit drie interactieve online sessies van 1,5 uur via Microsoft Teams.<br/>Tussen de sessies werk je met korte praktijkopdrachten binnen jouw eigen werksituatie. Hierdoor vertaal je de inzichten direct naar de praktijk en vergroot je het leerrendement.<br/>De training is ontwikkeld in samenwerking met Belbin Nederland en wordt verzorgd door Bas van Beijsterveld, specialist op het gebied van leiderschap, teamontwikkeling en Belbin Teamrollen.</p><h2>Certificaat</h2><p>Na succesvolle afronding van deze training ontvang je een persoonlijk certificaat van deelname van Tafelgasten.com. Het certificaat beschrijft de belangrijkste kennis, vaardigheden en competenties die je tijdens de training hebt ontwikkeld en vormt een waardevolle aanvulling op je professionele portfolio.</p>]]></Description>
     
     <Language>nl</Language>
     <Price>525</Price>
@@ -1167,7 +1130,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>11</AvailableSeats>
+          <AvailableSeats>10</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>reca4NFpDmcVzDrKw-dag1</ID>
@@ -1451,7 +1414,7 @@
   <Product>
     <ID>PP-005-sp</ID>
     <Name>Growth mindset | Bouwen aan een positieve, groeigerichte mindset</Name>
-    <Description><![CDATA[<h2>Introductie</h2><p>De term _mindset_ verwijst naar de overtuigingen die je hebt over jezelf, je kwaliteiten en je mogelijkheden om te groeien. Die overtuigingen bepalen in hoge mate hoe je reageert op uitdagingen, feedback en tegenslagen. In deze training ontdek je hoe jouw mindset is ontstaan en hoe je deze bewust kunt ontwikkelen. Je krijgt praktische inzichten én direct toepasbare technieken om meer grip te krijgen op je gedrag, prestaties en persoonlijke groei.</p><h2>Sessie 1: Growth Mindset</h2><p>Tijdens de eerste sessie staat de _Growth Mindset_ centraal. Je krijgt inzicht in hoe jouw mindset is gevormd en welke rol overtuigingen en het ego hierin spelen. Je ontdekt welke patronen je helpen groeien en welke je juist afremmen. Daarnaast ga je concreet aan de slag met praktische 'knoppen' waaraan je zelf kunt draaien om jouw groeimindset verder te ontwikkelen.</p><h2>Sessie 2: Nieuwe neurale paden</h2><p>In de tweede sessie ontdek je hoe jouw brein nieuwe gewoonten aanleert en waarom goede voornemens vaak stranden. Je leert hoe je nieuwe neurale verbindingen versterkt en gedrag duurzaam verandert. Tijdens de sessie ga je hier direct mee aan de slag en werk je aan een persoonlijk plan waarmee je nieuwe routines daadwerkelijk volhoudt.</p><h2>Sessie 3: Mariniers Mindset</h2><p>In de derde sessie maak je kennis met de principes van de _Mariniers Mindset_. Je leert hoe je ook onder druk rustig blijft, effectief blijft handelen en je focus behoudt wanneer omstandigheden uitdagend zijn. Je krijgt praktische technieken aangereikt om zowel je brein als je lichaam tot rust te brengen, zodat je veerkrachtiger wordt en met meer vertrouwen moeilijke situaties tegemoet kunt treden.</p><h2>Onderwerpen</h2><ul><li>Growth Mindset</li><li>Nieuwe neurale paden</li><li>Prestatiepsychologie</li><li>Mariniers Mindset</li><li>Neurowetenschap</li><li>Mentale veerkracht</li></ul><h2>Leerdoelen</h2><p>Na afloop van deze training:<br/>- Weet je wat een _Growth Mindset_ is en waarom deze bijdraagt aan succes.<br/>- Begrijp je hoe jouw overtuigingen invloed hebben op je gedrag en prestaties.<br/>- Beschik je over praktische technieken om jouw groeimindset verder te ontwikkelen.<br/>- Weet je hoe je nieuwe gewoonten opbouwt en blijvend volhoudt.<br/>- Begrijp je hoe jouw brein nieuw gedrag aanleert.<br/>- Ken je de principes van de Mariniers Mindset.<br/>- Beschik je over concrete tools om ook onder druk rustig, veerkrachtig en doelgericht te blijven handelen.</p><h2>Doelgroep</h2><p>Deze training is geschikt voor professionals die zich persoonlijk willen ontwikkelen, beter willen omgaan met veranderingen en druk en op zoek zijn naar praktische handvatten om hun mindset, veerkracht en prestaties duurzaam te versterken.</p><h2>Opzet van dit programma</h2><p>Deze training bestaat uit **3 interactieve online sessies van 1,5 uur** via Microsoft Teams. Je leert van een ervaren trainer en werkt samen met andere deelnemers aan korte, praktijkgerichte opdrachten in breakout rooms. Zo vertaal je de theorie direct naar je eigen dagelijkse praktijk en leer je tegelijkertijd van de ervaringen van anderen.</p>]]></Description>
+    <Description><![CDATA[<h2>Introductie</h2><p>De term **mindset** verwijst naar de overtuigingen die je hebt over jouw intelligentie, kwaliteiten en talenten. Deze overtuigingen bepalen in belangrijke mate hoe je omgaat met uitdagingen, feedback en verandering. Ze beïnvloeden niet alleen je prestaties, maar ook de manier waarop je leert, groeit en met tegenslagen omgaat. In deze training ontdek je hoe jouw mindset is ontstaan en hoe je deze bewust kunt ontwikkelen met inzichten uit de gedrags- en prestatiepsychologie.</p><h2>Sessie 1 – Growth Mindset</h2><p>In de eerste sessie staat de **Growth Mindset** centraal. Je krijgt inzicht in hoe jouw mindset is gevormd en welke invloed overtuigingen en het ego hebben op jouw gedrag en prestaties. Daarnaast ga je concreet aan de slag met een aantal 'knoppen' waar je zelf aan kunt draaien om jouw groeimindset verder te ontwikkelen.</p><h2>Sessie 2 – Nieuwe neurale paden</h2><p>In de tweede sessie ontdek je hoe jouw brein nieuwe neurale paden aanmaakt en waarom gedragsverandering vaak lastig is. Je leert hoe je beperkende patronen kunt doorbreken en nieuwe, effectieve gewoonten ontwikkelt én volhoudt. Tijdens de training werk je aan een persoonlijk plan van aanpak en krijg je praktische tools waarmee je direct aan de slag kunt.</p><h2>Sessie 3 – Veerkracht onder druk</h2><p>In de derde sessie leer je hoe je ook in uitdagende situaties effectief blijft handelen. Je ontdekt hoe je jouw mentale veerkracht versterkt, beperkende patronen doorbreekt en zowel je brein als je lichaam rustig houdt wanneer je onder druk staat. Daarnaast krijg je praktische technieken aangereikt die je helpen om met meer focus, vertrouwen en veerkracht te blijven presteren.</p><h2>Onderwerpen</h2><ul><li>Growth Mindset</li><li>Gedrags- en prestatiepsychologie</li><li>Nieuwe neurale paden</li><li>Gedragsverandering</li><li>Mentale veerkracht</li><li>Belemmerende overtuigingen</li><li>Persoonlijke ontwikkeling</li></ul><h2>Leerdoelen</h2><p>Na afloop van deze training:<br/>- Begrijp je wat een **Growth Mindset** is en waarom deze bijdraagt aan persoonlijke groei en betere prestaties.<br/>- Weet je hoe overtuigingen jouw gedrag en prestaties beïnvloeden.<br/>- Beschik je over praktische technieken om jouw groeimindset verder te ontwikkelen.<br/>- Begrijp je hoe jouw brein nieuwe neurale paden aanmaakt en nieuw gedrag aanleert.<br/>- Weet je hoe je beperkende patronen kunt doorbreken en nieuwe gewoonten duurzaam ontwikkelt.<br/>- Beschik je over concrete tools om ook in uitdagende situaties veerkrachtig, doelgericht en met meer vertrouwen te blijven handelen.</p><h2>Doelgroep</h2><p>Deze training is geschikt voor professionals die zich persoonlijk willen ontwikkelen, beter willen omgaan met veranderingen en uitdagingen en op zoek zijn naar praktische handvatten om hun mindset, mentale veerkracht en prestaties duurzaam te versterken.</p><h2>Opzet van dit programma</h2><p>Deze training bestaat uit **drie interactieve online sessies van 1,5 uur** via Microsoft Teams. Je leert van een ervaren trainer en werkt samen met andere deelnemers aan praktijkgerichte opdrachten in breakout rooms. Zo vertaal je de theorie direct naar je eigen dagelijkse praktijk en leer je tegelijkertijd van de ervaringen van anderen.</p>]]></Description>
     <Images><ImageUrl>https://tafelgasten.com/app/uploads/2024/02/pexels-koen-swiers-12685188-1024x683.jpg</ImageUrl></Images>
     <Language>nl</Language>
     <Price>525</Price>
@@ -2012,6 +1975,43 @@
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
+          <ID>recqM0uz9AuGJ9eot</ID>
+          <Startdate>2026-11-02</Startdate>
+          <Place>Online</Place>
+          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
+          <Enddate>2026-11-16</Enddate>
+          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
+          <StartGuaranteed>false</StartGuaranteed>
+          <MaxNumberOfSeats>12</MaxNumberOfSeats>
+          <AvailableSeats>11</AvailableSeats>
+          <Schedule>
+            <CourseDay>
+              <ID>recqM0uz9AuGJ9eot-dag1</ID>
+              <Date>2026-11-02</Date>
+              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
+              <StartTime>15:30</StartTime>
+              <EndTime>17:00</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recqM0uz9AuGJ9eot-dag2</ID>
+              <Date>2026-11-09</Date>
+              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
+              <StartTime>15:30</StartTime>
+              <EndTime>17:00</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recqM0uz9AuGJ9eot-dag3</ID>
+              <Date>2026-11-16</Date>
+              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
+              <StartTime>15:30</StartTime>
+              <EndTime>17:00</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+          </Schedule>
+        </StartingDatePlace>
+        <StartingDatePlace>
           <ID>rec7SStqCjvWqMh88</ID>
           <Startdate>2026-11-26</Startdate>
           <Place>Online</Place>
@@ -2078,80 +2078,6 @@
             <CourseDay>
               <ID>recYY1CkTBWOhkxto-dag3</ID>
               <Date>2026-10-01</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>15:30</StartTime>
-              <EndTime>17:00</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-        <StartingDatePlace>
-          <ID>recoGE4R6Rry1jRev</ID>
-          <Startdate>2026-06-22</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-07-06</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recoGE4R6Rry1jRev-dag1</ID>
-              <Date>2026-06-22</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>15:30</StartTime>
-              <EndTime>17:00</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recoGE4R6Rry1jRev-dag2</ID>
-              <Date>2026-06-29</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>15:30</StartTime>
-              <EndTime>17:00</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recoGE4R6Rry1jRev-dag3</ID>
-              <Date>2026-07-06</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>15:30</StartTime>
-              <EndTime>17:00</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-        <StartingDatePlace>
-          <ID>recqM0uz9AuGJ9eot</ID>
-          <Startdate>2026-11-02</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-11-16</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recqM0uz9AuGJ9eot-dag1</ID>
-              <Date>2026-11-02</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>15:30</StartTime>
-              <EndTime>17:00</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recqM0uz9AuGJ9eot-dag2</ID>
-              <Date>2026-11-09</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>15:30</StartTime>
-              <EndTime>17:00</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recqM0uz9AuGJ9eot-dag3</ID>
-              <Date>2026-11-16</Date>
               <Name lang="nl"><![CDATA[Sessie 3]]></Name>
               <StartTime>15:30</StartTime>
               <EndTime>17:00</EndTime>
@@ -2552,43 +2478,6 @@
           </Schedule>
         </StartingDatePlace>
         <StartingDatePlace>
-          <ID>recFBBFNx9RtMPru2</ID>
-          <Startdate>2026-06-22</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-07-06</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recFBBFNx9RtMPru2-dag1</ID>
-              <Date>2026-06-22</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recFBBFNx9RtMPru2-dag2</ID>
-              <Date>2026-06-29</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recFBBFNx9RtMPru2-dag3</ID>
-              <Date>2026-07-06</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-        <StartingDatePlace>
           <ID>recWzrguiVa4pjWrh</ID>
           <Startdate>2026-12-03</Startdate>
           <Place>Online</Place>
@@ -2766,7 +2655,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>10</AvailableSeats>
+          <AvailableSeats>11</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recFLpl03vDJVeify-dag1</ID>
