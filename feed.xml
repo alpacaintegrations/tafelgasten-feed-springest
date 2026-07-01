@@ -1,56 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Products>
   <Product>
-    <ID>PP-016-sp</ID>
-    <Name>Insights Discovery | Including Personal Profile | English Course</Name>
-    <Description><![CDATA[<h2>Introductie</h2><p>The Insights Discovery methodology provides illuminating insights into how people think, work, and communicate. The premise of this method is that every person is unique, with special talents, qualities, and personal preference styles. These unique differences make individuals special and add value to their collaboration with others.</p><p>In this interactive online training, you will be introduced to this methodology, which works with four colors (green, yellow, red, and blue). These colors provide practical insights into your own reactions and behavior and help you understand why others may behave very differently. This way, you gain knowledge not only about yourself but also about your colleagues. The colors refer to behavioral preferences that determine how you react, think, and act, both in positive situations and in more challenging ones.</p><p>During this session, you will delve deeper with the trainer, learning to recognize behavior and communication patterns in yourself and others. Additionally, you will gain insight into how to adjust your behavior to better align with others, thereby improving collaboration where necessary.</p><p>To make this training as valuable as possible, each participant will complete the personal (online) Insights Discovery questionnaire prior to the training.</p><h2>Leerdoelen</h2><ul><li>You will have an understanding of the Insights Discovery colors and your own behavioral and communication preferences.</li><li>You will be more aware of your own behavior and that of others.</li><li>You will be able to better adapt your behavior and communication to others.</li><li>You will have a detailed personal Insights profile, which you can continue to work with in the future.</li></ul><h2>Doelgroep</h2><p>This training is perfect for you if you are interested in gaining more insight into your own behavioral preferences and those of others to become more effective and successful in your work.<br/>- Customer advisors: learn how to better recognize and respond to your own behavioral preferences and those of your customers, improving customer relationships and satisfaction.<br/>- Financial analysts: gain valuable insights into different behavioral and communication styles, improving interpersonal skills and team impact.<br/>- Managers: acquire tools to improve understanding and leading your team by gaining insight into different behavioral preferences.<br/>- Customer service professionals: learn to interpret customer behavior and adjust your communication style to resolve issues quickly and increase satisfaction.<br/>- Project managers: discover how to better manage project teams using the Insights Discovery method for better collaboration and successful outcomes.</p><h2>Opzet van dit programma</h2><p>This training is conducted in an interactive online session lasting a total of 3 hours via Teams. You will learn from an experienced trainer and collaborate with other participants in breakout rooms on short assignments, allowing you to learn from each other as well.</p>]]></Description>
-    
-    <Language>nl</Language>
-    <Price>495</Price>
-    <VatIncluded>no</VatIncluded>
-    <VatAmount>103.95</VatAmount>
-    <PricePeriod>all</PricePeriod>
-    <PriceComplete>true</PriceComplete>
-    <CourseType>training</CourseType>
-    <Duration>1</Duration>
-    <DurationUnit>days</DurationUnit>
-    <Studyload>3</Studyload>
-    <StudyloadUnit>hours</StudyloadUnit>
-    <Completion>Certificaat</Completion>
-    <MaxParticipants>12</MaxParticipants>
-    <WebAddress>https://tafelgasten.com</WebAddress>
-    <ProductType>classroom</ProductType>
-    <Level>HBO</Level>
-    <StartingDatePlaces>
-        <StartingDatePlace>
-          <ID>recix3GBF8x4YdHiG</ID>
-          <Startdate>2026-06-23</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-06-23</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recix3GBF8x4YdHiG-dag1</ID>
-              <Date>2026-06-23</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>12:00</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-    </StartingDatePlaces>
-    <Trainers>
-      <Trainer>
-        <Email>ferry@talkable.nl</Email>
-      </Trainer>
-    </Trainers>
-  </Product>
-  <Product>
     <ID>PP-020-sp</ID>
     <Name>Effectief beïnvloeden in sales (vervolg) | Nieuwe praktische technieken om klanten mee te krijgen</Name>
     <Description><![CDATA[<h2>Introductie</h2><p>Zonder dat we het beseffen, maken klanten veel keuzes razendsnel én onbewust. Die onbewuste keuzes zijn echter lang niet altijd de beste keuzes. Als je werkt met klanten, patienten of clienten weet je dat het soms heel lastig is om mensen te overtuigen, ook al lijkt de keuze soms simpel.</p><p>Als je weet hoe het brein werkt bij het maken van die keuzes, helpt dit in de contacten die je hebt met klanten. Bijvoorbeeld in een salesgesprek of bij het oplossen van klachten. Hoe dat precies werkt, leer je in deze training.</p><h2>Sessie 1: Beïnvloeden en overtuigen</h2><p>In de eerste sessie ga je aan de slag met een aantal verrassende inzichten uit de psychologie. Je leert een aantal praktische technieken op het gebied van beinvloeden en overtuigen die je meteen daarna kunt inzetten in jouw - schriftelijke én mondelinge - contacten met klanten, cliënten of opdrachtgevers.</p><h2>Sessie 2: Storytelling</h2><p>In de tweede sessie staat het thema ‘storytelling’ centraal. Verhalen roepen plaatjes én emoties op in ons brein. Daarmee is storytelling een krachtig wapen bij het beinvloeden van keuzes én werken ze verrassend goed bij het wegnemen van (onbewuste) weerstanden. In deze sessie leer je hoe je jouw propositie concreet kunt verpakken in een verhaal en/of metafoor.</p><h2>Sessie 3: Sociale psychologie en beïnvloedingsprincipes</h2><p>In de derde sessie zoomen we in op de inzichten uit de sociale psychologie. Je leert hoe je deze beinvloedingsprincipes concreet kunt inzetten in gesprekken met klanten en ze makkelijker meekrijgt. Daarbij kijken we ook naar de ethische aspecten van het inzetten van deze beinvloedingsprincipes.</p><h2>Onderwerpen</h2><ul><li>Alpha & Omega beïnvloedingstechnieken</li><li>Framing, priming en serial positioning effect</li><li>Storytelling</li><li>Storymaking</li><li>Beïnvloedingsprincipes Cialdini</li><li>Ethische aspecten van beïnvloeding</li></ul><h2>Leerdoelen</h2><ul><li>Weet je hoe het brein (onbewust) keuzes maakt</li><li>Heb je inzicht in de psychologische processen achter deze keuzes</li><li>Weet je hoe je deze psychologische processen kunt beïnvloeden</li><li>Weet je wat storytelling is en wat het doet in het brein van je klant</li><li>Kun je jouw propositie verpakken in een verhaal</li><li>Kun je de kracht van metaforen en woorden benutten om jouw impact te maximaliseren</li><li>Kun je de beïnvloedingsprincipes van Cialdini toepassen en klantgesprekken beter sturen</li></ul><h2>Doelgroep</h2><p>Deze training past uitstekend bij je als je je geïnteresseerd bent in hoe klanten, cliënten of opdrachtgevers keuzes maken én hoe je hen effectief kunt beinvloeden en overtuigen. Je impactfactor aan tafel of aan de telefoon gaat na het volgen van deze training gegarandeerd omhoog.</p><p>Ben je accountmanager? Dan ontdek je in deze training de geheimen van het menselijk brein, waardoor je effectiever kunt communiceren en krachtiger kunt beïnvloeden.</p><p>Werk je als inside sales? Dan leer je in deze training hoe je jouw propositie op een aantrekkelijke manier kunt verpakken en weerstanden van klanten kunt doorbreken.</p><h2>Opzet van dit programma</h2><p>Deze training bestaat uit 3 interactieve online sessies van 1,5 uur via Teams. Je leert van een ervaren trainer en je werkt samen met andere deelnemers in breakout rooms aan korte opdrachten. Zo leer je ook van elkaar!</p>]]></Description>
@@ -316,43 +266,6 @@
             <CourseDay>
               <ID>recBH5uwZWsIk8Hux-dag3</ID>
               <Date>2026-12-10</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-        <StartingDatePlace>
-          <ID>recS65hp9nYN56j94</ID>
-          <Startdate>2026-06-23</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-07-07</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recS65hp9nYN56j94-dag1</ID>
-              <Date>2026-06-23</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recS65hp9nYN56j94-dag2</ID>
-              <Date>2026-06-30</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recS65hp9nYN56j94-dag3</ID>
-              <Date>2026-07-07</Date>
               <Name lang="nl"><![CDATA[Sessie 3]]></Name>
               <StartTime>15:00</StartTime>
               <EndTime>16:30</EndTime>
@@ -1545,7 +1458,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>true</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>5</AvailableSeats>
+          <AvailableSeats>4</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recCEyT9zMpf5bugF-dag1</ID>
@@ -1718,27 +1631,6 @@
             </CourseDay>
           </Schedule>
         </StartingDatePlace>
-        <StartingDatePlace>
-          <ID>recvBbvreMwIjO4qc</ID>
-          <Startdate>2026-06-23</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-06-23</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recvBbvreMwIjO4qc-dag1</ID>
-              <Date>2026-06-23</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>13:30</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
     </StartingDatePlaces>
     <Trainers>
       <Trainer>
@@ -1750,7 +1642,7 @@
     <ID>PP-031-sp</ID>
     <Name>Regie op je loopbaan | stappen vooruit zetten in je loopbaan</Name>
     <Description><![CDATA[<h2>Introductie</h2><p>In deze training werk je stap voor stap aan meer regie over je loopbaan. Je krijgt inzicht in waar je nu staat, wat voor jou écht belangrijk is en hoe je jouw waarden kunt vertalen naar concreet gedrag en doelen. De aanpak is praktisch, interactief en reflectief: je ontdekt, bespreekt en past direct toe. Of je nu op een kruispunt staat in je werk of wilt investeren in je duurzame inzetbaarheid, deze training helpt je om met meer richting en vertrouwen keuzes te maken. Na afloop heb je een helder persoonlijk kompas én een concreet actieplan voor de volgende stap in je loopbaan.</p><h2>Sessie 1: Weten wat je wilt en regie nemen over je loopbaan</h2><p>In de eerste sessie onderzoek je waar je nu staat in je werk en loopbaan en wat jou motiveert. Je leert hoe je meer regie kan nemen over je loopbaan aan de hand van 4 loopbaanvaardigheden. Aan het eind heb je een duidelijk beeld van jouw startpunt voor een verdere ontwikkeling in je werk en loopbaan.</p><h2>Sessie 2: Je kernwaarden als kompas in je loopbaan</h2><p>In deze tweede sessie ontdek je wat voor jou écht belangrijk is in werk en leven. Je leert je kernwaarden herkennen en begrijpt hoe die richting geven aan keuzes en balans in je loopbaan. We koppelen jouw waarden aan wat je wilt bereiken en wat juist niet. Zo krijg je meer regie over je werk en leer je sturen vanuit wat voor jou van betekenis is. Aan het eind heb je de eerste contouren van jouw persoonlijke loopbaankompas helder.</p><h2>Sessie 3: Van inzicht naar een concreet plan</h2><p>In deze afsluitende sessie vertaal je jouw inzichten uit de eerste twee sessie naar haalbare loopbaandoelen en concreet gedrag. We werken van droom naar doel en van doel naar actie. Je formuleert praktische stappen die passen bij jouw waarden en gewenste loopbaanrichting. Ook denk je na over hoe je jezelf kunt ondersteunen om het vol te houden.</p><p>Je eindigt met een persoonlijk actieplan waarmee je direct regie neemt over je loopbaan.</p><p>Zo versterk je jouw eigen regie, vergroot je je wendbaarheid én blijf je voorbereid op nieuwe kansen, rollen en veranderingen in je werk en op de arbeidsmarkt.</p><h2>Leerdoelen</h2><ul><li>Heb je een helder inzicht in je huidige situatie, je drijfveren en je ontwikkelpunten</li><li>Heb je ontdekt wat jou écht motiveert en waar je energie van krijgt</li><li>Heb je een aantal haalbare doelen geformuleerd en vertaald naar concrete acties</li><li>Beheers je manieren om jezelf zichtbaar en relevant te houden in een veranderende werkomgeving</li></ul><h2>Doelgroep</h2><p>Deze workshop is voor professionals die niet langer op de automatische piloot willen werken, maar bewuste keuzes willen maken die passen bij hun waarden, ambities en levensfase.</p><p>Deze training is ook geschikt voor leidinggevenden die hun medewerkers willen ondersteunen in hun professionele ontwikkeling en willen investeren in duurzame inzetbaarheid binnen hun team.</p><h2>Opzet van dit programma</h2><p>Deze training bestaat uit 3 interactieve online sessies van 1,5 uur via Teams. Je leert van een ervaren trainer en werkt samen met andere deelnemers in break-out rooms aan korte opdrachten. Hierdoor leer je ook van elkaar en versterk je je netwerk.</p>]]></Description>
-    <Images><ImageUrl>https://tafelgasten.com/app/uploads/2024/08/NLP-in-sales.png</ImageUrl></Images>
+    <Images><ImageUrl>https://tafelgasten.com/app/uploads/2026/02/Regie-op-je-loopbaan_tafelgast-1024x640.jpg</ImageUrl></Images>
     <Language>nl</Language>
     <Price>525</Price>
     <VatIncluded>no</VatIncluded>
@@ -1764,7 +1656,7 @@
     <StudyloadUnit>hours</StudyloadUnit>
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
-    <WebAddress>https://tafelgasten.com/online-trainingen/ervaar-de-kracht-van-nlp/</WebAddress>
+    <WebAddress>https://tafelgasten.com/online-trainingen/regie-op-je-loopbaan-stappen-vooruit-zetten-in-je-loopbaan/</WebAddress>
     <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
@@ -1852,7 +1744,7 @@
   <Product>
     <ID>PP-036-sp</ID>
     <Name>Van voornemen naar vaste gewoonte | ontwerp je ideale werkritme</Name>
-    <Description><![CDATA[<h2>Introductie</h2><p>Je herkent het vast wel: na het volgen van een training, workshop of inspirerende bijeenkomst neem je jezelf voor om dingen anders te gaan doen. Je wilt bijvoorbeeld meer focus aanbrengen in je werk, minder afleiding ervaren of nieuwe technieken toepassen die je hebt geleerd.<br/>Toch blijkt dat vaak makkelijker bedacht dan gedaan. Oude gewoontes vervangen door nieuwe is lastig omdat ons brein van nature kiest voor bekende patronen en routines. Daardoor vallen veel goede voornemens na verloop van tijd weer weg.<br/>In deze praktische training leer je hoe gewoontevorming werkt en hoe je nieuwe gewoontes succesvol kunt opbouwen. Je ontdekt waarom sommige veranderingen vanzelf lijken te lukken terwijl andere steeds terugvallen. Daarnaast ontwerp je een persoonlijk systeem waarmee nieuwe routines niet alleen beginnen, maar ook blijven bestaan.<br/>Het drieluik bestaat uit drie fases: ontwerpen, versterken en borgen.</p><h2>Sessie 1: De architectuur van gewoonte</h2><p>In deze eerste sessie ontdek je waarom goede voornemens vaak moeilijk vol te houden zijn. Je leert hoe nieuwe gewoontes ontstaan, waarom motivatie vaak tijdelijk is en waarom blijvende verandering vooral ontstaat door een slim systeem.<br/>Aan de hand van praktische inzichten onderzoek je welke patronen jouw gedrag beïnvloeden en waar tijd, energie of focus verloren gaan. Vervolgens ontwerp je een persoonlijk werkritme waarmee nieuwe gewoontes zichtbaar, herhaalbaar en eenvoudiger uitvoerbaar worden.</p><h2>Sessie 2: Omgaan met afleiding en weerstand</h2><p>In deze sessie staat het herkennen en verminderen van afleiding en weerstand centraal. Je ontdekt welke factoren ervoor zorgen dat nieuwe gewoontes niet van de grond komen of na verloop van tijd verdwijnen.<br/>Je leert hoe je slimmer omgaat met afleiding, overbelasting en terugkerende patronen die verandering in de weg staan. Daarnaast maak je kennis met praktische technieken waarmee je nieuwe gewoontes eenvoudiger kunt starten en volhouden. Tijdens de sessie vertaal je deze technieken naar jouw eigen werksituatie en werk je aan twee nieuwe gewoontes die je direct gaat toepassen.</p><h2>Sessie 3: Van nieuwe gewoonte naar vaste routine</h2><p>In deze sessie maak je de stap van een tijdelijke verbetering naar een blijvende gewoonte. Je onderzoekt waarom mensen vaak terugvallen in oude patronen en welke strategieën helpen om nieuw gedrag blijvend onderdeel te maken van het dagelijks werk.<br/>Je leert hoe je reflectie en eenvoudige onderhoudsmomenten kunt inzetten om nieuwe gewoontes te versterken. Daarnaast ontwikkel je een persoonlijk plan waarmee je ook na afloop van de training gericht blijft werken aan meer focus, structuur en productiviteit.</p><h2>Onderwerpen</h2><p>Sessie 1 – De architectuur van gewoonte<br/>- Begrijpen hoe gewoontevorming werkt<br/>- Waarom motivatie alleen vaak niet voldoende is<br/>- Dagelijkse en wekelijkse ritmes ontwerpen<br/>- Herkennen waar tijd, energie en focus verloren gaat<br/>- Ontwerpen van een persoonlijk werkritme<br/>Sessie 2 – Omgaan met afleiding en weerstand<br/>- Veelvoorkomende oorzaken van afleiding herkennen<br/>- Praktische technieken om nieuwe gewoontes makkelijker vol te houden<br/>- Werken met slimme herinneringen en triggers<br/>- Betere keuzes maken zonder steeds op wilskracht te vertrouwen<br/>- Meer focus creëren tijdens je werkdag<br/>Sessie 3 – Van nieuwe gewoonte naar vaste routine<br/>- Waarom mensen terugvallen in oude gewoontes<br/>- Nieuwe gewoontes koppelen aan bestaande routines<br/>- Nieuwe gewoontes volhouden als de motivatie afneemt<br/>- Reflecteren op wat werkt en wat niet werkt<br/>- Een persoonlijk onderhoudsritueel ontwikkelen</p><h2>Leerdoelen</h2><p>Na deze training kun je:<br/>- Uitleggen hoe gewoontevorming werkt en waarom goede voornemens vaak moeilijk vol te houden zijn.<br/>- Een persoonlijk werkritme ontwerpen waarmee gewenst gedrag dagelijks en wekelijks wordt ondersteund.<br/>- Afleiding en weerstand herkennen en gericht verminderen.<br/>- Praktische technieken inzetten om nieuwe gewoontes eenvoudiger te starten en vol te houden.<br/>- Nieuwe gewoontes duurzaam verankeren in je dagelijkse werk.</p><h2>Doelgroep</h2><p>Deze training is bedoeld voor professionals die willen leren hoe zij nieuwe inzichten, vaardigheden en goede voornemens daadwerkelijk kunnen omzetten in blijvende gewoontes.<br/>De training is bijzonder relevant voor professionals die recent een training hebben gevolgd en het geleerde beter willen toepassen in de praktijk. Daarnaast is de training geschikt voor iedereen die meer focus wil ervaren, minder afleiding wil hebben, productiever wil werken en op zoek is naar een werkritme dat helpt om nieuwe gewoontes vol te houden.</p><h2>Resultaat</h2><p>Na afloop beschik je over een persoonlijk werkritme waarmee je nieuwe gewoontes doelgericht kunt ontwikkelen en onderhouden. Daarnaast weet je hoe gewoontevorming werkt, hoe je afleiding vermindert en hoe je nieuwe routines duurzaam kunt inpassen in je dagelijkse werkzaamheden.<br/>Ook beschik je over een concreet plan waarmee je nieuwe gewoontes blijft versterken, zodat goede voornemens niet tijdelijk zijn maar onderdeel worden van de manier waarop je werkt.</p><h2>Goed om te weten</h2><p>Deze training bestaat uit drie interactieve online sessies van 1,5 uur via Microsoft Teams. Tijdens de sessies werk je met praktijkvoorbeelden, korte opdrachten en reflectiemomenten. Daarnaast wissel je ervaringen uit met andere deelnemers in break-out rooms, zodat je ook leert van elkaars inzichten en aanpak.<br/>Om het maximale uit deze training te halen, werk je tussen de sessies door aan kleine praktijkopdrachten en het toepassen van nieuwe gewoontes in je dagelijkse werk.</p><h2>Certificaat</h2><p>Rond je deze training succesvol af, dan ontvang je een persoonlijk certificaat van deelname. Een waardevolle erkenning van de kennis en vaardigheden die je tijdens de training hebt ontwikkeld en een mooie aanvulling op je professionele portfolio.</p>]]></Description>
+    <Description><![CDATA[<h2>Introductie</h2><p>Je herkent het vast wel: na het volgen van een training, workshop of inspirerende bijeenkomst neem je jezelf voor om dingen anders te gaan doen. Je wilt bijvoorbeeld meer focus aanbrengen in je werk, minder afleiding ervaren of nieuwe technieken toepassen die je hebt geleerd.<br/>Toch blijkt dat vaak makkelijker bedacht dan gedaan. Oude gewoontes vervangen door nieuwe is lastig omdat ons brein van nature kiest voor bekende patronen en routines. Daardoor vallen veel goede voornemens na verloop van tijd weer weg.<br/>In deze praktische training leer je hoe gewoontevorming werkt en hoe je nieuwe gewoontes succesvol kunt opbouwen. Je ontdekt waarom sommige veranderingen vanzelf lijken te lukken terwijl andere steeds terugvallen. Daarnaast ontwerp je een persoonlijk systeem waarmee nieuwe routines niet alleen beginnen, maar ook blijven bestaan.<br/>Het drieluik bestaat uit drie fases: ontwerpen, versterken en borgen.</p><h2>Sessie 1: De architectuur van gewoonte</h2><p>In deze eerste sessie ontdek je waarom goede voornemens vaak moeilijk vol te houden zijn. Je leert hoe nieuwe gewoontes ontstaan, waarom motivatie vaak tijdelijk is en waarom blijvende verandering vooral ontstaat door een slim systeem.<br/>Aan de hand van praktische inzichten onderzoek je welke patronen jouw gedrag beïnvloeden en waar tijd, energie of focus verloren gaan. Vervolgens ontwerp je een persoonlijk werkritme waarmee nieuwe gewoontes zichtbaar, herhaalbaar en eenvoudiger uitvoerbaar worden.</p><h2>Sessie 2: Omgaan met afleiding en weerstand</h2><p>In deze sessie staat het herkennen en verminderen van afleiding en weerstand centraal. Je ontdekt welke factoren ervoor zorgen dat nieuwe gewoontes niet van de grond komen of na verloop van tijd verdwijnen.<br/>Je leert hoe je slimmer omgaat met afleiding, overbelasting en terugkerende patronen die verandering in de weg staan. Daarnaast maak je kennis met praktische technieken waarmee je nieuwe gewoontes eenvoudiger kunt starten en volhouden. Tijdens de sessie vertaal je deze technieken naar jouw eigen werksituatie en werk je aan twee nieuwe gewoontes die je direct gaat toepassen.</p><h2>Sessie 3: Van nieuwe gewoonte naar vaste routine</h2><p>In deze sessie maak je de stap van een tijdelijke verbetering naar een blijvende gewoonte. Je onderzoekt waarom mensen vaak terugvallen in oude patronen en welke strategieën helpen om nieuw gedrag blijvend onderdeel te maken van het dagelijks werk.<br/>Je leert hoe je reflectie en eenvoudige onderhoudsmomenten kunt inzetten om nieuwe gewoontes te versterken. Daarnaast ontwikkel je een persoonlijk plan waarmee je ook na afloop van de training gericht blijft werken aan meer focus, structuur en productiviteit.</p><h2>Onderwerpen</h2><p>**Sessie 1 – De architectuur van gewoonte**<br/>- Begrijpen hoe gewoontevorming werkt<br/>- Waarom motivatie alleen vaak niet voldoende is<br/>- Dagelijkse en wekelijkse ritmes ontwerpen<br/>- Herkennen waar tijd, energie en focus verloren gaat<br/>- Ontwerpen van een persoonlijk werkritme</p><p>**Sessie 2 – Omgaan met afleiding en weerstand**<br/>- Veelvoorkomende oorzaken van afleiding herkennen<br/>- Praktische technieken om nieuwe gewoontes makkelijker vol te houden<br/>- Werken met slimme herinneringen en triggers<br/>- Betere keuzes maken zonder steeds op wilskracht te vertrouwen<br/>- Meer focus creëren tijdens je werkdag</p><p>**Sessie 3 – Van nieuwe gewoonte naar vaste routine**<br/>- Waarom mensen terugvallen in oude gewoontes<br/>- Nieuwe gewoontes koppelen aan bestaande routines<br/>- Nieuwe gewoontes volhouden als de motivatie afneemt<br/>- Reflecteren op wat werkt en wat niet werkt<br/>- Een persoonlijk onderhoudsritueel ontwikkelen</p><h2>Leerdoelen</h2><p>Na deze training kun je:<br/>- Uitleggen hoe gewoontevorming werkt en waarom goede voornemens vaak moeilijk vol te houden zijn.<br/>- Een persoonlijk werkritme ontwerpen waarmee gewenst gedrag dagelijks en wekelijks wordt ondersteund.<br/>- Afleiding en weerstand herkennen en gericht verminderen.<br/>- Praktische technieken inzetten om nieuwe gewoontes eenvoudiger te starten en vol te houden.<br/>- Nieuwe gewoontes duurzaam verankeren in je dagelijkse werk.</p><h2>Doelgroep</h2><p>Deze training is bedoeld voor professionals die willen leren hoe zij nieuwe inzichten, vaardigheden en goede voornemens daadwerkelijk kunnen omzetten in blijvende gewoontes.<br/>De training is bijzonder relevant voor professionals die recent een training hebben gevolgd en het geleerde beter willen toepassen in de praktijk. Daarnaast is de training geschikt voor iedereen die meer focus wil ervaren, minder afleiding wil hebben, productiever wil werken en op zoek is naar een werkritme dat helpt om nieuwe gewoontes vol te houden.</p><h2>Resultaat</h2><p>Na afloop beschik je over een persoonlijk werkritme waarmee je nieuwe gewoontes doelgericht kunt ontwikkelen en onderhouden. Daarnaast weet je hoe gewoontevorming werkt, hoe je afleiding vermindert en hoe je nieuwe routines duurzaam kunt inpassen in je dagelijkse werkzaamheden.<br/>Ook beschik je over een concreet plan waarmee je nieuwe gewoontes blijft versterken, zodat goede voornemens niet tijdelijk zijn maar onderdeel worden van de manier waarop je werkt.</p><h2>Goed om te weten</h2><p>Deze training bestaat uit drie interactieve online sessies van 1,5 uur via Microsoft Teams. Tijdens de sessies werk je met praktijkvoorbeelden, korte opdrachten en reflectiemomenten. Daarnaast wissel je ervaringen uit met andere deelnemers in break-out rooms, zodat je ook leert van elkaars inzichten en aanpak.<br/>Om het maximale uit deze training te halen, werk je tussen de sessies door aan kleine praktijkopdrachten en het toepassen van nieuwe gewoontes in je dagelijkse werk.</p><h2>Certificaat</h2><p>Rond je deze training succesvol af, dan ontvang je een persoonlijk certificaat van deelname. Een waardevolle erkenning van de kennis en vaardigheden die je tijdens de training hebt ontwikkeld en een mooie aanvulling op je professionele portfolio.</p>]]></Description>
     <Images><ImageUrl>https://tafelgasten.com/app/uploads/2026/02/Veranderingen-en-gewoonte-315x290.jpg</ImageUrl></Images>
     <Language>nl</Language>
     <Price>525</Price>
@@ -1981,9 +1873,9 @@
           <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
           <Enddate>2026-11-16</Enddate>
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
+          <StartGuaranteed>true</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>11</AvailableSeats>
+          <AvailableSeats>10</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recqM0uz9AuGJ9eot-dag1</ID>
@@ -2716,43 +2608,6 @@
               <Name lang="nl"><![CDATA[Sessie 3]]></Name>
               <StartTime>09:00</StartTime>
               <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-        <StartingDatePlace>
-          <ID>recigwRTFma9XKzoS</ID>
-          <Startdate>2026-06-23</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-07-07</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recigwRTFma9XKzoS-dag1</ID>
-              <Date>2026-06-23</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recigwRTFma9XKzoS-dag2</ID>
-              <Date>2026-06-30</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recigwRTFma9XKzoS-dag3</ID>
-              <Date>2026-07-07</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
               <Place>Online</Place>
             </CourseDay>
           </Schedule>
