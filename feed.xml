@@ -1805,7 +1805,7 @@
           <Startdate>2026-11-10</Startdate>
           <Place>Online</Place>
           <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-11-10</Enddate>
+          <Enddate>2026-11-24</Enddate>
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
@@ -1829,7 +1829,7 @@
             </CourseDay>
             <CourseDay>
               <ID>rec9msShKL9vNOyz9-dag3</ID>
-              <Date>2026-11-10</Date>
+              <Date>2026-11-24</Date>
               <Name lang="nl"><![CDATA[Sessie 3]]></Name>
               <StartTime>09:00</StartTime>
               <EndTime>10:30</EndTime>
