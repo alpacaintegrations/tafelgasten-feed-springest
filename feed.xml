@@ -554,7 +554,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>true</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>7</AvailableSeats>
+          <AvailableSeats>5</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recXOHvdHP2uR6DS7-dag1</ID>
@@ -1006,7 +1006,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>11</AvailableSeats>
+          <AvailableSeats>10</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>rec3LiRWZzG3wfiIs-dag1</ID>
@@ -2325,7 +2325,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>true</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>6</AvailableSeats>
+          <AvailableSeats>5</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recLpaBDNQEocpkLz-dag1</ID>
