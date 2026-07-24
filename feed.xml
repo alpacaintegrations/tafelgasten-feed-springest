@@ -274,6 +274,27 @@
           </Schedule>
         </StartingDatePlace>
         <StartingDatePlace>
+          <ID>recSJV966iEn3oDDh</ID>
+          <Startdate>2026-12-31</Startdate>
+          <Place>Online</Place>
+          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
+          <Enddate>2026-12-31</Enddate>
+          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
+          <StartGuaranteed>false</StartGuaranteed>
+          <MaxNumberOfSeats>12</MaxNumberOfSeats>
+          <AvailableSeats>12</AvailableSeats>
+          <Schedule>
+            <CourseDay>
+              <ID>recSJV966iEn3oDDh-dag1</ID>
+              <Date>2026-12-31</Date>
+              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+          </Schedule>
+        </StartingDatePlace>
+        <StartingDatePlace>
           <ID>recgYb9w7nYhxYc1z</ID>
           <Startdate>2026-11-30</Startdate>
           <Place>Online</Place>
