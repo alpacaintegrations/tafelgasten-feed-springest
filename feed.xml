@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Products>
   <Product>
-    <ID>PP-020-sp</ID>
-    <Name>Effectief beïnvloeden in sales (vervolg) | Nieuwe praktische technieken om klanten mee te krijgen</Name>
+    <ID>PP-011-sp</ID>
+    <Name>Effectief Beinvloeden in Sales | Klanten betrekken en meekrijgen.</Name>
     <Description><![CDATA[<h1>Introductie</h1><p>Zonder dat we het beseffen, maken klanten veel keuzes razendsnel én onbewust. Die onbewuste keuzes zijn echter lang niet altijd de beste keuzes. Als je werkt met klanten, patienten of clienten weet je dat het soms heel lastig is om mensen te overtuigen, ook al lijkt de keuze soms simpel.</p><p>Als je weet hoe het brein werkt bij het maken van die keuzes, helpt dit in de contacten die je hebt met klanten. Bijvoorbeeld in een salesgesprek of bij het oplossen van klachten. Hoe dat precies werkt, leer je in deze training.</p><h1>Sessie 1: Beïnvloeden en overtuigen</h1><p>In de eerste sessie ga je aan de slag met een aantal verrassende inzichten uit de psychologie. Je leert een aantal praktische technieken op het gebied van beinvloeden en overtuigen die je meteen daarna kunt inzetten in jouw - schriftelijke én mondelinge - contacten met klanten, cliënten of opdrachtgevers.</p><h1>Sessie 2: Storytelling</h1><p>In de tweede sessie staat het thema ‘storytelling’ centraal. Verhalen roepen plaatjes én emoties op in ons brein. Daarmee is storytelling een krachtig wapen bij het beinvloeden van keuzes én werken ze verrassend goed bij het wegnemen van (onbewuste) weerstanden. In deze sessie leer je hoe je jouw propositie concreet kunt verpakken in een verhaal en/of metafoor.</p><h1>Sessie 3: Sociale psychologie en beïnvloedingsprincipes</h1><p>In de derde sessie zoomen we in op de inzichten uit de sociale psychologie. Je leert hoe je deze beinvloedingsprincipes concreet kunt inzetten in gesprekken met klanten en ze makkelijker meekrijgt. Daarbij kijken we ook naar de ethische aspecten van het inzetten van deze beinvloedingsprincipes.</p><h1>Onderwerpen</h1><ul><li>Alpha & Omega beïnvloedingstechnieken</li><li>Framing, priming en serial positioning effect</li><li>Storytelling</li><li>Storymaking</li><li>Beïnvloedingsprincipes Cialdini</li><li>Ethische aspecten van beïnvloeding</li></ul><h1>Leerdoelen</h1><ul><li>Weet je hoe het brein (onbewust) keuzes maakt</li><li>Heb je inzicht in de psychologische processen achter deze keuzes</li><li>Weet je hoe je deze psychologische processen kunt beïnvloeden</li><li>Weet je wat storytelling is en wat het doet in het brein van je klant</li><li>Kun je jouw propositie verpakken in een verhaal</li><li>Kun je de kracht van metaforen en woorden benutten om jouw impact te maximaliseren</li><li>Kun je de beïnvloedingsprincipes van Cialdini toepassen en klantgesprekken beter sturen</li></ul><h1>Doelgroep</h1><p>Deze training past uitstekend bij je als je je geïnteresseerd bent in hoe klanten, cliënten of opdrachtgevers keuzes maken én hoe je hen effectief kunt beinvloeden en overtuigen. Je impactfactor aan tafel of aan de telefoon gaat na het volgen van deze training gegarandeerd omhoog.</p><p>Ben je accountmanager? Dan ontdek je in deze training de geheimen van het menselijk brein, waardoor je effectiever kunt communiceren en krachtiger kunt beïnvloeden.</p><p>Werk je als inside sales? Dan leer je in deze training hoe je jouw propositie op een aantrekkelijke manier kunt verpakken en weerstanden van klanten kunt doorbreken.</p><h1>Opzet van dit programma</h1><p>Deze training bestaat uit 3 interactieve online sessies van 1,5 uur via Teams. Je leert van een ervaren trainer en je werkt samen met andere deelnemers in breakout rooms aan korte opdrachten. Zo leer je ook van elkaar!</p>]]></Description>
     
     <Language>nl</Language>
@@ -18,7 +18,7 @@
     <StudyloadUnit>hours</StudyloadUnit>
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
-    <WebAddress>https://tafelgasten.com/online-trainingen/effectief-beinvloeden-verdieping/</WebAddress>
+    <WebAddress>https://tafelgasten.com/online-trainingen/mini-serie-effectief-beinvloeden-in-sales/</WebAddress>
     <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
@@ -31,7 +31,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>11</AvailableSeats>
+          <AvailableSeats>12</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>rec8Urk3BAgeNsjKu-dag1</ID>
@@ -68,7 +68,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>10</AvailableSeats>
+          <AvailableSeats>12</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recAbvHr1CQomP2AQ-dag1</ID>
@@ -341,7 +341,7 @@
   <Product>
     <ID>PP-042-sp</ID>
     <Name>Praktisch leidinggeven met Belbin teamrollen</Name>
-    <Description><![CDATA[<h1>Introductie</h1><p>Als leidinggevende werk je dagelijks met verschillende persoonlijkheden, talenten en werkstijlen. De één neemt vanzelf initiatief, terwijl de ander behoefte heeft aan meer richting. Sommige teams versterken elkaar, terwijl andere teams energie verliezen door misverstanden, irritaties of onduidelijke verwachtingen.</p><p>De Belbin-methodiek biedt een praktische manier om deze verschillen beter te begrijpen en productief te benutten.</p><p>Tijdens dit online drieluik ontdek je hoe teamrollen invloed hebben op samenwerking, communicatie en prestaties. Tussen de sessies door vertaal je de inzichten direct naar je eigen praktijk, zodat leren en toepassen hand in hand gaan.</p><h1>Opbouw van de training</h1><h1>Sessie 1 – Inzicht in Teamrollen</h1><p>Maak kennis met de negen Belbin Teamrollen en ontdek hoe verschillen in gedrag, kwaliteiten en voorkeuren invloed hebben op samenwerking. Je krijgt meer inzicht in jouw eigen rol en die van anderen binnen het team.</p><h1>Sessie 2 – Leidinggeven aan Verschillen</h1><p>Hoe benut je verschillen tussen medewerkers zonder dat ze leiden tot frustratie of misverstanden? In deze sessie vertaal je de Belbin-inzichten naar de dagelijkse praktijk van leidinggeven.</p><h1>Sessie 3 – Van Inzicht naar Actie</h1><p>In de laatste sessie breng je alle inzichten samen en onderzoek je hoe je deze kunt inzetten binnen jouw team. Je werkt aan praktische toepassingen die passen bij jouw eigen situatie.</p><h1>Onderwerpen</h1><p>Tijdens de training komen onder andere de volgende thema's aan bod:<br/>- De negen Belbin Teamrollen<br/>- Gedrag, kwaliteiten en valkuilen herkennen<br/>- Samenwerking en teamdynamiek<br/>- Verschillen tussen medewerkers benutten<br/>- Effectiever communiceren en leidinggeven<br/>- Talentontwikkeling binnen teams<br/>- Teamontwikkeling in de praktijk<br/>- Toepassing binnen jouw eigen werksituatie</p><h1>Wat levert deze training op?</h1><p>Na afloop heb je:<br/>- Meer inzicht in de verschillende teamrollen binnen teams<br/>- Beter begrip van gedrag, kwaliteiten en valkuilen van medewerkers<br/>- Handvatten om verschillen productiever te benutten<br/>- Meer grip op samenwerking en teamdynamiek<br/>- Praktische inzichten die je direct kunt toepassen in jouw eigen team</p><h1>Doelgroep</h1><p>Deze training is bedoeld voor leidinggevenden, teamleiders, coördinatoren, projectleiders en andere professionals die verantwoordelijk zijn voor het aansturen of ontwikkelen van teams.<br/>Ook HR-professionals, interne coaches en adviseurs die leidinggevenden begeleiden, halen waarde uit deze training.</p><h1>Resultaat</h1><p>Na afloop kijk je met een andere bril naar samenwerking binnen teams. Je begrijpt beter welke kwaliteiten mensen meebrengen, waar verschillen vandaan komen en hoe je deze effectiever kunt benutten.<br/>Hierdoor kun je gerichter sturen op samenwerking, talentontwikkeling en teamresultaat.</p><h1>Goed om te weten</h1><p>Deze training bestaat uit drie interactieve online sessies van 1,5 uur via Microsoft Teams.<br/>Tussen de sessies werk je met korte praktijkopdrachten binnen jouw eigen werksituatie. Hierdoor vertaal je de inzichten direct naar de praktijk en vergroot je het leerrendement.<br/>De training is ontwikkeld in samenwerking met Belbin Nederland en wordt verzorgd door Bas van Beijsterveld, specialist op het gebied van leiderschap, teamontwikkeling en Belbin Teamrollen.</p><h1>Certificaat</h1><p>Na succesvolle afronding van deze training ontvang je een persoonlijk certificaat van deelname van Tafelgasten.com. Het certificaat beschrijft de belangrijkste kennis, vaardigheden en competenties die je tijdens de training hebt ontwikkeld en vormt een waardevolle aanvulling op je professionele portfolio.</p>]]></Description>
+    <Description><![CDATA[<h1>Introductie</h1><p>Als leidinggevende werk je dagelijks met verschillende persoonlijkheden, talenten en werkstijlen. De één neemt vanzelf initiatief, terwijl de ander behoefte heeft aan meer richting. Sommige teams versterken elkaar, terwijl andere teams energie verliezen door misverstanden, irritaties of onduidelijke verwachtingen.</p><p>De Belbin-methodiek biedt een praktische manier om deze verschillen beter te begrijpen en productief te benutten.</p><p>Tijdens dit online drieluik ontdek je hoe teamrollen invloed hebben op samenwerking, communicatie en prestaties. Tussen de sessies door vertaal je de inzichten direct naar je eigen praktijk, zodat leren en toepassen hand in hand gaan.</p><h1>Opbouw van de training</h1><h1># Sessie 1 – Inzicht in Teamrollen</h1><p>Maak kennis met de negen Belbin Teamrollen en ontdek hoe verschillen in gedrag, kwaliteiten en voorkeuren invloed hebben op samenwerking. Je krijgt meer inzicht in jouw eigen rol en die van anderen binnen het team.</p><h1># Sessie 2 – Leidinggeven aan Verschillen</h1><p>Hoe benut je verschillen tussen medewerkers zonder dat ze leiden tot frustratie of misverstanden? In deze sessie vertaal je de Belbin-inzichten naar de dagelijkse praktijk van leidinggeven.</p><h1># Sessie 3 – Van Inzicht naar Actie</h1><p>In de laatste sessie breng je alle inzichten samen en onderzoek je hoe je deze kunt inzetten binnen jouw team. Je werkt aan praktische toepassingen die passen bij jouw eigen situatie.</p><h1>Onderwerpen</h1><p>Tijdens de training komen onder andere de volgende thema's aan bod:<br/>- De negen Belbin Teamrollen<br/>- Gedrag, kwaliteiten en valkuilen herkennen<br/>- Samenwerking en teamdynamiek<br/>- Verschillen tussen medewerkers benutten<br/>- Effectiever communiceren en leidinggeven<br/>- Talentontwikkeling binnen teams<br/>- Teamontwikkeling in de praktijk<br/>- Toepassing binnen jouw eigen werksituatie</p><h1>Wat levert deze training op?</h1><p>Na afloop heb je:<br/>- Meer inzicht in de verschillende teamrollen binnen teams<br/>- Beter begrip van gedrag, kwaliteiten en valkuilen van medewerkers<br/>- Handvatten om verschillen productiever te benutten<br/>- Meer grip op samenwerking en teamdynamiek<br/>- Praktische inzichten die je direct kunt toepassen in jouw eigen team</p><h1>Doelgroep</h1><p>Deze training is bedoeld voor leidinggevenden, teamleiders, coördinatoren, projectleiders en andere professionals die verantwoordelijk zijn voor het aansturen of ontwikkelen van teams.<br/>Ook HR-professionals, interne coaches en adviseurs die leidinggevenden begeleiden, halen waarde uit deze training.</p><h1>Resultaat</h1><p>Na afloop kijk je met een andere bril naar samenwerking binnen teams. Je begrijpt beter welke kwaliteiten mensen meebrengen, waar verschillen vandaan komen en hoe je deze effectiever kunt benutten.<br/>Hierdoor kun je gerichter sturen op samenwerking, talentontwikkeling en teamresultaat.</p><h1>Goed om te weten</h1><p>Deze training bestaat uit drie interactieve online sessies van 1,5 uur via Microsoft Teams.<br/>Tussen de sessies werk je met korte praktijkopdrachten binnen jouw eigen werksituatie. Hierdoor vertaal je de inzichten direct naar de praktijk en vergroot je het leerrendement.<br/>De training is ontwikkeld in samenwerking met Belbin Nederland en wordt verzorgd door Bas van Beijsterveld, specialist op het gebied van leiderschap, teamontwikkeling en Belbin Teamrollen.</p><h1>Certificaat</h1><p>Na succesvolle afronding van deze training ontvang je een persoonlijk certificaat van deelname van Tafelgasten.com. Het certificaat beschrijft de belangrijkste kennis, vaardigheden en competenties die je tijdens de training hebt ontwikkeld en vormt een waardevolle aanvulling op je professionele portfolio.</p>]]></Description>
     
     <Language>nl</Language>
     <Price>525</Price>
@@ -1449,8 +1449,8 @@
     </Trainers>
   </Product>
   <Product>
-    <ID>PP-011-sp</ID>
-    <Name>Effectief Beinvloeden in Sales | Klanten betrekken en meekrijgen</Name>
+    <ID>PP-020-sp</ID>
+    <Name>Effectief beïnvloeden in sales (vervolg) | Nieuwe praktische technieken om klanten mee te krijgen</Name>
     <Description><![CDATA[<h1>Introductie</h1><p>Tijdens deze training gaan we dieper in op geavanceerde beïnvloedingstechnieken en wetenschappelijke inzichten die je helpen om klantgedrag subtiel te sturen. We onderzoeken de kracht van nudging, pre-suasion en lichamelijke ervaringen en hoe je deze kunt toepassen in je interacties met klanten. Door deze technieken te integreren, kun je nog effectiever worden in je rol en je impact verder vergroten.</p><h1>Sessie 1: Nudging en keuze-architectuur</h1><p>In de eerste sessie behandelen we het concept van nudging, geïntroduceerd door Richard Thaler en Cass Sunstein. Je leert hoe kleine aanpassingen in de keuze-architectuur grote effecten kunnen hebben op klantgedrag. We bespreken succesvolle nudging-voorbeelden uit verschillende sectoren en oefenen met het ontwerpen van eigen nudges die direct toepasbaar zijn in je werk.</p><h1>Sessie 2: Pre-Suasion en emotionele invloeden</h1><p>De tweede sessie richt zich op de principes uit "Pre-Suasion" van Robert Cialdini en de invloed van emoties op beslissingen. Je leert hoe je de aandacht van klanten kunt sturen vóórdat de boodschap wordt overgebracht, om zo hun ontvankelijkheid te vergroten. We onderzoeken emotionele triggers en sociale normen, en oefenen met technieken om pre-suasion toe te passen in klantgesprekken.</p><h1>Sessie 3: Lichamelijke ervaringen en geïntegreerde beïnvloeding</h1><p>In de laatste sessie combineren we de kennis uit de eerste twee sessies en integreren we inzichten uit o.a. Thalma Lobel's werk over hoe lichamelijke ervaringen de keuzes die mensen nemen beïnvloeden. Je leert hoe de fysieke omgeving en lichamelijke sensaties subtiel gedrag kunnen sturen. Ethische overwegingen en best practices voor het implementeren van deze technieken worden ook besproken.</p><h1>Onderwerpen</h1><ul><li>Nudging: theorie en praktijk</li><li>Keuze-architectuur</li><li>Pre-Suasion: aandacht en ontvankelijkheid</li><li>Emotionele en sociale invloeden op beslissingen</li><li>Lichamelijke ervaringen en gedragsbeïnvloeding</li><li>Geïntegreerde beïnvloedingstechnieken</li><li>Ethische aspecten van beïnvloeding</li></ul><h1>Leerdoelen</h1><ul><li>Inzicht in nudging en keuze-architectuur: begrijpen hoe kleine aanpassingen in de keuze-architectuur het klantgedrag kunnen beïnvloeden zonder hun keuzevrijheid te beperken, leren om effectieve nudges te ontwerpen en toe te passen in de dagelijkse praktijk</li><li>Begrip van pre-suasion en emotionele invloeden: ontwikkelen van vaardigheden om de aandacht van klanten te sturen vóórdat de boodschap wordt overgebracht, gebaseerd op Robert Cialdini's principes van pre-suasion, identificeren en toepassen van emotionele triggers en sociale normen om de ontvankelijkheid van klanten te vergroten</li><li>Integratie van lichamelijke ervaringen in beïnvloeding: inzicht krijgen in hoe lichamelijke ervaringen en de fysieke omgeving keuzes en gedrag van klanten subtiel kunnen sturen, geïnspireerd door het werk van Thalma Lobel, leren om fysieke en zintuiglijke aspecten effectief te integreren in klantinteracties</li><li>Toepassen van geavanceerde beïnvloedingstechnieken: integreren van nudging, pre-suasion, en lichamelijke ervaringen in een holistische beïnvloedingsstrategie, oefenen met en toepassen van deze technieken in realistische scenario's en klantgesprekken</li><li>Ethische overwegingen en best practices: bespreken en begrijpen van de ethische implicaties van het gebruik van beïnvloedingstechnieken, leren om deze technieken op een verantwoorde en effectieve manier te implementeren in de dagelijkse praktijk</li></ul><h1>Doelgroep</h1><p>Deze training past uitstekend bij je als je je geïnteresseerd bent in hoe klanten, cliënten of opdrachtgevers keuzes maken én hoe je hen effectief kunt beinvloeden en meerkrijgen. Je impactfactor aan tafel gaat na het volgen van deze training gegarandeerd omhoog.</p><p>Ben je accountmanager? Dan ontdek je in deze training de geheimen van het menselijk brein, waardoor je effectiever kunt communiceren en krachtiger kunt beïnvloeden. Je leert praktische technieken uit de psychologie die je direct kunt toepassen in je schriftelijke en mondelinge interacties met je klanten. Van het oplossen van klachten tot het sluiten van deals - verbeter jouw impact en vergroot het succes van jouw accountmanagement.</p><p>Werk je als inside sales? Dan leer je in deze training hoe je jouw propositie op een aantrekkelijke manier kunt verpakken en weerstanden van klanten kunt doorbreken. Met praktische inzichten uit de psychologie til je jouw inside salesgesprekken naar een hoger niveau en behaal je betere resultaten.</p><h1>Opzet van dit programma</h1><p>Deze training bestaat uit 3 interactieve online sessies van 1,5 uur via Teams. Je leert van een ervaren trainer en werkt samen met andere deelnemers in break-out rooms aan korte opdrachten, zodat je ook van elkaar leert.</p>]]></Description>
     
     <Language>nl</Language>
@@ -1466,7 +1466,7 @@
     <StudyloadUnit>hours</StudyloadUnit>
     <Completion>Certificaat</Completion>
     <MaxParticipants>12</MaxParticipants>
-    <WebAddress>https://tafelgasten.com/online-trainingen/mini-serie-effectief-beinvloeden-in-sales/</WebAddress>
+    <WebAddress>https://tafelgasten.com/online-trainingen/effectief-beinvloeden-verdieping/</WebAddress>
     <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
@@ -1479,7 +1479,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>true</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>1</AvailableSeats>
+          <AvailableSeats>12</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recCEyT9zMpf5bugF-dag1</ID>
@@ -1503,43 +1503,6 @@
               <Name lang="nl"><![CDATA[Sessie 3]]></Name>
               <StartTime>09:00</StartTime>
               <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-        <StartingDatePlace>
-          <ID>reclGZG4VxfcXAQIq</ID>
-          <Startdate>2026-10-29</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-11-12</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>true</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>10</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>reclGZG4VxfcXAQIq-dag1</ID>
-              <Date>2026-10-29</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>19:00</StartTime>
-              <EndTime>20:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>reclGZG4VxfcXAQIq-dag2</ID>
-              <Date>2026-11-05</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>19:00</StartTime>
-              <EndTime>20:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>reclGZG4VxfcXAQIq-dag3</ID>
-              <Date>2026-11-12</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>19:00</StartTime>
-              <EndTime>20:30</EndTime>
               <Place>Online</Place>
             </CourseDay>
           </Schedule>
@@ -1577,6 +1540,43 @@
               <Name lang="nl"><![CDATA[Sessie 3]]></Name>
               <StartTime>15:00</StartTime>
               <EndTime>16:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+          </Schedule>
+        </StartingDatePlace>
+        <StartingDatePlace>
+          <ID>reclGZG4VxfcXAQIq</ID>
+          <Startdate>2026-10-29</Startdate>
+          <Place>Online</Place>
+          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
+          <Enddate>2026-11-12</Enddate>
+          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
+          <StartGuaranteed>true</StartGuaranteed>
+          <MaxNumberOfSeats>12</MaxNumberOfSeats>
+          <AvailableSeats>12</AvailableSeats>
+          <Schedule>
+            <CourseDay>
+              <ID>reclGZG4VxfcXAQIq-dag1</ID>
+              <Date>2026-10-29</Date>
+              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
+              <StartTime>19:00</StartTime>
+              <EndTime>20:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>reclGZG4VxfcXAQIq-dag2</ID>
+              <Date>2026-11-05</Date>
+              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
+              <StartTime>19:00</StartTime>
+              <EndTime>20:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>reclGZG4VxfcXAQIq-dag3</ID>
+              <Date>2026-11-12</Date>
+              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
+              <StartTime>19:00</StartTime>
+              <EndTime>20:30</EndTime>
               <Place>Online</Place>
             </CourseDay>
           </Schedule>
@@ -2457,7 +2457,7 @@
   </Product>
   <Product>
     <ID>PP-034-sp</ID>
-    <Name>SpreekKuur | Vertel je verhaal. Maak impact.</Name>
+    <Name>Presenteren en spreken met Impact | SpreekKuur</Name>
     <Description><![CDATA[<h1>Introductie</h1><p>Wat wil je het liefst wanneer jij een verhaal vertelt? Juist! Dat jouw woorden iets doen met de luisteraar. Dat die op het puntje van zijn stoel gaat zitten, in gedachten met jou meegaat en overtuigd raakt van jouw boodschap. Dat kan een persoonlijk gesprek zijn via telefoon of Teams. Of een fysieke meeting of een presentatie aan een groep mensen.</p><p>Soms lukt het. En soms ook niet, of niet meer. Je merkt wellicht dat je niet echt gehoord wordt, dat je argumenten niet krachtig overkomen, of dat je jouw verhalen al een tijdje niet echt hebt vernieuwd.</p><p>Iedereen heeft een verhaal te vertellen dat ertoe doet. In de training 'Spreekkuur' training helpen we je om jouw eigen 'verhaalkracht' te ontdekken, zodat je met vertrouwen jouw boodschap kan overbrengen. Met de training 'SpreekKuur' toets en verbeter jij concreet de manier waarop je jouw verhaal vertelt én hoe je overkomt op anderen.</p><p>Over de training<br/>Deze training is anders en uniek; trainers Bert-Jan Bezema en Ferry Konter helpen je niet alleen bij wát je zegt maar vooral ook én hoe je boodschap overkomt. En dat start met een APK voor je verhaal. Wat gaat er goed? Wat kan er beter? Denk hierbij aan stemgebruik, woordkeuze, lichaamstaal en storytelling. We werken in deze training bovendien aan je ademhalingstechniek en het gebruik van stopwoorden en twijfeltaal.</p><h1>Sessie 1: De APK van jouw verhaal</h1><p>In de eerste sessie gaan we samen de APK uitvoeren aan de hand van een eigen verhaal. En gaan we aan de slag met het gebruik van je stem. Dat doen we aan de hand van een stuk theorie, maar vooral door praktische voorbeelden te laten zien. En door veel te oefenen en elkaar feedback te geven.</p><h1>Sessie 2: Laat je lichaam spreken</h1><p>In de tweede sessie zoomen we in op je manier waarop je non-verbaal overkomt. Bijvoorbeeld je lichaamshouding en je gezichtsuitdrukking. We oefenen daar tijdens deze sessie heel gericht mee, bijvoorbeeld door het inspreken van een fictieve commercial en het maken van een gesproken gedicht.</p><h1>Sessie 3: Voluit spreken als jezelf</h1><p>In de derde sessie brengen we de bouwstenen van de 1e en de 2e sessie bij elkaar en zetten we de punten op de 'i'. We doen een aantal oefeningen en geven elkaar feedback op wat we ervaren. Daardoor kun jij na het volgen van deze training "sprekend jezelf zijn".</p><h1>Onderwerpen</h1><ul><li>APK van je verhaal: een grondige analyse van hoe jouw verhaal nu overkomt</li><li>Stem- en spreekstijl: technieken voor ademhaling, stemvolume, ritme, vermijden van stopwoorden en twijfeltaal</li><li>Non-verbale impact: lichaamshouding, gezichtsuitdrukking en beweging</li><li>Storytelling & woordkeuze: hoe je jouw verhaal zo formuleert dat het de luisteraar meeneemt</li><li>Oefenen in realistische contexten: praktische oefeningen met directe feedback</li><li>Integratie en eigen stijl: de bouwstenen samenbrengen zodat je "sprekend jezelf bent"</li></ul><h1>Leerdoelen</h1><ul><li>Heb je een inzicht in je eigen verhaal en hoe die kan vertellen;</li><li>Weet je afhankelijk van de situatie je stem effectief te gebruiken;</li><li>Klopt je houding en lichaamstaal bij de boodschap die je wil overbrengen;</li><li>Kan je een verhaal beter vertellen in het echt, via telefoon en via TEAMS;</li><li>Weet je de informatie echt over te brengen aan een ander;</li><li>Kan je iemand met een sprekend verhaal in beweging krijgen.</li></ul><h1>Doelgroep</h1><p>Deze training is ontworpen voor professionals in verschillende sectoren en is geschikt voor zowel beginnende als ervaren professionals die stappen willen maken bij het in elke situatie vertellen van je eigen sprekende verhaal.</p><p>Deze training is bij uitstek geschikt voor je als je:<br/>- Veel telefonisch contact hebt met klanten, partners of interne collega's<br/>- Veel gesprekken via Teams voert<br/>- Regelmatig moet presenteren bij klanten of op andere gelegenheden<br/>- Acquisitie doet en krachtiger wilt overkomen in gesprekken met potentiële klanten</p><h1>Opzet van dit programma</h1><p>Deze training bestaat uit 3 interactieve online sessies van 1,5 uur via Teams. Je leert van een ervaren trainer en werkt samen met andere deelnemers in break-out rooms aan korte opdrachten. Hierdoor leer je ook van elkaar en versterk je je netwerk.</p><h1>Certificaat</h1><p>Rond je deze training succesvol af, dan ontvang je een persoonlijk certificaat van deelname. Een waardevolle erkenning van de kennis en vaardigheden die je tijdens de training hebt ontwikkeld en een mooie aanvulling op je professionele portfolio.</p>]]></Description>
     
     <Language>nl</Language>
