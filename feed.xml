@@ -237,6 +237,43 @@
           </Schedule>
         </StartingDatePlace>
         <StartingDatePlace>
+          <ID>rec43GfW5v9BCeDiL</ID>
+          <Startdate>2027-01-12</Startdate>
+          <Place>Online</Place>
+          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
+          <Enddate>2027-01-26</Enddate>
+          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
+          <StartGuaranteed>false</StartGuaranteed>
+          <MaxNumberOfSeats>12</MaxNumberOfSeats>
+          <AvailableSeats>12</AvailableSeats>
+          <Schedule>
+            <CourseDay>
+              <ID>rec43GfW5v9BCeDiL-dag1</ID>
+              <Date>2027-01-12</Date>
+              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
+              <StartTime>15:00</StartTime>
+              <EndTime>16:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>rec43GfW5v9BCeDiL-dag2</ID>
+              <Date>2027-01-19</Date>
+              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
+              <StartTime>15:00</StartTime>
+              <EndTime>16:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>rec43GfW5v9BCeDiL-dag3</ID>
+              <Date>2027-01-26</Date>
+              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
+              <StartTime>15:00</StartTime>
+              <EndTime>16:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+          </Schedule>
+        </StartingDatePlace>
+        <StartingDatePlace>
           <ID>recBH5uwZWsIk8Hux</ID>
           <Startdate>2026-11-26</Startdate>
           <Place>Online</Place>
@@ -274,7 +311,7 @@
           </Schedule>
         </StartingDatePlace>
         <StartingDatePlace>
-          <ID>recSJV966iEn3oDDh</ID>
+          <ID>recGXuIH3dx2IepVg</ID>
           <Startdate>2026-12-31</Startdate>
           <Place>Online</Place>
           <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
@@ -285,11 +322,11 @@
           <AvailableSeats>12</AvailableSeats>
           <Schedule>
             <CourseDay>
-              <ID>recSJV966iEn3oDDh-dag1</ID>
+              <ID>recGXuIH3dx2IepVg-dag1</ID>
               <Date>2026-12-31</Date>
               <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
+              <StartTime>11:00</StartTime>
+              <EndTime>12:30</EndTime>
               <Place>Online</Place>
             </CourseDay>
           </Schedule>
@@ -340,8 +377,8 @@
   </Product>
   <Product>
     <ID>PP-042-sp</ID>
-    <Name>Praktisch leidinggeven met Belbin teamrollen</Name>
-    <Description><![CDATA[<h1>Introductie</h1><p>Als leidinggevende werk je dagelijks met verschillende persoonlijkheden, talenten en werkstijlen. De één neemt vanzelf initiatief, terwijl de ander behoefte heeft aan meer richting. Sommige teams versterken elkaar, terwijl andere teams energie verliezen door misverstanden, irritaties of onduidelijke verwachtingen.</p><p>De Belbin-methodiek biedt een praktische manier om deze verschillen beter te begrijpen en productief te benutten.</p><p>Tijdens dit online drieluik ontdek je hoe teamrollen invloed hebben op samenwerking, communicatie en prestaties. Tussen de sessies door vertaal je de inzichten direct naar je eigen praktijk, zodat leren en toepassen hand in hand gaan.</p><h1>Opbouw van de training</h1><h1># Sessie 1 – Inzicht in Teamrollen</h1><p>Maak kennis met de negen Belbin Teamrollen en ontdek hoe verschillen in gedrag, kwaliteiten en voorkeuren invloed hebben op samenwerking. Je krijgt meer inzicht in jouw eigen rol en die van anderen binnen het team.</p><h1># Sessie 2 – Leidinggeven aan Verschillen</h1><p>Hoe benut je verschillen tussen medewerkers zonder dat ze leiden tot frustratie of misverstanden? In deze sessie vertaal je de Belbin-inzichten naar de dagelijkse praktijk van leidinggeven.</p><h1># Sessie 3 – Van Inzicht naar Actie</h1><p>In de laatste sessie breng je alle inzichten samen en onderzoek je hoe je deze kunt inzetten binnen jouw team. Je werkt aan praktische toepassingen die passen bij jouw eigen situatie.</p><h1>Onderwerpen</h1><p>Tijdens de training komen onder andere de volgende thema's aan bod:<br/>- De negen Belbin Teamrollen<br/>- Gedrag, kwaliteiten en valkuilen herkennen<br/>- Samenwerking en teamdynamiek<br/>- Verschillen tussen medewerkers benutten<br/>- Effectiever communiceren en leidinggeven<br/>- Talentontwikkeling binnen teams<br/>- Teamontwikkeling in de praktijk<br/>- Toepassing binnen jouw eigen werksituatie</p><h1>Wat levert deze training op?</h1><p>Na afloop heb je:<br/>- Meer inzicht in de verschillende teamrollen binnen teams<br/>- Beter begrip van gedrag, kwaliteiten en valkuilen van medewerkers<br/>- Handvatten om verschillen productiever te benutten<br/>- Meer grip op samenwerking en teamdynamiek<br/>- Praktische inzichten die je direct kunt toepassen in jouw eigen team</p><h1>Doelgroep</h1><p>Deze training is bedoeld voor leidinggevenden, teamleiders, coördinatoren, projectleiders en andere professionals die verantwoordelijk zijn voor het aansturen of ontwikkelen van teams.<br/>Ook HR-professionals, interne coaches en adviseurs die leidinggevenden begeleiden, halen waarde uit deze training.</p><h1>Resultaat</h1><p>Na afloop kijk je met een andere bril naar samenwerking binnen teams. Je begrijpt beter welke kwaliteiten mensen meebrengen, waar verschillen vandaan komen en hoe je deze effectiever kunt benutten.<br/>Hierdoor kun je gerichter sturen op samenwerking, talentontwikkeling en teamresultaat.</p><h1>Goed om te weten</h1><p>Deze training bestaat uit drie interactieve online sessies van 1,5 uur via Microsoft Teams.<br/>Tussen de sessies werk je met korte praktijkopdrachten binnen jouw eigen werksituatie. Hierdoor vertaal je de inzichten direct naar de praktijk en vergroot je het leerrendement.<br/>De training is ontwikkeld in samenwerking met Belbin Nederland en wordt verzorgd door Bas van Beijsterveld, specialist op het gebied van leiderschap, teamontwikkeling en Belbin Teamrollen.</p><h1>Certificaat</h1><p>Na succesvolle afronding van deze training ontvang je een persoonlijk certificaat van deelname van Tafelgasten.com. Het certificaat beschrijft de belangrijkste kennis, vaardigheden en competenties die je tijdens de training hebt ontwikkeld en vormt een waardevolle aanvulling op je professionele portfolio.</p>]]></Description>
+    <Name>Praktisch leidinggeven | Officiële Belbin Teamrollen training</Name>
+    <Description><![CDATA[<h1>Introductie</h1><p>Als leidinggevende werk je dagelijks met verschillende persoonlijkheden, talenten en werkstijlen. De één neemt vanzelf initiatief, terwijl de ander behoefte heeft aan meer richting. Sommige teams versterken elkaar, terwijl andere teams energie verliezen door misverstanden, irritaties of onduidelijke verwachtingen.</p><p>De Belbin-methodiek biedt een praktische manier om deze verschillen beter te begrijpen en productief te benutten.</p><p>Tijdens dit online drieluik ontdek je hoe teamrollen invloed hebben op samenwerking, communicatie en prestaties. Tussen de sessies door vertaal je de inzichten direct naar je eigen praktijk, zodat leren en toepassen hand in hand gaan.</p><h1>Opbouw van de training</h1><h1>**Sessie 1 – Inzicht in Teamrollen**</h1><p>Maak kennis met de negen Belbin Teamrollen en ontdek hoe verschillen in gedrag, kwaliteiten en voorkeuren invloed hebben op samenwerking. Je krijgt meer inzicht in jouw eigen rol en die van anderen binnen het team.</p><h1>**Sessie 2 – Leidinggeven aan Verschillen**</h1><p>Hoe benut je verschillen tussen medewerkers zonder dat ze leiden tot frustratie of misverstanden? In deze sessie vertaal je de Belbin-inzichten naar de dagelijkse praktijk van leidinggeven.</p><h1>**Sessie 3 – Van Inzicht naar Actie**</h1><p>In de laatste sessie breng je alle inzichten samen en onderzoek je hoe je deze kunt inzetten binnen jouw team. Je werkt aan praktische toepassingen die passen bij jouw eigen situatie.</p><h1>Onderwerpen</h1><p>Tijdens de training komen onder andere de volgende thema's aan bod:<br/>- De negen Belbin Teamrollen<br/>- Gedrag, kwaliteiten en valkuilen herkennen<br/>- Samenwerking en teamdynamiek<br/>- Verschillen tussen medewerkers benutten<br/>- Effectiever communiceren en leidinggeven<br/>- Talentontwikkeling binnen teams<br/>- Teamontwikkeling in de praktijk<br/>- Toepassing binnen jouw eigen werksituatie</p><h1>Wat levert deze training op?</h1><p>Na afloop heb je:<br/>- Meer inzicht in de verschillende teamrollen binnen teams<br/>- Beter begrip van gedrag, kwaliteiten en valkuilen van medewerkers<br/>- Handvatten om verschillen productiever te benutten<br/>- Meer grip op samenwerking en teamdynamiek<br/>- Praktische inzichten die je direct kunt toepassen in jouw eigen team</p><h1>Doelgroep</h1><p>Deze training is bedoeld voor leidinggevenden, teamleiders, coördinatoren, projectleiders en andere professionals die verantwoordelijk zijn voor het aansturen of ontwikkelen van teams.<br/>Ook HR-professionals, interne coaches en adviseurs die leidinggevenden begeleiden, halen waarde uit deze training.</p><h1>Resultaat</h1><p>Na afloop kijk je met een andere bril naar samenwerking binnen teams. Je begrijpt beter welke kwaliteiten mensen meebrengen, waar verschillen vandaan komen en hoe je deze effectiever kunt benutten.<br/>Hierdoor kun je gerichter sturen op samenwerking, talentontwikkeling en teamresultaat.</p><h1>Goed om te weten</h1><p>Deze training bestaat uit drie interactieve online sessies van 1,5 uur via Microsoft Teams.<br/>Tussen de sessies werk je met korte praktijkopdrachten binnen jouw eigen werksituatie. Hierdoor vertaal je de inzichten direct naar de praktijk en vergroot je het leerrendement.<br/>De training is ontwikkeld in samenwerking met Belbin Nederland en wordt verzorgd door Bas van Beijsterveld, specialist op het gebied van leiderschap, teamontwikkeling en Belbin Teamrollen.</p><h1>Certificaat</h1><p>Na succesvolle afronding van deze training ontvang je een persoonlijk certificaat van deelname van Tafelgasten.com. Het certificaat beschrijft de belangrijkste kennis, vaardigheden en competenties die je tijdens de training hebt ontwikkeld en vormt een waardevolle aanvulling op je professionele portfolio.</p>]]></Description>
     
     <Language>nl</Language>
     <Price>525</Price>
@@ -2132,27 +2169,6 @@
               <ID>recoCp6Tu1rrzzejA-dag3</ID>
               <Date>2026-10-01</Date>
               <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-        <StartingDatePlace>
-          <ID>rec0iwbtfHeMGagfg</ID>
-          <Startdate>2026-12-31</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-12-31</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>rec0iwbtfHeMGagfg-dag1</ID>
-              <Date>2026-12-31</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
               <StartTime>09:00</StartTime>
               <EndTime>10:30</EndTime>
               <Place>Online</Place>
