@@ -103,9 +103,9 @@
           <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
           <Enddate>2026-11-19</Enddate>
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
+          <StartGuaranteed>true</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>10</AvailableSeats>
+          <AvailableSeats>9</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recYctocKbAjEhiqI-dag1</ID>
@@ -1302,43 +1302,6 @@
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
-          <ID>recbkobJFZDJzDJCF</ID>
-          <Startdate>2026-09-21</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-10-05</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recbkobJFZDJzDJCF-dag1</ID>
-              <Date>2026-09-21</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recbkobJFZDJzDJCF-dag2</ID>
-              <Date>2026-09-28</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recbkobJFZDJzDJCF-dag3</ID>
-              <Date>2026-10-05</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-        <StartingDatePlace>
           <ID>recoFChoNPvjInY1s</ID>
           <Startdate>2026-11-10</Startdate>
           <Place>Online</Place>
@@ -1910,7 +1873,7 @@
   </Product>
   <Product>
     <ID>PP-006-sp</ID>
-    <Name>Insights Discovery | Inclusief Persoonlijk Profiel</Name>
+    <Name>Insights Discovery | Begrijp jezelf én anderen beter</Name>
     <Description><![CDATA[<h1>Introductie</h1><p>De Insights Discovery methodiek geeft een verhelderend inzicht in de manier waarop mensen denken, werken en communiceren. Het uitgangspunt van deze methode is dat ieder mens uniek is, met bijzondere talenten en kwaliteiten en persoonlijke voorkeurstijlen. Juist deze unieke verschillen tussen mensen maken je als mens bijzonder en zorgen voor toegevoegde waarde in de samenwerking met anderen.</p><p>In deze interactieve online training krijg je een introductie in deze methodiek dat werkt met 4 kleuren (groen, geel, rood en blauw). Ze geven je op een praktische manier inzicht in je eigen reacties en gedrag en helpen je om te begrijpen waarom andere mensen heel ander gedrag laten zien. Zo krijg je niet alleen meer kennis over jezelf maar ook over je collega’s. De kleuren refereren namelijk aan gedragsvoorkeuren die bepalen hoe je reageert, denkt en handelt, zowel in situaties waarin ‘het lekker gaat’ en situaties waarin het minder lekker loopt.</p><p>Tevens zoek je in dit dagdeel samen met de trainer de diepgang op en leer je gedrags- en communicatiepatronen herkennen, bij jezelf en bij anderen. Daarnaast krijg je inzicht in hoe je jouw gedrag kunt afstemmen op de ander om zo de onderlinge samenwerking waar nodig te verbeteren.</p><p>Om deze training zo waardevol mogelijk te laten zijn doet elke deelnemer voorafgaand aan de training de persoonlijke (online) Insights Discovery vragenlijst.</p><h1>Onderwerpen</h1><ul><li>Insights Discovery</li><li>Communicatiestijlen</li><li>Gedragsvoorkeuren</li><li>Persoonlijke effectiviteit</li><li>Leiderschap</li></ul><h1>Leerdoelen</h1><ul><li>Heb je inzicht in de kleuren van Insights Discovery en je eigen gedrags- en communicatievoorkeuren</li><li>Ben je je bewuster van je eigen gedrag en dat van anderen</li><li>Kun je je eigen gedrag en communicatie beter afstemmen op de ander</li><li>Heb je inzicht in hoe stressfactoren gekoppeld kunnen worden aan de kleuren van Insights Discovery</li><li>Heb je meer inzicht in je eigen stressfactoren</li><li>Beschik je over praktische handvatten om je eigen veerkracht te verhogen</li></ul><h1>Doelgroep</h1><p>Deze training past uitstekend bij je als je je geïnteresseerd bent in meer inzicht in je eigen gedragsvoorkeuren en die van anderen om zo effectiever en succesvoller wordt in je werk.</p><p>1. Ben je klantadviseur?<br/>Dan is deze training perfect voor jou. Je leert hoe je gedragsvoorkeuren van jezelf en je klanten beter kunt herkennen en erop kunt inspelen. Dit stelt je in staat om je communicatie aan te passen en effectiever te maken, waardoor je klantrelaties verbetert en klanttevredenheid verhoogt.</p><p>1. Werk je als financieel analist?<br/>Dan biedt deze training waardevolle inzichten in de verschillende gedrags- en communicatiestijlen. Door de unieke kleurenmethodiek van Insights Discovery leer je niet alleen jezelf beter kennen, maar ook hoe je beter kunt samenwerken met collega’s en klanten.</p><p>1. Ben je een leidinggevende?<br/>In deze training krijg je de tools om je team beter te begrijpen en aan te sturen. Door inzicht te krijgen in de verschillende gedragsvoorkeuren, kun je effectiever communiceren en de motivatie en productiviteit van je team verhogen.</p><p>1. Werk je in de klantenservice?<br/>Dan zal deze training je helpen om klantgesprekken soepeler en effectiever te laten verlopen. Je leert hoe je klantgedrag kunt interpreteren en je eigen communicatiestijl kunt aanpassen om problemen snel op te lossen en klanttevredenheid te verhogen.</p><p>1. Ben je projectmanager?<br/>Dan ontdek je in deze training hoe je met behulp van de Insights Discovery methode je projectteams beter kunt aansturen.</p><h1>Opzet van dit programma</h1><p>Deze training wordt gegeven in een interactief online dagdeel van in totaal 3 uur via Teams. Je leert van een ervaren trainer en je werkt samen met andere deelnemers in breakout rooms aan korte opdrachten. Zo leer je ook van elkaar.</p>]]></Description>
     
     <Language>nl</Language>
@@ -2251,7 +2214,7 @@
           <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
           <Enddate>2026-12-10</Enddate>
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>true</StartGuaranteed>
+          <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
           <AvailableSeats>11</AvailableSeats>
           <Schedule>
@@ -3184,6 +3147,43 @@
     <Level>HBO</Level>
     <StartingDatePlaces>
         <StartingDatePlace>
+          <ID>rec1FPaSe6ZZG5fhv</ID>
+          <Startdate>2026-11-12</Startdate>
+          <Place>Online</Place>
+          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
+          <Enddate>2026-11-26</Enddate>
+          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
+          <StartGuaranteed>false</StartGuaranteed>
+          <MaxNumberOfSeats>12</MaxNumberOfSeats>
+          <AvailableSeats>11</AvailableSeats>
+          <Schedule>
+            <CourseDay>
+              <ID>rec1FPaSe6ZZG5fhv-dag1</ID>
+              <Date>2026-11-12</Date>
+              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
+              <StartTime>13:00</StartTime>
+              <EndTime>14:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>rec1FPaSe6ZZG5fhv-dag2</ID>
+              <Date>2026-11-19</Date>
+              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
+              <StartTime>13:00</StartTime>
+              <EndTime>14:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>rec1FPaSe6ZZG5fhv-dag3</ID>
+              <Date>2026-11-26</Date>
+              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
+              <StartTime>13:00</StartTime>
+              <EndTime>14:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+          </Schedule>
+        </StartingDatePlace>
+        <StartingDatePlace>
           <ID>recnatwq6rBm94wBb</ID>
           <Startdate>2026-11-12</Startdate>
           <Place>Online</Place>
@@ -3764,7 +3764,7 @@
   <Product>
     <ID>PP-040-sp</ID>
     <Name>Copilot in de praktijk | Bouw je eigen AI-assistent(en) voor terugkerende werkzaamheden</Name>
-    <Description><![CDATA[<h1>Introductie</h1><p>In dit praktische drieluik leer je hoe je agents in Microsoft Copilot inzet voor terugkerende werkzaamheden. Je bouwt stap voor stap een slimme digitale assistent die helpt bij taken zoals samenvatten, rapporteren, vergaderingen voorbereiden, plannen en structureren.<br/>De training is volledig praktijkgericht en direct toepasbaar. Je kiest een eigen casus, bouwt daarop voort en test tussendoor wat wel en niet werkt. Zo ontwikkel je een agent die aansluit bij jouw werk.<br/>Het drieluik bestaat uit drie fases: voorbereiden, bouwen en testen.</p><h1>Sessie 1: Voorbereiden</h1><p>In deze eerste sessie ontdek je wat een agent in Copilot is: een digitale assistent die werkt op basis van instructies, context, kennis en een duidelijk doel. Je leert het verschil tussen een losse prompt en een agent die je steeds opnieuw kunt inzetten.<br/>Aan de hand van voorbeelden onderzoek je welke taken geschikt zijn voor een agent en waar deze tijd bespaart of de kwaliteit verhoogt. Vervolgens kies je één concrete taak uit jouw praktijk en werk je deze uit tot een heldere use case met gewenst resultaat, benodigde input en randvoorwaarden.</p><h1>Sessie 2: Bouwen</h1><p>Nu ga je jouw eerste agent bouwen. Je werkt uit wat de agent moet doen, welke instructies nodig zijn, welke kennis of bronnen je gebruikt en welke output je verwacht.<br/>Je ontdekt hoe kleine aanpassingen in instructies een groot verschil maken in de kwaliteit van de uitkomsten. Tijdens de sessie bouw je een eerste versie, test je deze met eigen voorbeelden en verbeter je de agent gericht op bruikbaarheid en betrouwbaarheid.</p><h1>Sessie 3: Testen en verbeteren</h1><p>In deze sessie staat het verbeteren van jouw agent centraal. Je test de agent met echte input uit je werk en beoordeelt of de uitkomsten bruikbaar, volledig en betrouwbaar zijn.<br/>Je leert hoe je output controleert, ontdekt waar instructies nog te vaag zijn en scherpt de agent verder aan. Ook kijken we naar beheer en vervolgtoepassingen, zodat je na afloop zelfstandig nieuwe agents kunt ontwikkelen.</p><h1>Onderwerpen</h1><h1>Sessie 1 – Voorbereiden</h1><ul><li>Wat is een agent in Copilot en wanneer levert deze waarde?</li><li>Het verschil tussen een losse prompt en een agent</li><li>Geschikte taken herkennen voor automatisering</li><li>Een werkproces vertalen naar een heldere use case</li><li>Kiezen van één concrete taak waarmee je verder gaat bouwen</li></ul><h1>Sessie 2 – Bouwen</h1><ul><li>Een agent opzetten in Microsoft Copilot</li><li>Werken met instructies, context, kennis en gewenste output</li><li>Veelgemaakte fouten bij agents voorkomen</li><li>Een eerste versie bouwen en testen</li><li>Verbeteren op bruikbaarheid en betrouwbaarheid</li></ul><h1>Sessie 3 – Testen en verbeteren</h1><ul><li>Testen met echte input uit jouw praktijk</li><li>Kwaliteit en consistentie beoordelen</li><li>Instructies aanscherpen en verfijnen</li><li>Beheer, onderhoud en doorontwikkeling</li><li>Nieuwe toepassingen en vervolgstappen identificeren</li></ul><h1>Voorbeelden van usercases</h1><h1>User case 1: Voorbereiden van klantgesprekken</h1><p>Een agent die klantinformatie, eerdere contactmomenten, nieuwsberichten en aandachtspunten verzamelt en omzet naar een overzichtelijke voorbereiding inclusief mogelijke vragen en gespreksonderwerpen.</p><h1>User case 2: Klantonderzoek en dossieranalyse</h1><p>Een agent die documenten, notities en beschikbare informatie analyseert en samenvat tot risico's, kansen, openstaande vragen en aanbevolen vervolgstappen.</p><h1>User case 3: Rapportages en managementinformatie</h1><p>Een agent die input uit verslagen, notities of analyses omzet naar een eerste concept voor een rapportage, adviesmemo of managementupdate.</p><h1>Leerdoelen</h1><p>Na deze training kun je:<br/>- Microsoft Copilot Agents doelgericht inzetten voor terugkerende werkzaamheden.<br/>- Zelf een agent ontwerpen, bouwen en testen voor een taak uit jouw dagelijkse praktijk.<br/>- Klantonderzoeken, gesprekken, rapportages en analyses efficiënter voorbereiden.<br/>- De kwaliteit en consistentie van output verbeteren door betere instructies en context.<br/>- Een agent beheren, onderhouden en verder ontwikkelen.<br/>- Nieuwe kansen herkennen om agents in te zetten binnen jouw team of organisatie.<br/>-</p><h1>Doelgroep</h1><p>Deze training is bedoeld voor professionals die al enige ervaring hebben met AI en nu een stap verder willen zetten met agents in Microsoft Copilot.</p><p>De training is bijzonder relevant voor professionals in de financiële dienstverlening, zakelijke dienstverlening en sales. Denk aan adviseurs, accountmanagers, relatiemanagers, consultants, bankers, accountants en andere kennisprofessionals die slimmer willen omgaan met terugkerende werkzaamheden.</p><h1>Resultaat</h1><p>Na afloop beschik je over een werkende agent in Copilot voor een eigen praktische use case. Daarnaast weet je hoe je agents afbakent, opbouwt, test en verbetert, zodat je later zelfstandig nieuwe agents kunt ontwikkelen voor andere werkzaamheden.</p><h1>Goed om te weten</h1><p>Om het maximale uit deze training te halen, werk je tussen de sessies door ongeveer één uur per week aan opdrachten en het verbeteren van je agent. Voor deelname heb je een zakelijke Microsoft 365 Copilot-licentie nodig (bij voorkeur Premium).</p><h1>Certificaat</h1><p>Na afloop van deze training ontvang je een persoonlijk certificaat van deelname. Een waardevolle erkenning van de kennis en vaardigheden die je tijdens de training hebt ontwikkeld en een mooie aanvulling op je professionele portfolio. Het certificaat laat zien dat je Microsoft Copilot en AI-assistenten veilig, verantwoord en effectief kunt inzetten om terugkerende werkzaamheden te ondersteunen en te automatiseren. Daarmee draagt deze training bij aan de AI-geletterdheid (AI Literacy) van professionals, zoals bedoeld in de Europese AI Act.</p>]]></Description>
+    <Description><![CDATA[<h1>Introductie</h1><p>In dit praktische drieluik leer je hoe je agents in Microsoft Copilot inzet voor terugkerende werkzaamheden. Je bouwt stap voor stap een slimme digitale assistent die helpt bij taken zoals samenvatten, rapporteren, vergaderingen voorbereiden, plannen en structureren.<br/>De training is volledig praktijkgericht en direct toepasbaar. Je kiest een eigen casus, bouwt daarop voort en test tussendoor wat wel en niet werkt. Zo ontwikkel je een agent die aansluit bij jouw werk.<br/>Het drieluik bestaat uit drie fases: voorbereiden, bouwen en testen.</p><h1>Sessie 1: Voorbereiden</h1><p>In deze eerste sessie ontdek je wat een agent in Copilot is: een digitale assistent die werkt op basis van instructies, context, kennis en een duidelijk doel. Je leert het verschil tussen een losse prompt en een agent die je steeds opnieuw kunt inzetten.<br/>Aan de hand van voorbeelden onderzoek je welke taken geschikt zijn voor een agent en waar deze tijd bespaart of de kwaliteit verhoogt. Vervolgens kies je één concrete taak uit jouw praktijk en werk je deze uit tot een heldere use case met gewenst resultaat, benodigde input en randvoorwaarden.</p><h1>Sessie 2: Bouwen</h1><p>Nu ga je jouw eerste agent bouwen. Je werkt uit wat de agent moet doen, welke instructies nodig zijn, welke kennis of bronnen je gebruikt en welke output je verwacht.<br/>Je ontdekt hoe kleine aanpassingen in instructies een groot verschil maken in de kwaliteit van de uitkomsten. Tijdens de sessie bouw je een eerste versie, test je deze met eigen voorbeelden en verbeter je de agent gericht op bruikbaarheid en betrouwbaarheid.</p><h1>Sessie 3: Testen en verbeteren</h1><p>In deze sessie staat het verbeteren van jouw agent centraal. Je test de agent met echte input uit je werk en beoordeelt of de uitkomsten bruikbaar, volledig en betrouwbaar zijn.<br/>Je leert hoe je output controleert, ontdekt waar instructies nog te vaag zijn en scherpt de agent verder aan. Ook kijken we naar beheer en vervolgtoepassingen, zodat je na afloop zelfstandig nieuwe agents kunt ontwikkelen.</p><h1>Onderwerpen</h1><h1>Sessie 1 – Voorbereiden</h1><ul><li>Wat is een agent in Copilot en wanneer levert deze waarde?</li><li>Het verschil tussen een losse prompt en een agent</li><li>Geschikte taken herkennen voor automatisering</li><li>Een werkproces vertalen naar een heldere use case</li><li>Kiezen van één concrete taak waarmee je verder gaat bouwen</li></ul><h1>Sessie 2 – Bouwen</h1><ul><li>Een agent opzetten in Microsoft Copilot</li><li>Werken met instructies, context, kennis en gewenste output</li><li>Veelgemaakte fouten bij agents voorkomen</li><li>Een eerste versie bouwen en testen</li><li>Verbeteren op bruikbaarheid en betrouwbaarheid</li></ul><h1>Sessie 3 – Testen en verbeteren</h1><ul><li>Testen met echte input uit jouw praktijk</li><li>Kwaliteit en consistentie beoordelen</li><li>Instructies aanscherpen en verfijnen</li><li>Beheer, onderhoud en doorontwikkeling</li><li>Nieuwe toepassingen en vervolgstappen identificeren</li></ul><h1>Voorbeelden van usercases</h1><h1>User case 1: Voorbereiden van klantgesprekken</h1><p>Een agent die klantinformatie, eerdere contactmomenten, nieuwsberichten en aandachtspunten verzamelt en omzet naar een overzichtelijke voorbereiding inclusief mogelijke vragen en gespreksonderwerpen.</p><h1>User case 2: Klantonderzoek en dossieranalyse</h1><p>Een agent die documenten, notities en beschikbare informatie analyseert en samenvat tot risico's, kansen, openstaande vragen en aanbevolen vervolgstappen.</p><h1>User case 3: Rapportages en managementinformatie</h1><p>Een agent die input uit verslagen, notities of analyses omzet naar een eerste concept voor een rapportage, adviesmemo of managementupdate.</p><h1>Leerdoelen</h1><p>Na deze training kun je:<br/>- Microsoft Copilot Agents doelgericht inzetten voor terugkerende werkzaamheden.<br/>- Zelf een agent ontwerpen, bouwen en testen voor een taak uit jouw dagelijkse praktijk.<br/>- Klantonderzoeken, gesprekken, rapportages en analyses efficiënter voorbereiden.<br/>- De kwaliteit en consistentie van output verbeteren door betere instructies en context.<br/>- Een agent beheren, onderhouden en verder ontwikkelen.<br/>- Nieuwe kansen herkennen om agents in te zetten binnen jouw team of organisatie.<br/>-</p><h1>Doelgroep</h1><p>Deze training is bedoeld voor professionals die al enige ervaring hebben met AI en nu een stap verder willen zetten met agents in Microsoft Copilot.</p><p>De training is bijzonder relevant voor professionals in de financiële dienstverlening, zakelijke dienstverlening en sales. Denk aan adviseurs, accountmanagers, relatiemanagers, consultants, bankers, accountants en andere kennisprofessionals die slimmer willen omgaan met terugkerende werkzaamheden.</p><h1>Resultaat</h1><p>Na afloop beschik je over een werkende agent in Copilot voor een eigen praktische use case. Daarnaast weet je hoe je agents afbakent, opbouwt, test en verbetert, zodat je later zelfstandig nieuwe agents kunt ontwikkelen voor andere werkzaamheden.</p><h1>Goed om te weten</h1><p>Enige ervaring met AI en het schrijven van prompts is gewenst, maar je hoeft zeker geen expert te zijn. Deze training gaat een stap verder dan prompten: je leert zelf AI-agents ontwerpen, testen en verbeteren voor terugkerende taken en werkprocessen.<br/>Om het maximale uit de training te halen, werk je tussen de sessies door ongeveer één uur per week aan opdrachten en het verder verbeteren van je agent.<br/>Wil je tijdens en na de training in je eigen Microsoft-omgeving agents bouwen? Controleer dan vooraf bij je IT- of Microsoft 365-beheerder of je toegang hebt tot Copilot Studio of Agent Builder en over de juiste autorisaties beschikt. Vraag deze toegang bij voorkeur vóór de start van de training aan.<br/>Heb je geen toegang of nog niet de juiste licentie of autorisatie? Geen probleem. Tafelgasten heeft speciaal voor deze training een afgeschermde testomgeving ingericht. Tijdens de training kun je hierin zelf agents bouwen en testen. Je kunt dus altijd volledig deelnemen aan de training.</p><h1>Certificaat</h1><p>Na afloop van deze training ontvang je een persoonlijk certificaat van deelname. Een waardevolle erkenning van de kennis en vaardigheden die je tijdens de training hebt ontwikkeld en een mooie aanvulling op je professionele portfolio. Het certificaat laat zien dat je Microsoft Copilot en AI-assistenten veilig, verantwoord en effectief kunt inzetten om terugkerende werkzaamheden te ondersteunen en te automatiseren. Daarmee draagt deze training bij aan de AI-geletterdheid (AI Literacy) van professionals, zoals bedoeld in de Europese AI Act.</p>]]></Description>
     
     <Language>nl</Language>
     <Price>525</Price>
@@ -3853,43 +3853,6 @@
               <Name lang="nl"><![CDATA[Sessie 3]]></Name>
               <StartTime>09:00</StartTime>
               <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-        <StartingDatePlace>
-          <ID>recBV6rKvOagXnq6P</ID>
-          <Startdate>2026-09-21</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-10-05</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>true</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recBV6rKvOagXnq6P-dag1</ID>
-              <Date>2026-09-21</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recBV6rKvOagXnq6P-dag2</ID>
-              <Date>2026-09-28</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recBV6rKvOagXnq6P-dag3</ID>
-              <Date>2026-10-05</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
               <Place>Online</Place>
             </CourseDay>
           </Schedule>
