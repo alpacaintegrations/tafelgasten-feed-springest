@@ -31,7 +31,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>10</AvailableSeats>
+          <AvailableSeats>9</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recJpE2Pk1YCVc55q-dag1</ID>
@@ -68,7 +68,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>11</AvailableSeats>
+          <AvailableSeats>10</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recKihcyWFJvizwLK-dag1</ID>
@@ -179,7 +179,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>true</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>4</AvailableSeats>
+          <AvailableSeats>3</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>rectHwWqlytHIbQZh-dag1</ID>
@@ -1059,7 +1059,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>9</AvailableSeats>
+          <AvailableSeats>10</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recl1Lf33RdRtmicB-dag1</ID>
@@ -1080,6 +1080,80 @@
             <CourseDay>
               <ID>recl1Lf33RdRtmicB-dag3</ID>
               <Date>2026-11-25</Date>
+              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+          </Schedule>
+        </StartingDatePlace>
+        <StartingDatePlace>
+          <ID>recfTqeiRjPqe5kUt</ID>
+          <Startdate>2027-01-20</Startdate>
+          <Place>Online</Place>
+          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
+          <Enddate>2027-02-03</Enddate>
+          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
+          <StartGuaranteed>false</StartGuaranteed>
+          <MaxNumberOfSeats>12</MaxNumberOfSeats>
+          <AvailableSeats>12</AvailableSeats>
+          <Schedule>
+            <CourseDay>
+              <ID>recfTqeiRjPqe5kUt-dag1</ID>
+              <Date>2027-01-20</Date>
+              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recfTqeiRjPqe5kUt-dag2</ID>
+              <Date>2027-01-27</Date>
+              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recfTqeiRjPqe5kUt-dag3</ID>
+              <Date>2027-02-03</Date>
+              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+          </Schedule>
+        </StartingDatePlace>
+        <StartingDatePlace>
+          <ID>recpToNqhxHQ8bf7J</ID>
+          <Startdate>2027-03-17</Startdate>
+          <Place>Online</Place>
+          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
+          <Enddate>2027-03-31</Enddate>
+          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
+          <StartGuaranteed>false</StartGuaranteed>
+          <MaxNumberOfSeats>12</MaxNumberOfSeats>
+          <AvailableSeats>12</AvailableSeats>
+          <Schedule>
+            <CourseDay>
+              <ID>recpToNqhxHQ8bf7J-dag1</ID>
+              <Date>2027-03-17</Date>
+              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recpToNqhxHQ8bf7J-dag2</ID>
+              <Date>2027-03-24</Date>
+              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recpToNqhxHQ8bf7J-dag3</ID>
+              <Date>2027-03-31</Date>
               <Name lang="nl"><![CDATA[Sessie 3]]></Name>
               <StartTime>09:00</StartTime>
               <EndTime>10:30</EndTime>
@@ -1191,7 +1265,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>true</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>7</AvailableSeats>
+          <AvailableSeats>6</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>rec3LiRWZzG3wfiIs-dag1</ID>
@@ -2007,6 +2081,43 @@
           </Schedule>
         </StartingDatePlace>
         <StartingDatePlace>
+          <ID>recu7oOeZsJR32t6V</ID>
+          <Startdate>2027-01-21</Startdate>
+          <Place>Online</Place>
+          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
+          <Enddate>2027-02-04</Enddate>
+          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
+          <StartGuaranteed>false</StartGuaranteed>
+          <MaxNumberOfSeats>12</MaxNumberOfSeats>
+          <AvailableSeats>11</AvailableSeats>
+          <Schedule>
+            <CourseDay>
+              <ID>recu7oOeZsJR32t6V-dag1</ID>
+              <Date>2027-01-21</Date>
+              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
+              <StartTime>15:30</StartTime>
+              <EndTime>17:00</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recu7oOeZsJR32t6V-dag2</ID>
+              <Date>2027-01-28</Date>
+              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
+              <StartTime>15:30</StartTime>
+              <EndTime>17:00</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recu7oOeZsJR32t6V-dag3</ID>
+              <Date>2027-02-04</Date>
+              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
+              <StartTime>15:30</StartTime>
+              <EndTime>17:00</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+          </Schedule>
+        </StartingDatePlace>
+        <StartingDatePlace>
           <ID>recF4mzjlguQ1l1IL</ID>
           <Startdate>2027-03-09</Startdate>
           <Place>Online</Place>
@@ -2073,43 +2184,6 @@
             <CourseDay>
               <ID>recfNxe4b25P9kGtk-dag3</ID>
               <Date>2027-06-10</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>15:30</StartTime>
-              <EndTime>17:00</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-        <StartingDatePlace>
-          <ID>recu7oOeZsJR32t6V</ID>
-          <Startdate>2027-01-21</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2027-02-04</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recu7oOeZsJR32t6V-dag1</ID>
-              <Date>2027-01-21</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>15:30</StartTime>
-              <EndTime>17:00</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recu7oOeZsJR32t6V-dag2</ID>
-              <Date>2027-01-28</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>15:30</StartTime>
-              <EndTime>17:00</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recu7oOeZsJR32t6V-dag3</ID>
-              <Date>2027-02-04</Date>
               <Name lang="nl"><![CDATA[Sessie 3]]></Name>
               <StartTime>15:30</StartTime>
               <EndTime>17:00</EndTime>
@@ -3369,7 +3443,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>10</AvailableSeats>
+          <AvailableSeats>9</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recKNnX5k35xeafVd-dag1</ID>
