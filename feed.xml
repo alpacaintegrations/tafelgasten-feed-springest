@@ -68,7 +68,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>10</AvailableSeats>
+          <AvailableSeats>9</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recKihcyWFJvizwLK-dag1</ID>
@@ -911,43 +911,6 @@
           </Schedule>
         </StartingDatePlace>
         <StartingDatePlace>
-          <ID>recVr9F3W4DjYhwf1</ID>
-          <Startdate>2026-10-26</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-11-09</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>true</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>9</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recVr9F3W4DjYhwf1-dag1</ID>
-              <Date>2026-10-26</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recVr9F3W4DjYhwf1-dag2</ID>
-              <Date>2026-11-02</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recVr9F3W4DjYhwf1-dag3</ID>
-              <Date>2026-11-09</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-        <StartingDatePlace>
           <ID>rec8mE8PKpJXDsL1p</ID>
           <Startdate>2027-01-11</Startdate>
           <Place>Online</Place>
@@ -977,6 +940,43 @@
             <CourseDay>
               <ID>rec8mE8PKpJXDsL1p-dag3</ID>
               <Date>2027-01-25</Date>
+              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+          </Schedule>
+        </StartingDatePlace>
+        <StartingDatePlace>
+          <ID>recVr9F3W4DjYhwf1</ID>
+          <Startdate>2026-10-26</Startdate>
+          <Place>Online</Place>
+          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
+          <Enddate>2026-11-09</Enddate>
+          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
+          <StartGuaranteed>true</StartGuaranteed>
+          <MaxNumberOfSeats>12</MaxNumberOfSeats>
+          <AvailableSeats>12</AvailableSeats>
+          <Schedule>
+            <CourseDay>
+              <ID>recVr9F3W4DjYhwf1-dag1</ID>
+              <Date>2026-10-26</Date>
+              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recVr9F3W4DjYhwf1-dag2</ID>
+              <Date>2026-11-02</Date>
+              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
+              <StartTime>09:00</StartTime>
+              <EndTime>10:30</EndTime>
+              <Place>Online</Place>
+            </CourseDay>
+            <CourseDay>
+              <ID>recVr9F3W4DjYhwf1-dag3</ID>
+              <Date>2026-11-09</Date>
               <Name lang="nl"><![CDATA[Sessie 3]]></Name>
               <StartTime>09:00</StartTime>
               <EndTime>10:30</EndTime>
@@ -3057,7 +3057,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>true</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>8</AvailableSeats>
+          <AvailableSeats>7</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recKFlSfZs69sW8ce-dag1</ID>
@@ -3205,7 +3205,7 @@
   </Product>
   <Product>
     <ID>PP-007-sp</ID>
-    <Name>Persoonlijk Leiderschap | Ontdek en ontgrendel je verborgen potentieel</Name>
+    <Name>Persoonlijk Leiderschap | Ontdek je kracht en neem de regie</Name>
     <Description><![CDATA[<h1>Introductie</h1><p>Iedereen beschikt over unieke kwaliteiten en een innerlijke drijfveer. Toch is het in de drukte van alledag soms lastig om koers te houden of invloed uit te oefenen op hoe je je tijd en energie besteedt. Deze training helpt je om bewuster te leven en te werken, met meer rust, richting en resultaat.</p><p>Je krijgt zicht op wat jou drijft, leert hoe je beter omgaat met jouw energie en hoe je gericht veranderingen aanbrengt in je gedrag. Alles wat je leert is praktisch toepasbaar en sluit aan op jouw dagelijkse realiteit – zodat je er meteen mee aan de slag kunt.</p><h1>Sessie 1: Energie Slim Managen</h1><p>In de eerste sessie krijg je inzicht in hoe jij omgaat met je energie en wat je nodig hebt om goed te functioneren – zowel op het werk als privé. Je ontdekt hoe jouw natuurlijke energieritme werkt, en leert hoe je hier bewuster en slimmer gebruik van kunt maken. Je onderzoekt hoe jij momenteel presteert, herstelt en oplaadt, en hoe je hierin meer balans kunt creëren.</p><p>Daarnaast ga je aan de slag met eenvoudige maar krachtige technieken zoals microbreaks, ademhaling en tiny habits, die je helpen om je focus te versterken en stress eerder te herkennen. Het resultaat is dat je minder op de automatische piloot werkt en meer ruimte ervaart voor wat voor jou écht belangrijk is. De handvatten die je krijgt, kun je direct toepassen in je dagelijkse praktijk.</p><h1>Sessie 2: Leef en Werk vanuit je Waarden</h1><p>In deze sessie zoom je in op jouw persoonlijke waarden: wat drijft jou, waar sta je voor, en hoe maak je keuzes die echt bij jou passen? Je ontdekt welke waarden voor jou centraal staan en hoe je die als innerlijk kompas kunt gebruiken – juist ook in situaties waarin je onder druk staat of twijfelt.</p><p>Je leert hoe je sneller en met meer overtuiging beslissingen neemt, omdat je weet wat voor jou belangrijk is. Daarnaast krijg je praktische handvatten aangereikt om deze waarden te vertalen naar concreet gedrag – zodat ze niet alleen helder zijn, maar ook zichtbaar worden in hoe je leeft en werkt. Dit geeft richting, rust en vergroot je overtuigingskracht.</p><h1>Sessie 3: Neem het Stuur in Handen</h1><p>In de derde sessie breng je alles samen en werk je toe naar duurzame verandering. Je kijkt naar patronen die jou mogelijk belemmeren en onderzoekt waar je nog op de automatische piloot handelt. Je ontdekt welke gewoontes je wilt doorbreken en wat je nodig hebt om daar gericht stappen in te zetten.</p><p>Met behulp van praktische tools en gedragstriggers, ontwikkel je een persoonlijk actieplan waarmee je zelf het stuur in handen neemt. Je leert hoe je van inzicht naar actie komt, zodat je met kleine, haalbare stappen een groot verschil kunt maken. Na deze sessie weet je precies waar je mee aan de slag gaat en hoe je dit in de praktijk gaat volhouden.</p><h1>Leerdoelen</h1><ul><li>Heb je inzicht in hoe je je energie slim beheert.</li><li>Weet je wat jouw persoonlijke waarden zijn en hoe je daar dagelijks naar kunt handelen.</li><li>Kun je beter omgaan met stress, afleiding en keuzestress.</li><li>Weet je hoe je oude patronen doorbreekt en nieuw gedrag ontwikkelt.</li><li>Heb je een concreet actieplan om je persoonlijke leiderschap verder vorm te geven.</li><li>Beschik je over praktische technieken die je direct kunt inzetten – elke dag opnieuw.</li></ul><h1>Doelgroep</h1><p>Deze training past bij jou als je:<br/>- Meer grip wilt krijgen op je energie, keuzes en gedrag<br/>- Praktische tools wilt om je persoonlijke leiderschap te versterken<br/>- Meer rust, richting en resultaat wilt ervaren<br/>- Wil handelen vanuit je waarden en bewuster wilt sturen op wat voor jou telt<br/>- Op zoek bent naar een training die direct toepasbaar is in je dagelijks leven</p><h1>Opzet van dit programma</h1><p>Deze training bestaat uit 3 interactieve online sessies van 1,5 uur via Teams. Je leert van een ervaren trainer en je werkt samen met andere deelnemers in breakout rooms aan korte opdrachten. Zo leer je ook van elkaar.</p><h1>Certificaat</h1><p>Rond je deze training succesvol af, dan ontvang je een persoonlijk certificaat van deelname. Een waardevolle erkenning van de kennis en vaardigheden die je tijdens de training hebt ontwikkeld en een mooie aanvulling op je professionele portfolio.</p>]]></Description>
     
     <Language>nl</Language>
