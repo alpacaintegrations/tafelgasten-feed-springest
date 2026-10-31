@@ -1227,43 +1227,6 @@
     <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
-        <StartingDatePlace>
-          <ID>recoFChoNPvjInY1s</ID>
-          <Startdate>2026-11-10</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-11-24</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recoFChoNPvjInY1s-dag1</ID>
-              <Date>2026-11-10</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recoFChoNPvjInY1s-dag2</ID>
-              <Date>2026-11-17</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recoFChoNPvjInY1s-dag3</ID>
-              <Date>2026-11-24</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
     </StartingDatePlaces>
     <Trainers>
       <Trainer>
@@ -3020,7 +2983,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
+          <AvailableSeats>11</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recFNE1CdyUkUKiZO-dag1</ID>
