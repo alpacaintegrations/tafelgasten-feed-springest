@@ -105,7 +105,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>true</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>4</AvailableSeats>
+          <AvailableSeats>3</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recKihcyWFJvizwLK-dag1</ID>
@@ -430,7 +430,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
+          <AvailableSeats>10</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recgYb9w7nYhxYc1z-dag1</ID>
@@ -842,43 +842,6 @@
           </Schedule>
         </StartingDatePlace>
         <StartingDatePlace>
-          <ID>rec6gTnu3XKhsGzHd</ID>
-          <Startdate>2026-11-10</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-11-24</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>true</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>7</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>rec6gTnu3XKhsGzHd-dag1</ID>
-              <Date>2026-11-10</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>rec6gTnu3XKhsGzHd-dag2</ID>
-              <Date>2026-11-17</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>rec6gTnu3XKhsGzHd-dag3</ID>
-              <Date>2026-11-24</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>15:00</StartTime>
-              <EndTime>16:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-        <StartingDatePlace>
           <ID>recKqQuoqxymturBx</ID>
           <Startdate>2027-03-11</Startdate>
           <Place>Online</Place>
@@ -911,43 +874,6 @@
               <Name lang="nl"><![CDATA[Sessie 3]]></Name>
               <StartTime>15:30</StartTime>
               <EndTime>17:00</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
-        <StartingDatePlace>
-          <ID>recXOHvdHP2uR6DS7</ID>
-          <Startdate>2026-11-10</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-11-24</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>true</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>2</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>recXOHvdHP2uR6DS7-dag1</ID>
-              <Date>2026-11-10</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recXOHvdHP2uR6DS7-dag2</ID>
-              <Date>2026-11-17</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>recXOHvdHP2uR6DS7-dag3</ID>
-              <Date>2026-11-24</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>09:00</StartTime>
-              <EndTime>10:30</EndTime>
               <Place>Online</Place>
             </CourseDay>
           </Schedule>
@@ -1030,7 +956,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>12</AvailableSeats>
+          <AvailableSeats>11</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>rec8mE8PKpJXDsL1p-dag1</ID>
@@ -1276,35 +1202,6 @@
     <Trainers>
       <Trainer>
         <Email>trixvanhest@gmail.com</Email>
-      </Trainer>
-    </Trainers>
-  </Product>
-  <Product>
-    <ID>PP-028-sp</ID>
-    <Name>Oplossingsgericht werken (OGW) | Van probleem naar oplossing</Name>
-    <Description><![CDATA[<h1>Introductie</h1><p>In deze training maak je kennis met de essentie van Oplossingsgericht Werken (OGW). Je ontdekt hoe je met een positieve basishouding en praktische gesprekstechnieken meer energie, perspectief en samenwerking creëert – zonder te blijven hangen in problemen. Door korte theorieblokken, interactieve oefeningen en directe toepassing op je eigen praktijk ontwikkel je een manier van werken die laagdrempelig, krachtig en duurzaam is.</p><h1>Sessie 1: De oplossingsgerichte mindset</h1><p>In deze sessie maak je kennis met de oorsprong en principes van Oplossingsgericht Werken en ontdek je de belangrijkste verschillen met NLP. Je ontwikkelt de basishouding van OGW: niet-weten, leading from one step behind en niet-oordelend luisteren. Aan de hand van twee interactieve oefeningen ervaar je hoe deze houding werkt in gesprek met anderen. Als thuisopdracht observeer je een situatie waarin je deze OGW-houding toepast.</p><h1>Sessie 2: Gesprekstechnieken in OGW</h1><p>We starten met het delen van ervaringen uit de thuisopdracht. Daarna verdiep je je in de belangrijkste OGW-technieken: de schaalvraag, de wondervraag en het werken met uitzonderingen en copingvragen. Door interactieve oefeningen ontdek je hoe deze technieken direct voor meer perspectief en energie in gesprekken zorgen. Je sluit af met een thuisopdracht: pas één techniek toe in een echt gesprek en noteer je ervaring.</p><h1>Sessie 3: OGW in de praktijk</h1><p>In de laatste sessie staat toepassing centraal. Je onderzoekt hoe OGW werkt in verschillende contexten: werk, coaching, team en privé. In duo's werk je met het BEGIN-model aan je eigen casus en tijdens een rollenspel breng je OGW live in actie, met feedback van de groep en trainer. Tot slot reflecteer je samen: hoe ga jij OGW toepassen na deze training?</p><h1>Onderwerpen</h1><p>Sessie 1: De oplossingsgerichte Mindset<br/>- De OGW-basishouding: Niet-weten, Leading from one step behind, Niet-oordelend luisteren<br/>- Twee interactieve oefeningen<br/>- Thuisopdracht: observeer een situatie waarin je OGW-houding toepast</p><p>Sessie 2: Gesprekstechnieken in OGW<br/>- OGW-gesprekstechnieken: De schaalvraag, De wondervraag, Uitzonderingen en copingvragen<br/>- Twee interactieve oefeningen<br/>- Thuisopdracht: pas één techniek toe in een echt gesprek en noteer je ervaring</p><p>Sessie 3: OGW in de praktijk<br/>- OGW in verschillende contexten: werk, coaching, team, privé<br/>- BEGIN-model – eigen casus uitwerken in duo’s<br/>- OGW in actie – rollenspel met feedback<br/>- OGW toepassen na deze training?</p><h1>Leerdoelen</h1><ul><li>Kun je de vijf grondregels van oplossingsgericht werken verwoorden</li><li>Heb je geoefend met het consequent toepassen van deze grondregels in de praktijk</li><li>Weet je hoe je schaal‑, wonder‑, uitzonderings‑ en coping vragen kunt formuleren en variëren, afgestemd op verschillende doelgroepen.</li><li>Kun je gesprekken structureren met behulp van het BEGIN‑model</li><li>Beschik je over een persoonlijk actieplan om ten minste één OGW‑techniek binnen twee weken te implementeren in werk‑ of privésituaties.</li></ul><h1>Doelgroep</h1><p>Deze training is geschikt professionals met interesse in het verbeteren van hun communicatievaardigheden en persoonlijke ontwikkeling.</p><h1>Opzet van dit programma</h1><p>Deze training bestaat uit 3 interactieve online sessies van 1,5 uur via Teams. Je leert van een ervaren NLP-trainer en je werkt samen met andere deelnemers in breakout rooms aan korte opdrachten en casussen. Zo leer je ook van elkaar.</p><h1>Certificaat</h1><p>Rond je deze training succesvol af, dan ontvang je een persoonlijk certificaat van deelname. Een waardevolle erkenning van de kennis en vaardigheden die je tijdens de training hebt ontwikkeld en een mooie aanvulling op je professionele portfolio.</p>]]></Description>
-    
-    <Language>nl</Language>
-    <Price>525</Price>
-    <VatIncluded>no</VatIncluded>
-    <VatAmount>110.25</VatAmount>
-    <PricePeriod>all</PricePeriod>
-    <PriceComplete>true</PriceComplete>
-    <CourseType>training</CourseType>
-    <Duration>3</Duration>
-    <DurationUnit>weeks</DurationUnit>
-    <Studyload>4.5</Studyload>
-    <StudyloadUnit>hours</StudyloadUnit>
-    <Completion>Certificaat</Completion>
-    <MaxParticipants>12</MaxParticipants>
-    <WebAddress>https://tafelgasten.com/online-trainingen/oplossingsgericht-werken-ogw-van-probleem-naar-oplossing/</WebAddress>
-    <ProductType>classroom</ProductType>
-    <Level>HBO</Level>
-    <StartingDatePlaces>
-    </StartingDatePlaces>
-    <Trainers>
-      <Trainer>
-        <Email>rene@vanstein.nl</Email>
       </Trainer>
     </Trainers>
   </Product>
@@ -1948,43 +1845,6 @@
     <ProductType>classroom</ProductType>
     <Level>HBO</Level>
     <StartingDatePlaces>
-        <StartingDatePlace>
-          <ID>rec9msShKL9vNOyz9</ID>
-          <Startdate>2026-11-10</Startdate>
-          <Place>Online</Place>
-          <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
-          <Enddate>2026-11-24</Enddate>
-          <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
-          <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>11</AvailableSeats>
-          <Schedule>
-            <CourseDay>
-              <ID>rec9msShKL9vNOyz9-dag1</ID>
-              <Date>2026-11-10</Date>
-              <Name lang="nl"><![CDATA[Sessie 1]]></Name>
-              <StartTime>13:00</StartTime>
-              <EndTime>14:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>rec9msShKL9vNOyz9-dag2</ID>
-              <Date>2026-11-17</Date>
-              <Name lang="nl"><![CDATA[Sessie 2]]></Name>
-              <StartTime>13:00</StartTime>
-              <EndTime>14:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-            <CourseDay>
-              <ID>rec9msShKL9vNOyz9-dag3</ID>
-              <Date>2026-11-24</Date>
-              <Name lang="nl"><![CDATA[Sessie 3]]></Name>
-              <StartTime>13:00</StartTime>
-              <EndTime>14:30</EndTime>
-              <Place>Online</Place>
-            </CourseDay>
-          </Schedule>
-        </StartingDatePlace>
         <StartingDatePlace>
           <ID>receSmmYHHyVQhciI</ID>
           <Startdate>2027-03-09</Startdate>
@@ -3086,7 +2946,7 @@
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
           <StartGuaranteed>false</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>11</AvailableSeats>
+          <AvailableSeats>10</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recFNE1CdyUkUKiZO-dag1</ID>
@@ -3713,9 +3573,9 @@
           <StartdateIsMonthOnly>false</StartdateIsMonthOnly>
           <Enddate>2027-02-01</Enddate>
           <EnddateIsMonthOnly>false</EnddateIsMonthOnly>
-          <StartGuaranteed>false</StartGuaranteed>
+          <StartGuaranteed>true</StartGuaranteed>
           <MaxNumberOfSeats>12</MaxNumberOfSeats>
-          <AvailableSeats>9</AvailableSeats>
+          <AvailableSeats>8</AvailableSeats>
           <Schedule>
             <CourseDay>
               <ID>recrroaX4NGOG7bCn-dag1</ID>
